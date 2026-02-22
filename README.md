@@ -13,7 +13,35 @@
 3. **Share the Link**: 傳播此 GitHub 連結，繞過搜尋引擎的審查。
 
 ---
+## 🔬 Academic Abstract (Preprint Version)
 
+**Title:** Social Sepsis and the ID-Lottery: A Stochastic Prescription for Restoring Socio-Political Homeostasis
+**Lead Researcher:** Hsu Tsuan-Jung, M.S. Pharm (China Medical University, Taiwan)
+**Correspondence:** u107207006@cmu.edu.tw
+
+**[Objective]**
+Contemporary representative democracies are suffering from "Systemic Social Sepsis"—a chronic inflammatory state caused by partisan polarization and "Financial Thrombosis" (the blockage of public interest by corporate donations). This research proposes a fundamental repair of power logic through a randomized selection protocol.
+
+**[Methodology: The ID-Lottery]**
+We apply the "Gold Standard" of medical research—Randomized Controlled Trial (RCT) logic—to governance. By utilizing a decentralized, open-source stochastic algorithm, 113 governing representatives are selected from an eligible Digital ID pool. This "Stochastic Infusion" is designed to eliminate the "Viral Replication" of partisan interest groups and neutralize lobbying attachment sites.
+
+**[Expected Outcomes]**
+1. **Systemic Detoxification:** Eradicating power monopolies by making the targets of bribery unpredictable.
+2. **Restoration of Homeostasis:** Removing re-election pressure allows decision-makers to focus on long-term "Happiness Indicators" and biological survival.
+3. **Professional Efficacy:** Utilizing "ID-Flow" for the dynamic delegation of authority to honest experts under transparent public oversight.
+
+**[Conclusion]**
+The ID-Lottery is a preventive medicine for civilizational survival, replacing "Financial Thrombosis" with "Stochastic Purity" to restore social homeostasis.
+
+---
+
+## 🚩 守護真相的緊急行動 (Emergency Action)
+這項計畫旨在終止政黨分贓與財閥壟斷。為防止利益團體利用演算法屏蔽真相，請執行：
+1. **Fork this Repository**: 點擊右上角 "Fork" 按鈕進行去中心化備份。
+2. **Download & Print**: 下載 PDF 或列印紙本。
+3. **Spread the Truth**: 傳播此 GitHub 連結，對抗演算法審查。
+
+---
 ## 📄 母法宣言全文 (Multilingual Manifesto)
 
 📜 2026 全球治理母法宣言：ID-Lottery 社會解毒計畫
