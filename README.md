@@ -56,6 +56,22 @@ We are looking for global partners in:
 © 2026 Hsu Tsuan-Jung (Master Mo Li). Open-source under the Human Welfare Public License.
 
 ---
+
+## 🏛️ About the Founder: Clinical Insight & Human Resilience
+
+**Hsu Tsuan-Jung (Master Mo Li)** is not your typical political theorist. With a Master’s degree in **Pharmaceutics** (China Medical University) and a deep background in **Clinical Medicine** (Chengdu University of TCM), he approaches social governance as a **Clinical Practitioner**.
+
+Working on the front lines as a professional caregiver and massage therapist, he has spent decades touching the "pressure points" of society. He has seen the fragility of life in hospital wards and the exhaustion of the working class on his massage table. 
+
+**His Philosophy:**
+- **Social Stasis is Disease:** Just as a thrombus blocks blood flow, partisan politics blocks social resources. 
+- **The Longevity Mindset:** By maintaining his own health and vitality into his 60s and beyond, he proves that **"Flow is Life."** He aims for a healthy 150-year lifespan, fueled by the mission to see the **ID Lottery** heal the world.
+
+"I use my hands to heal the body, my music to heal the soul, and my algorithm (ID Lottery) to heal the nation."
+
+---
+
+---
 ## 📜 Original Manifesto & Historical Context (原始宣言與歷史背景)
 > 以下為 ID Lottery 計畫的原始文獻與發展歷程，保留以供深度研究。
 ---
