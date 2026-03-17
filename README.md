@@ -55,6 +55,11 @@ We are looking for global partners in:
 ---
 © 2026 Hsu Tsuan-Jung (Master Mo Li). Open-source under the Human Welfare Public License.
 
+---
+## 📜 Original Manifesto & Historical Context (原始宣言與歷史背景)
+> 以下為 ID Lottery 計畫的原始文獻與發展歷程，保留以供深度研究。
+---
+
 # 🏛️ 【The Three Architects of Contemporary Civilization】
 ## —— 當代人類文明：三大領域教父定調表 ——
 
