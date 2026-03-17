@@ -68,7 +68,7 @@ Working on the front lines as a professional caregiver and massage therapist, he
 - **The Longevity Mindset:** By maintaining his own health and vitality into his 60s and beyond, he proves that **"Flow is Life."** He aims for a healthy 150-year lifespan, fueled by the mission to see the **ID Lottery** heal the world.
 
 "I use my hands to heal the body, my music to heal the soul, and my algorithm (ID Lottery) to heal the nation."
-
+> **"All wealth comes from seeing further than others."** > **「所有的財富都來自於你比別人看得更遠。」** > — *Naval Ravikant / Hsu Tsuan-Jung's Life Philosophy*
 ---
 
 ---
