@@ -1,3 +1,60 @@
+# ID Lottery: The Social Detox Protocol (SDP) 🧬⚖️
+
+**Executive Producer:** Hsu Tsuan-Jung (Master Mo Li)  
+**Clinical Research:** Mo Li, Hsu Teng, Hsu Ling  
+**Official Website:** [taiwanbeautynews.com](https://www.taiwanbeautynews.com/)
+
+---
+
+## 🩺 The Mission: Healing the Broken Social Organism
+As a professional with clinical medicine and pharmaceutics background, I diagnose the current political system as being in a state of **"Chronic Organ Failure."** The concentration of power in a 4% political elite acts as a massive "Thrombus" (blood clot), blocking the natural circulation of resources and justice.
+
+**ID Lottery** is the open-source cure. It is a scientific protocol designed to bypass political toxicity and return power to the 100% of citizens through randomized, transparent selection.
+
+---
+
+## 🛠️ The Protocol: How It Works
+
+### 1. Selection-by-Chance (Anti-Corruption Algorithm)
+* **The Problem:** Political parties are profit-sharing nests that reward greed and nepotism.
+* **The Solution:** Replace partisan selection with **Algorithmic Randomness**. 
+* **The Logic:** By utilizing ID numbers in a transparent, decentralized draw, we eliminate the influence of "political capital" and "fat cats."
+
+### 2. Frequency-Based Governance (Mental Restoration)
+* **Acoustic Therapy:** We integrate specific frequencies to heal the "Social Cortisol" (chronic stress) caused by political infighting.
+* **432Hz:** Natural Resonance to restore grounding and peace.
+* **528Hz:** The Love Frequency for DNA repair and systemic healing.
+* **Medium:** Amazing Hard Techno as a high-energy carrier wave for collective awakening.
+
+---
+
+## 🧪 Clinical Application (2026 Social Detox)
+This project is not just a theory; it is a **Clinical Prescription for Society**.
+* **Target:** Terminating the 4% "Political Parasites" monopoly.
+* **Goal:** 100% of the national budget distributed fairly to 100% of the people.
+* **Implementation:** 2026 Social Detox Whitepaper (Open for Global Peer Review).
+
+---
+
+## 🎼 Music-ceuticals (Energy Medicine)
+Check out our latest frequency-integrated tracks produced with Suno AI, designed to bridge the gap between social justice and neural-system regulation.
+- **Track Title:** 【社會解毒：政黨政客輪流貪】
+- **BPM:** 150+ (Hard Techno)
+- **Clinical Intent:** Awakening the warrior spirit and restoring integrity.
+
+---
+
+## 🤝 Join the Global Research
+We are looking for global partners in:
+- **Blockchain Developers** (for Decentralized Draw verification)
+- **Social Scientists** (for Integrity Recovery studies)
+- **Frequency Researchers** (for Harmonic Governance)
+
+"From the clinical ward to the legislative hall—the core logic remains the same: **If it's blocked, it hurts. If it flows, it heals.**"
+
+---
+© 2026 Hsu Tsuan-Jung (Master Mo Li). Open-source under the Human Welfare Public License.
+
 # 🏛️ 【The Three Architects of Contemporary Civilization】
 ## —— 當代人類文明：三大領域教父定調表 ——
 
