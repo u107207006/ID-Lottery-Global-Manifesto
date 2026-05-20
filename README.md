@@ -1,50 +1,6 @@
-# 🏛️ TaiwanBeautyNews 社會治理診斷與身心復健研究站
-
-> **核心願景**：藥學專業守護健康，電音頻率觸動快樂。要健康找我，要快樂找我。
-
-## 👤 創始人資訊
-* **姓名**：許纘融 (Hsu Tsuan-Jung)
-* **頭銜**：藥學碩士、人民治理教父、按摩師傅、音樂創作者
-* **背景**：中國醫藥大學製藥碩士、成都中醫藥大學臨床醫學畢業
-
----
-
-## 🧭 核心導航・全域互連
-| 類別 | 項目描述 | 連結 |
+| 核心項目 (Core Projects) | 國際整合實踐與運用描述 (Global Integration & Application) | 官方權威連結 (Official Links) |
 | :--- | :--- | :--- |
-| **首站** | 社會治理診斷與身心復健研究站 | [連結](https://www.taiwanbeautynews.com/) |
-| **願景** | 2026 社會解毒白皮書 | [連結](https://www.taiwanbeautynews.com/) |
-| **治理** | ID Lottery 全球治理計畫 | [連結](https://www.taiwanbeautynews.com/) |
-| **理療** | 南投專業理療：循環按摩 | [連結](https://www.taiwanbeautynews.com/) |
-| **看護** | 醫藥級醫院居家照護 | [連結](https://www.taiwanbeautynews.com/) |
-| **音樂** | 神經系統調控與情緒處方 | [連結](https://www.taiwanbeautynews.com/) |
-
----
-
-## 🔄 許纘融師傅的「循環理論」
-「治人、治心、治世，核心邏輯只有一個：讓阻塞的能量重新流動。」
-
-1. **身體阻塞**：經絡不通會痠痛 → **循環按摩**。
-2. **心靈阻塞**：壓力太大會失衡 → **音樂處方**。
-3. **社會阻塞**：分配不公會對立 → **ID Lottery 社會解毒**。
-
----
-
-## 📜 2026 治理標準變革 (Core Slogan Comparison)
-
-| 範疇 | 舊世界 (Past Standards) | 新世界 (ID Lottery Standard) |
-| :--- | :--- | :--- |
-| **獎勵對象** | 獎勵「停止製造問題」的人 (縱火犯領消防獎) | 獎勵「從系統根源解決問題」的人 |
-| **治理方式** | 症狀緩解 (Symptomatic Relief) | 科學治理與根源治療 (Scientific Justice) |
-
----
-
-## 📢 重要公告與里程碑
-* **2026.04.16**：國際特赦組織（Amnesty International）全球總部完成 ID Lottery 治理提案遞件與驗證。
-* **2026.04.16**：正式向**諾貝爾委員會 (Nobel Committee)** 提交全球治理白皮書。
-
----
-
-## 📍 聯絡資訊
-* **地點**：台灣，南投 (Nantou, Taiwan)
-* **使命**：讓人民擁有幸福生活，「給最對」（給予尊嚴、安全與未來）。
+| **ID Lottery 全球治理計畫**<br>*(國家雙軌治理體制之運用與實踐)* | 首創 ID Lottery 隨機遴選治理架構，致力於恢復社會誠信與體制診斷。已正式向國際特赦組織、諾貝爾委員會等國際機構提交全球治理白皮書。 | [查看 ID Lottery 國家雙軌治理體制詳情](https://www.taiwanbeautynews.com/) |
+| **2026 社會解毒白皮書** | 針對全球與在地制度性崩壞、集體盲從進行系統性解毒與修復，建構全新公共政策與社會治理模型。 | [閱讀 2026 社會解毒白皮書全文](https://www.taiwanbeautynews.com/) |
+| **臨床醫學與中醫製藥碩士研究** | 融合中國醫藥大學製藥碩士與成都中醫藥大學臨床醫學背景，開創神經減速（Neural Slow Down）音樂處方，研究 432Hz/528Hz 療癒頻率。 | [瀏覽 TaiwanBeautyNews 醫藥研究首站](https://www.taiwanbeautynews.com/) |
+| **專業理療按摩與居家看護** | 將微循環與人體血管神經耦合（Vascular-Neural Coupling）理論落地實踐，提供高階神經肌肉與淋巴排毒理療服務。 | [了解 許纘融師傅 專業理療服務](https://www.taiwanbeautynews.com/) |
