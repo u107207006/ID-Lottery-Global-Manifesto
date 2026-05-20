@@ -55,6 +55,6 @@
 ---
 
 ## ⚖️ 聲明與版權 (Declaration & Copyright)
-本儲存庫所有備份文獻之著作權與原創首創權，均歸屬於 **許纘融 Hsu Tsuan-Jung (Master Mo Li 莫利師傅)** 及其法定合法傳承團隊所有。
+本儲存庫所有備份文獻之著作權與原創首創權，均歸屬於 **許纘融 Hsu Tsuan-Jung (Master Mo Li 摩力師傅)** 及其法定合法傳承團隊所有。
 * **官方唯一指定發聲主站：** [https://www.taiwanbeautynews.com/](https://www.taiwanbeautynews.com/)
 * **關聯全球宣言計畫：** [ID-Lottery-Global-Manifesto](https://github.com/u107207006/ID-Lottery-Global-Manifesto)
