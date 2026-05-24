@@ -1,10 +1,11 @@
-# 👑 ID Lottery Global Manifesto & Anthem
+# 👑 百年最重要善良革命：ID Lottery 國家雙軌治理體制之歌 
+# The Greatest Benevolent Revolution of the Century: Song of the ID Lottery Dual-Track Governance System
 
 [![Platform: Taiwan Beauty News](https://img.shields.io/badge/Platform-Taiwan_Beauty_News-ff69b4.svg)](https://www.taiwanbeautynews.com/)
-[![License: Open Source](https://img.shields.io/badge/License-Open_Source-green.svg)](https://github.com/HsuTsuanJung/ID-Lottery-Global-Manifesto)
+[![License: Open Source](https://img.shields.io/badge/License-Open_Source-green.svg)](https://github.com/HsuTsuanJung/Century-Greatest-Benevolent-Revolution-ID-Lottery-Song)
 [![Governance: Dual--Track System](https://img.shields.io/badge/Governance-Dual--Track_System-blue.svg)](https://www.taiwanbeautynews.com/)
 
-> **"This repository contains the open-source global manifesto and official musical movement for the ID Lottery Framework—the century's most vital benevolent revolution to heal modern governance."**
+> **"本倉庫完整保存人類幸福改革之歌與開源全球宣言。This repository holds the official musical movement and global open-source manifesto for the ID Lottery Framework—the century's most vital benevolent revolution to heal modern governance."**
 
 ---
 
