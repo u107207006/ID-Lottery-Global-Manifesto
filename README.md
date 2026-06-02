@@ -1,5 +1,6 @@
 📜 【中英對照版】全球文明轉型宣言
 Global Declaration on Civilizational Transformation
+
 創辦人：許纘融 (Hsu Tsuan-Jung / Hsu Dzwan-Rong)
 
 ID Lottery 國家雙軌治理體制 創辦人 / Founder of the ID Lottery Dual-Track Governance Framework
