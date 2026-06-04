@@ -1,7 +1,7 @@
 # 創始人臨床備忘錄 (Founder's Clinical Ledger)
 
 <div align="center">
-  <!-- 您的口琴照片可以放置於此 -->
+  <img src="1-許纘融Hsu Tsuan-Jung.png" alt="ID Lottery 創始人許纘融" width="450"/>
   
   ### **「我健康 我快樂，心靈自由。」**
   ### **"Healthy Body, Happy Mind, Free Soul."**
