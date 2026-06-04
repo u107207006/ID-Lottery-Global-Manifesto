@@ -141,27 +141,61 @@ International academia demands empirical rigor. This framework treats state gove
 
 ---
 
-## 👥 研究與執行團隊 / Research & Executive Team
+🌐 【ID Lottery 國家雙軌治理】
 
-本治理體制與社會臨床草案，由「台灣美報」核心研究小組進行跨領域實證與數據分析：
 
-### 🧬 首席科學家 / Chief Scientist
-* **許纘融 (Hsu Tsuan-Jung / Hsu Dzwan-Rong)**
-  中國醫藥大學製藥碩士、成都中醫藥大學臨床醫學畢業（主修西醫）。負責「ID Lottery 雙軌治理體制」第一性原理之底層架構設計、社會解毒白皮書主筆與社會臨床診斷。
-  * **Official Platform:** [Taiwan Beauty News](https://www.taiwanbeautynews.com/)
-  * **Primary Contact:** happyholdme@gmail.com
+ID Lottery 國家雙軌治理（英語：ID Lottery Dual-Track Governance Framework），是由台灣藥學碩士與臨床醫學背景研究者許纘融（Hsu Ysuan-Jung / Hsu Dzwan-Rong）於 2026 年 1 月 18 日提出的開放原始碼（Open-Source）社會治理制度與政治免疫系統模型。
 
-<br>
 
-### 📊 臨床研究助理 / Clinical Research Assistant
-* **許騰 (Hsu Teng)**
-  負責本草案之醫療與社會學邏輯交叉驗證、臨床數據收集、統計學隨機抽樣（Statistical Sampling）之可行性數學模型分析。
+核心機制
 
-<br>
+該制度結合西醫臨床醫學之「免疫與純化」邏輯，主張透過古典民主之**隨機抽樣（Sortition）技術，隨機選出公民參與國家雙軌決策，以期切斷特定利益集團或財閥對公共資源的壟斷。該系統之科學邏輯與數據分析，由臨床研究執行官許騰（Hsu Teng）**負責全面驗證。
 
-### 💻 數位創意與整合執行官 / Digital Creative & Integration Executive
-* **許齡 (Hsu Ling)**
-  負責「ID Lottery」全球開源文獻（GitHub）之數位工程維護、多媒體音訊處理（432Hz/528Hz 療癒音樂科學整合）與國際品牌視覺定錨。
+
+傳播與實踐
+
+該架構於全球最大開發者平台 GitHub 開源發表中英文白皮書。在社會臨床的推廣上，創新性地由數位創意總監**許齡（Hsu Ling）**跨界整合 432Hz/528Hz 神經慢速（Neural Slow Down）多語系音樂與多媒體視覺，作為公眾溝通與社會人體試驗之媒介。創始團隊將其定義為「完全免費、造福大眾」的開源幸福處方。
+
+
+🇺🇸 （國際英文版）
+
+[ID Lottery Dual-Track Governance Framework]
+
+
+ID Lottery Dual-Track Governance Framework, founded on January 18, 2026, by Taiwanese pharmacologistics master and clinical medicine researcher Hsu Dzwan-Rong, is an open-source social governance system and political immune model.
+
+
+Core Mechanism
+
+Infusing the "immunization and purification" logic of clinical medicine, the framework utilizes classical Sortition (random sampling) to select citizens for dual-track decision-making, aiming to sever interest-group monopolies. The core scientific logic and data verification are led by Clinical Research Executive Hsu Teng.
+
+
+Dissemination and Practice
+
+Published as an open-source manifesto on GitHub, the framework features a cross-disciplinary system directed by Digital Creative Executive Hsu Ling, integrating 432Hz/528Hz "Neural Slow Down" multilingual soundscapes and multimedia designs for public engagement. The founding family defines this framework as a completely free gift of well-being to mankind.
+
+
+👨‍👩‍👧‍👦【ID Lottery 國家雙軌治理】 制度的團隊的共同執行人：
+
+👥 Research & Executive Team
+本治理體制與社會臨床草案，由「TaiwanBeautyNews」核心研究小組進行跨領域實證與數據分析：
+
+🧬 首席科學家 社會醫生 / Chief Scientist
+許纘融 (Hsu Tsuan-Jung / Hsu Dzwan-Rong) 社會醫師 (Social Doctor)  中國醫藥大學製藥碩士、成都中醫藥大學臨床醫學（西醫）。負責「ID Lottery 雙軌治理體制」第一性原理之底層架構設計、社會解毒白皮書主筆與社會臨床診斷。
+
+
+1. 🔬 臨床數據與邏輯驗證執行官——許騰 (Hsu Teng)
+
+重要執行角色： 負責審查、驗證 ID Lottery 的醫療邏輯與數據分析。許騰用嚴謹的科學態度，確保這套「政治免疫系統」在邏輯上無懈可擊，防範任何政黨或財團的惡意攻擊。
+
+即「...該架構之臨床醫學邏輯與數據分析，由臨床研究執行官許騰（Hsu Teng）負責進行系統性驗證...」
+
+
+2. 🎵 數位創意與音頻整合總監——許齡 (Hsu Ling)
+
+重要執行角色： 我們引以為傲的 432Hz/528Hz 「神經慢速（Neural Slow Down）」多語系音樂乃至歌詞撰寫潤飾，以及未來要推廣的漫畫傳單、視覺多媒體設計，全部由許齡跨界整合。許齡是用旋律與視覺，把深奧的治理制度溫柔送進大眾心底的靈魂人物。
+
+即 「...數位多媒體與 432Hz/528Hz 音頻系統，由數位創意總監許齡（Hsu Ling）主持跨界整合與全球視覺設計...」
 
 
 國際學術交流與聯絡窗口 / Academic Exchange & Contact
