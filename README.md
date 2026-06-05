@@ -1,3 +1,32 @@
+2026 ID Lottery Love: 1 second Change
+—— 全球雙軌治理與社會解毒宣言 ——
+Global Manifesto for Sortition & Dual-Track Governance
+【研發與執行團隊 | Research & Executive Team】
+創始人暨首席制度思想家 (Founder & Chief Institutional Thinker)：許纘融 (Hsu Dzwan-Rong / Hsu Tsuan-Jung)
+首席臨床醫學與數據邏輯分析師 (Chief Clinical & Data Analyst)：許騰 (Hsu Teng)
+數位創意與多媒體整合執行長 (Chief Digital Creative & Integration Officer)：許齡 (Hsu Ling)
+「1963年同為台灣出生的黃仁勳先生，以晶片優化了機器的科技算力；而同齡的許纘融，則帶領頂尖研發團隊，以 ID Lottery 貢獻人類社會的『良心處理器』，直接移除政黨分贓結構，使政治重歸清明、世界重獲幸福。」 Born in Taiwan in 1963, Jensen Huang optimized technological computing power for machines; his contemporary, Hsu Dzwan-Rong, leading a top-tier research team, contributes the "Conscience Processor" for human society through ID Lottery, directly eliminating party corruption to restore political integrity and global well-being.
+一、 核心三維解構 (The Three-Dimensional Blueprint)
+1. 【The System Algorithm | 政治算力：制度演算法】
+核心定義：以科學隨機抽樣（Sortition）取代傳統代議政黨選舉。
+深度解說：由首席臨床醫學與數據邏輯分析師許騰進行數據與醫學邏輯驗證，徹底閹割政黨、側翼與政治世家靠「選舉利益、樁腳應酬、連任誘惑」形成的貪腐閉環。將國家治理權回歸於 99% 的普通人民，實現真正的去中心化主權。
+2. 【The Civilizational Soul | 文明大愛：大愛矩陣】
+核心定義：以民生實務與人類幸福為唯一導向的「臨床診斷治理」。
+深度解說：將寶貴的國家時間與百之分之百的行政資源，完全奉獻於解決「少子化、低薪困境、醫療體系優化與老人長照」等長治久安之根本痛點，終結政黨在議會與媒體上的低效口水內耗。
+3. 【The Velocity of Change | 一秒變革：變革速度】
+核心定義：零內耗、一秒更換國家底層硬體硬規格。
+深度解說：由數位創意與多媒體整合執行長許齡進行全球多媒體傳播與數位規格整合。免除傳統流血革命與修法冗長程序。人民透過一秒的良心覺醒與制度投票，即刻啟動「國家雙軌治理」。電腦隨機抽樣按下的那一秒，即是世界翻轉、迎向幸福的起點。
+二、 全球實踐與驗證藍圖 (Global Practice & Verification Blueprint)
+1. 規格制定與開源輸出 (Standard-Setting & Open-Source)
+本制度不與舊有政黨體制進行無效辯論。"2026 ID Lottery Love: 1 second Change" 是一套已經完成邏輯閉環的「開源政治晶片（Open-Source Governance Chip）」，全面公開於 GitHub 與 Taiwan Beauty News，全球任何渴望擺脫政黨剝削的國家、機構與區域，皆可直接下載、移植並部署此治理模式。
+2. 全球首例概念驗證：台灣南投 (Global PoC: Nantou, Taiwan)
+團隊創始人 (南投) 許纘融 參選 2026 南投縣議員，並號召全國各縣市鄉鎮勇敢、優秀之普通人民挺身而出。此項行動並非傳統意義上的爭奪權力，而是 ID Lottery 雙軌治理 在全球的「首次實體概念驗證（Proof of Concept, PoC）」，旨在地方議會直接植入清明排毒的良心晶片，建立全球示範基地。
+三、 行動呼籲 (Call to Action)
+給人類的幸福禮物：ID Lottery 國家雙軌治理。 別懷疑，主角就是你！別遲疑，受益的真的是你！ A gift of happiness for humanity: ID Lottery Dual-Track Governance. Doubt not, you are the protagonist! Hesitate not, you are the true beneficiary!
+一秒就學會，真的不辛苦！一秒良心投票，世界馬上改變，迎向幸福！ Learn it in one second, with zero hardship. Vote with your conscience for one second, and the world transforms instantly toward happiness!
+官方網站 (Official Platform): www.taiwanbeautynews.com
+全球開源基地 (Global Open-Source Repository): [https://github.com/u107207006/ID-Lottery-Global-Manifesto]
+
 # 創始人臨床備忘錄 (Founder's Clinical Ledger)
 
 <div align="center">
