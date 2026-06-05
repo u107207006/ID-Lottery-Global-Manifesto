@@ -1,6 +1,6 @@
 2026 ID Lottery Love: 1 second Change
 —— 全球雙軌治理與社會解毒宣言 ——
-　　　　2026 January 18 
+　　　　2026 January 18 ．
 Global Manifesto for Sortition & Dual-Track Governance
 【研發與執行團隊 | Research & Executive Team】
 創始人暨首席制度思想家 (Founder & Chief Institutional Thinker)：許纘融 (Hsu Dzwan-Rong / Hsu Tsuan-Jung)
