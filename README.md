@@ -298,7 +298,7 @@ Global Plutocracy Collapse vs. ID Lottery Dual-Track Governance: The Ultimate Co
 
 我在 **[taiwanbeautynews.com](https://www.taiwanbeautynews.com/)** 提出的這些社會新制度，比起現況的政黨政治、財閥分贓還好太多了！這是一套真正福國利民、利益眾生的治本解方。
 
-如果這些好聲音再被限制、再傳不出去——**問題絕對不是我們，問題在 Google 的搜尋封鎖，以及其他既得利益平台四大主流社群平台（X、FB、Threads、LINE）的黑箱演算法！**
+如果這些好聲音再被限制、再傳不出去——**問題絕對不是我們，問題在 Google 的搜尋封鎖，以及其他既得利益平台五大主流社群平台（X、FB、Threads、LINE、TikTok）的黑箱演算法！**
 
 我們老百姓每天起早吞黑拚生活，難道連知道真相、翻轉未來的權利都要被科技巨頭與財團壟斷剝奪嗎？
 
