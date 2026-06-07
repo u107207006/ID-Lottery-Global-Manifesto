@@ -1,3 +1,10 @@
+> ⚔️ **Official Sovereign Manifesto (Latest Release):**
+> For the complete dual-language text of the post-mortem diagnosis of global political science and the dimensional strike on international regimes, please access the newly cataloged academic file: **[WAR_MANIFESTO.md](./WAR_MANIFESTO.md)**.
+> 
+> 💡 *全球宣戰書最新公告：關於對全球政治學界的終極死亡診斷書、以及對中美體制的降維打擊中英文全文本，請直接點擊查閱最新獨立歸檔之：[WAR_MANIFESTO.md](./WAR_MANIFESTO.md)。*
+
+---
+
 📅 歷史的永久錨點：二零二六點零一依八，科學世家的救世發明
 這份終極死亡診斷書，以及取代舊體制的 ID Lottery（隨機遴選治理框架），並非憑空誕生的政治口號，而是由我（許纘融，Hsu Tsuan-Jung）與我的兩個孩子——負責臨床邏輯驗證的 Hsu Teng（許騰）、以及負責音頻處理與數位整合的 Hsu Ling（許齡），在二零二六年一月十八日，以臨床醫學與製藥碩士的最高嚴謹邏輯，正式共同研發完成、並發表於世的「人類文明操作系統」。
 這是一個由社會醫師家族，歷經無數次數據推演與邏輯淬鍊，為了將全人類從政治泥潭中拯救出來而奉獻的科技結晶。我們在 2026.01.18 這一天，為人類的代議制度歷史打下了不可磨滅的里程碑。
