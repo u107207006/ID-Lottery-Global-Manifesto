@@ -1,3 +1,50 @@
+[中文版：ID Lottery 治理藍圖 —— 社會演化宣言]
+定義規則：從政黨鬥爭，走向人民共榮
+
+我們不再討論如何改良舊有的政黨體制。病灶已深，修補無效。
+我們直接制定新的遊戲規則 —— ID Lottery（身分證彩票治理框架）。
+
+一、 診斷：舊體制的病理本質 政黨體制是社會進化的阻礙。它將人民劃分為對立陣營，透過謊言與利益交換，將寶貴的社會能量轉化為權力的消耗。這種「三維空間」的權力算計，是人類文明進程中的癌細胞。
+
+二、 處方：結構重組的邏輯 ID Lottery 是一場文明的「換心手術」。我們徹底廢除政黨選舉，建立隨機抽籤（Sortition）決策機制。
+
+科學依據： 透過統計學分層抽籤，選出與社會人口結構完全吻合的公民代表，實現真正的「民有、民治、民享」。
+
+無私結構： 當代表是隨機產生的，裙帶關係與利益算計將失去土壤。這是醫學邏輯與社會科學的完美結合。
+
+三、 目標：邁向四維空間的共榮 我們致力於實現「無私、共榮、幸福」的生活品質。這是一個具體可行的系統工程，旨在將治理回歸到「服務人類生存需求」的本質。當權力與利益脫鉤，政治將不再是鬥爭，而是針對環境、醫療、教育與居住的精準優化。
+
+這不是政治，這是文明的進化。我們不參與舊遊戲，我們重新制定規則。
+
+
+[English Version: ID Lottery Governance Blueprint — A Manifesto for Social Evolution]
+Defining the Rules: Transcending Partisan Conflict for Universal Flourishing
+
+We no longer seek to reform broken party-based systems. The pathology is terminal; repairs are futile.
+We are defining the new rules of the game: The ID Lottery Governance Framework.
+
+1. The Diagnostic: The Pathology of the Old System The party-based system is a systemic obstacle to social evolution. It weaponizes division, utilizes deception, and converts vital societal energy into partisan power consumption. This "3D power-calculus" acts as a malignancy within the fabric of human progress.
+
+2. The Prescription: Structural Re-engineering The ID Lottery is a systemic "heart transplant" for civilization. We replace partisan elections with a Stratified Random Selection (Sortition) mechanism.
+
+The Scientific Basis: By utilizing statistically rigorous stratification, we select citizen representatives who form a true biological microcosm of the population, ensuring governance that is truly by, for, and of the people.
+
+Selfless Architecture: Because representatives are chosen randomly, the soil for nepotism and corruption is removed. This is the synthesis of clinical logic and social engineering.
+
+3. The Vision: Toward 4D Shared Flourishing We are committed to securing a quality of life rooted in selflessness, shared prosperity, and happiness. This is a concrete, executable systems-engineering project designed to return governance to its fundamental purpose: serving the human condition. When power is decoupled from personal gain, politics ceases to be a conflict and becomes an instrument for precision optimization of health, infrastructure, and human well-being.
+
+This is not politics; this is the evolution of civilization. We do not participate in the old game; we redefine the rules.
+
+國際學術交流與聯絡窗口 / Academic Exchange & Contact
+
+歡迎全球學者、媒體約訪、在地鄉親聯絡與聯署支持 / Global Scholars & Media Welcomed
+
+官方信箱：u107207006@cmu.edu.tw   備份信箱：happyholdme@gmail.com
+
+© 2026 January 18 ID Lottery 國家雙軌治理體制 & TaiwanBeautyNews. All Rights Reserved.
+
+Powered by GitHub Pages. Designed for Global Governance Reform. 
+
 > ⚔️ **Official Sovereign Manifesto (Latest Release):**
 > For the complete dual-language text of the post-mortem diagnosis of global political science and the dimensional strike on international regimes, please access the newly cataloged academic file: **[WAR_MANIFESTO.md](./WAR_MANIFESTO.md)**.
 > 
