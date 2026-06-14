@@ -49,7 +49,9 @@ Powered by GitHub Pages. Designed for Global Governance Reform.
 > For the complete dual-language text of the post-mortem diagnosis of global political science and the dimensional strike on international regimes, please access the newly cataloged academic file: **[WAR_MANIFESTO.md](./WAR_MANIFESTO.md)**.
 > 
 > 💡 *全球宣戰書最新公告：關於對全球政治學界的終極死亡診斷書、以及對中美體制的降維打擊中英文全文本，請直接點擊查閱最新獨立歸檔之：[WAR_MANIFESTO.md](./WAR_MANIFESTO.md)。*
+
 - - -
+
 「這不是政見的妥協，這是系統的重組。」看完QA問題後 發現「I-D Lottery」是創造更好生活
 ID Lottery治理 診斷室 戰鬥QA問答題：
 你對現狀的疑惑，就是這套制度的切入點。精選嚴肅狠問題，ID Lottery治理真誠回答。
@@ -72,7 +74,11 @@ ID Lottery治理真誠回答 (妙答)： 因為你的腐敗需要「投資」。
 
 Q5：如果不參與政治競爭，你主張的這種制度怎麼落地？
 狠問： 你說得很好聽，但既得利益者怎麼可能讓你推行？你是不是在做夢？
-ID Lottery治理真誠回答 (妙答)： 每個文明的進化，起初都被舊體制視為「做夢」。當人民意識到現行制度已經導致生活品質慢性衰竭時，需求就會產生。我不是在「抗爭」，我是在「準備藥方」。當社會結構因為政黨惡鬥而瀕臨崩潰時，人民會迫切需要一套不需要政黨、能精準解決問題的「新文明系統」。我們做的就是先建立這套規則，當那一天到來，人類才有選擇的權利。ID Lottery Governance: The "Sharp & Spicy" Q&A
+ID Lottery治理真誠回答 (妙答)： 每個文明的進化，起初都被舊體制視為「做夢」。當人民意識到現行制度已經導致生活品質慢性衰竭時，需求就會產生。我不是在「抗爭」，我是在「準備藥方」。當社會結構因為政黨惡鬥而瀕臨崩潰時，人民會迫切需要一套不需要政黨、能精準解決問題的「新文明系統」。我們做的就是先建立這套規則，當那一天到來，人類才有選擇的權利。ID Lottery 
+
+－　－　－
+
+Governance: The "Sharp & Spicy" Q&A
 Vision: "This is not a political compromise; it is a systemic reconstruction."
 Q1: Aren't ordinary citizens too "amateur" to govern? Won't they cause chaos?
 The "Spicy" Challenge: Leaving the country to a bunch of randomly selected amateurs—isn't that infinitely more dangerous than trusting "professional" career politicians? The Precision Strike: "Professional" politicians? They aren't experts in governance; they are experts in partisan survival. Our current system doesn't make your life better; it makes the social body chronically ill. ID Lottery doesn't need people who "understand politics"—it needs people who "understand life." We bring in the lived experience of taxi drivers, the frontline realities of nurses, and the empirical logic of engineers. Governance is not a game for elites; it is the management of our collective survival.
