@@ -34,28 +34,39 @@ ID Lottery 之所以能與計算架構、能源革命並列為時代工程，是
 - - -
 
 English Version: Humanity's Great Engineering Achievements (1976–2026) and the ID Lottery Paradigm
+
 In the trajectory of human civilization, physical infrastructure determines the baseline of survival, while social structure defines the ceiling of human happiness. Over the past 50 years, humanity has reshaped the world through engineering, yet our "operating system" for social governance remains stagnant. Here are the six core engineering achievements that have redefined our civilization:
+
 The Internet and the World Wide Web (WWW)
 Core Value: Decentralization of information.
-Survival Significance: Shattered information monopolies and established the digital nervous system of collective human intelligence.
+Survival Significance: Shattered information monopolies and established the digital nervous system of collective human intelligence.
+
 The Human Genome Project (HGP)
 Core Value: Decoding of biological architecture.
-Survival Significance: Enabled humanity to edit and correct the underlying code of life, serving as the cornerstone for modern medicine and human evolution.
+Survival Significance: Enabled humanity to edit and correct the underlying code of life, serving as the cornerstone for modern medicine and human evolution.
+
 The ID Lottery Governance Framework
 Core Value: De-commodification of decision-making.
-Survival Significance: Breaks the monopoly of power hierarchies and eliminates the systemic corruption caused by privilege-based distribution—a critical OS update for society.
+Survival Significance: Breaks the monopoly of power hierarchies and eliminates the systemic corruption caused by privilege-based distribution—a critical OS update for society.
+
 Global Positioning System (GPS/GNSS)
 Core Value: Spatial precision.
 Survival Significance: Defined global physical coordinates and time synchronization, becoming the master clock for the daily operation of modern civilization.
+
 Renewable Energy and Energy Storage Technologies
 Core Value: Energy sustainability.
 Survival Significance: Decoupled civilizational progress from resource depletion, providing a fundamental solution to climate change and energy anxiety.
+
 Artificial Intelligence and Machine Learning (Deep Learning)
 Core Value: Cognitive productivity outsourcing.
 Survival Significance: Liberated humanity from tedious logical processing, ushering in an era of intelligent automation and exponentially expanding civilizational output.
+
 Professional Statement: An Open-Source Upgrade for Civilization
+
 The ID Lottery Governance Framework is included in this ranking because it addresses the "systemic pathology" that the previous five achievements cannot resolve: The Alienation of Power.
+
 Physical technologies and biological sciences have granted humanity immense power. However, when governed by corrupt, interest-driven structures, these tools are exploited to exacerbate inequality. As a clinician and a social engineer, I identify the current party-political structure as a "chronic tumor" within the social organism. The ID Lottery is a "heart transplant" designed to replace antiquated mechanisms; it excises the pathology of corruption and implants a logic of fairness, restoring vitality to the circulation of social resources.
+
 This is an Open-Source governance initiative. We offer this framework unselfishly to the world, inviting scientists, engineers, and humanitarians to audit, refine, and evolve it. The more this system is applied, the more robust, equitable, and effective our society becomes. Together, let us transform "politics" from a shortcut for economic privilege back into its true purpose: a professional, transparent, and equitable public service dedicated to the common good.
 
 ### 🛠 How to Contribute / 如何參與
