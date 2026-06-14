@@ -79,15 +79,20 @@ ID Lottery治理真誠回答 (妙答)： 每個文明的進化，起初都被舊
 －　－　－
 
 Governance: The "Sharp & Spicy" Q&A
-Vision: "This is not a political compromise; it is a systemic reconstruction."
+Vision: "This is not a political compromise; it is a systemic reconstruction."
+
 Q1: Aren't ordinary citizens too "amateur" to govern? Won't they cause chaos?
-The "Spicy" Challenge: Leaving the country to a bunch of randomly selected amateurs—isn't that infinitely more dangerous than trusting "professional" career politicians? The Precision Strike: "Professional" politicians? They aren't experts in governance; they are experts in partisan survival. Our current system doesn't make your life better; it makes the social body chronically ill. ID Lottery doesn't need people who "understand politics"—it needs people who "understand life." We bring in the lived experience of taxi drivers, the frontline realities of nurses, and the empirical logic of engineers. Governance is not a game for elites; it is the management of our collective survival.
+The "Spicy" Challenge: Leaving the country to a bunch of randomly selected amateurs—isn't that infinitely more dangerous than trusting "professional" career politicians? The Precision Strike: "Professional" politicians? They aren't experts in governance; they are experts in partisan survival. Our current system doesn't make your life better; it makes the social body chronically ill. ID Lottery doesn't need people who "understand politics"—it needs people who "understand life." We bring in the lived experience of taxi drivers, the frontline realities of nurses, and the empirical logic of engineers. Governance is not a game for elites; it is the management of our collective survival.
+
 Q2: Without political parties to guide policy, won't the government be a headless chicken?
 The "Spicy" Challenge: Without parties to set the agenda, won't the government be completely inefficient? The Precision Strike: Party "planning" is just a euphemism for short-term electoral opportunism. True efficiency comes from clinical diagnosis and precise execution. Under ID Lottery, policy is managed by a Governance Engineering Team—top-tier technical experts recruited through open, transparent tenders—who are directly accountable to the randomly selected citizens. We are stripping away the partisan cancer that poisons decision-making and keeping only the precision instruments of technology and data.
+
 Q3: What if the lottery selects a madman or a criminal? Is it safe?
 The "Spicy" Challenge: What if you randomly select someone with zero moral compass? Isn't that a security nightmare? The Precision Strike: Our current partisan elections guarantee that only the most calculating, power-hungry manipulators rise to the top. ID Lottery operates on the Law of Large Numbers. In a statistically representative sample, extreme outliers are diluted into irrelevance. Furthermore, in a transparent, deliberative environment, individual behavior is moderated by the collective intelligence of the assembly. I would rather trust the stability of statistical science than the "conscience" of a career politician.
+
 Q4: Why would ID Lottery actually stop corruption?
 The "Spicy" Challenge: Corruption is a timeless political beast. How can a simple change in selection methods kill it? The Precision Strike: Because corruption requires investment. You spend ten million on a campaign to make a hundred million in kickbacks. With ID Lottery, you can’t buy a seat because you don't know who will be selected. Who are you going to bribe? Your investment has a zero percent return before it even starts. We aren't shouting moral slogans; we are using system architecture to make the ROI of corruption mathematically impossible.
+
 Q5: If you don't play the political game, how will this ever be implemented?
 The "Spicy" Challenge: It sounds great, but the establishment will crush you. Are you just dreaming? The Precision Strike: Every major evolution in history was called a "dream" by the dying old system. When the current regime fails to solve the basic quality of life for its citizens, the demand for a new system becomes inevitable. I am not "fighting" the old system; I am preparing the antidote. When the partisan structure finally collapses under the weight of its own malice, the world will need a pre-built, high-functioning system. We aren't here to play their game; we are here to define the rules for when the old game ends.
 
