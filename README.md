@@ -31,6 +31,7 @@ ID Lottery 社會治理框架
 ID Lottery 之所以能與計算架構、能源革命並列為時代工程，是因為它解決了前述技術無法處理的「系統性病灶」：權力異化。
 物理與生物科技賦予人類強大的工具，若由腐敗的權力結構主導，這些工具終將被用於加劇壓迫與社會的不平等。作為臨床醫護與社會工程師，我將政黨利益結構視為社會肌體中已發生病變、腐蝕著文明健康的「壞死組織」。ID Lottery 是一場旨在徹底置換陳舊運作機制的「換心手術」；它剔除貪腐的病灶，植入公平的決策邏輯，讓社會資源的循環恢復生機。
 這是一項 Open Source（開源） 治理計畫。我們無私地公開這套機制，邀請全球科學家、工程師、人道主義者共同參與與精進。它越被廣泛應用，社會系統就越公正、越高效。讓我們團結起來，將「政治」從爭權奪利的捷徑，還原為公平、專業的公共服務，為人類文明換上那顆屬於多數人、為了幸福而跳動的「新心臟」。
+- - -
 
 English Version: Humanity's Great Engineering Achievements (1976–2026) and the ID Lottery Paradigm
 In the trajectory of human civilization, physical infrastructure determines the baseline of survival, while social structure defines the ceiling of human happiness. Over the past 50 years, humanity has reshaped the world through engineering, yet our "operating system" for social governance remains stagnant. Here are the six core engineering achievements that have redefined our civilization:
