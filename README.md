@@ -22,11 +22,14 @@
 我們推動立法，不是為了爭權奪利，而是為了幫全台灣人的幸福「辦登記」。我們要用法律的盾牌，捍衛這份最純粹的公平，把當家作主的權利，徹底還給人民。
 
 🕊️ 福氣就在眼前，選擇權在您手中
-我們團隊（許纘融、許騰、許齡）雖然不是財團集團，但我們是一個用專業與愛去思考未來的溫馨家庭。因此，我們帶著辦喜事的心情來推廣，面對任何困難與困擾，我們都一笑置之。
+我們團隊（許纘融、許騰、許齡）雖然不是財團集團，但我們是一個用專業與愛去思考未來的溫馨家庭。
+因此，我們帶著辦喜事的心情來推廣，面對任何困難與困擾，我們都一笑置之。
 這是一項 Open Source（開源） 治理計畫，快速被世界接受，是全人類的福氣。
 及時相信，幸福就是你的； 如果還要繼續懷疑、繼續被舊體制勒索，說實在的，最後吃虧吃苦的，還是我們自己。
-2026，讓我們一起推動立法，迎向台灣與世界更幸福的生活！
+2026，讓我們一起推動立法，迎向台灣與世界更幸福的生活！
+
 - - - - - - - - 
+
 2026 ID Lottery Love: 1 second Change
 Subtitle: End partisan spoils in one second! The only safe solution to completely replace traditional party politics—a civilization-level open-source upgrade more immediate and effective than auditing bribery or voter fraud.
 Created by: The Hsu Dzwan-Rong, Hsu Teng, and Hsu Ling Team (ID Lottery Social Governance Framework Lab)
