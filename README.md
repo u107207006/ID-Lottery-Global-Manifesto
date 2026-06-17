@@ -1,3 +1,4 @@
+![2026 ID Lottery Love](manifesto-comic.jpg)
 2026 ID Lottery Love: 1 second Change
 
 副標題：一秒終結政黨分贓！完全取代傳統政黨政治的唯一安全解方——比查賄選、抓作弊更立即見效的社會開源升級。
