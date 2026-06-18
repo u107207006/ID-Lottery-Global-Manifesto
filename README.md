@@ -657,6 +657,23 @@ If this systemic solution is restricted and buried by digital gatekeepers—**le
 Working-class citizens strive daily for survival. Our right to truth and institutional reform shall not be gatekept by corporate tech oligarchs.
 
 > 🔗 **Bypass the censorship. Access the framework directly through the link, and share it peer-to-peer!**
+>
+
+ －　－　－　
+# 《沒有醫生的手術台》/ The Operating Table Without a Doctor
+### 全球三語（中、英、西）反毒音樂宣導企劃 ｜ Trilingual Anti-Drug Anthem Project
+
+本企劃由台灣製藥碩士與臨床醫學背景專家許纘融先生發起，從臨床藥理學與醫學常識出發，透過自覺嘻哈（Conscious Hip-Hop）音樂形式，對全球新興毒品「異硝氮烯（Nitazenes）」危機提出具體臨床警告。
+
+- **歌曲長度：** 480 秒循環版 (480 Seconds Loop)
+- **執行製作人 (Executive Producer, EP)：** 許纘融 (Hsu Tsuan-Jung, M.S. in Pharmaceutics, Taiwan)
+- **核心身份 / 社會醫師：** 許纘融 (Social Doctor)
+- **創意團隊 (Creative Team)：** Mo Li、許騰 (Hsu Teng)、許齡 (Hsu Ling)
+- **音頻整合 (Audio Integration)：** 許齡 (Hsu Ling)
+- **邏輯驗證 (Logical Verification)：** 許騰 (Hsu Teng)
+
+
+ －　－　－　
 
 國際學術交流與聯絡窗口 / Academic Exchange & Contact
 歡迎全球學者、媒體約訪、在地鄉親聯絡與聯署支持 / Global Scholars & Media Welcomed
