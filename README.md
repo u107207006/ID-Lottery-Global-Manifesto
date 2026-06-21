@@ -55,7 +55,7 @@ I possess zero incentive to rationalize the blindness of the unawakened. The rem
 
 ![2026 ID Lottery Love](manifesto-comic.jpg.png)
 
-![2026 ID Lottery Love](manifesto-1-Hsu Tsuan-Jung.png)
+![2026 ID Lottery Love](manifesto-1-Hsu Tsuan-Jung.png.png)
 
 🎤 2026南投縣議員參選演說：爭取前100位「幸福火種」
 
