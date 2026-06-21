@@ -55,6 +55,8 @@ I possess zero incentive to rationalize the blindness of the unawakened. The rem
 
 ![2026 ID Lottery Love](manifesto-comic.jpg.png)
 
+![2026 ID Lottery Love](manifesto-1-Hsu Tsuan-Jung)
+
 🎤 2026南投縣議員參選演說：爭取前100位「幸福火種」
 
 各位台灣與南投的鄉親、線上的好朋友，大家平安！我是許纘融，也是大家熟悉的「摩力師傅」。
