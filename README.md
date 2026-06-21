@@ -14,7 +14,9 @@ A：……問題在你？……現在繼續計時中。
 時鐘不等人，痛苦的是你： 我不抗議、也不求你。我的醫學級看護、療效按摩和音樂精神治療，正在穩穩護住相信我的人。而社會體制的微血管正在天天破裂，三高與失智的風險正在飆升。
 我不需要幫不看的人找理由。藥方是免費的，也是最厲害的。不願意吃藥的人，問題就在你。非政黨的各界領袖，請帶頭改寫歷史。……現在繼續計時中。
 
-- - - -🌐 AN OPEN MEMO TO GLOBAL VISIONARIES
+- - - -
+
+🌐 AN OPEN MEMO TO GLOBAL VISIONARIES
 
 To: Elon Musk, Jensen Huang, and the Unshackled Architects of the Future.
 From: Hsu Tsuan-Jung, Social Physician & Pioneer of the ID Lottery Governance Framework (Taiwan).
