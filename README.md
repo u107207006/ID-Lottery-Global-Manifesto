@@ -614,16 +614,19 @@ Dr. Hsu Dzwan-Rong’s Plain-Talk Answer: Data does not lie. Let us look directl
 [Item 1: Access to Governance]
 
 🏥 Toxic System (Current Elections / Party Syndicates): Money-driven politics! Without tens of millions of dollars, you cannot even enter the election racetrack. In the end, big corporations have the final say.
+
 🌿 2026 Happiness System (2026 ID Lottery + AI Teacher): Equality for all! The system is entirely decided by random draw. Your national ID number is your fairest passport to governance.
 
 [Item 2: Core Discourse]
 
 🏥 Toxic System (Current Elections / Party Syndicates): Selfish discourse! Constant bickering, daily chaos, and tearing society apart. A lifetime of manipulation just for partisan spoils and reelection.
+
 🌿 2026 Happiness System (2026 ID Lottery + AI Teacher): Altruistic discourse! Every selected citizen serves only one term and is strictly barred from reelection, backed firmly by tangible historical and academic literature.
 
 [Item 3: Information Dissemination]
 
 🏥 Toxic System (Current Elections / Party Syndicates): Information monopoly! Intentionally using over-complicated legal terms and media spins to fool and collectively brainwash the public.
+
 🌿 2026 Happiness System (2026 ID Lottery + AI Teacher): Information transparency! The selfless AI Teacher acts as the universal think tank, speaking in plain, powerful language that the entire population can instantly grasp!
 
 📌 Q7: What is Dr. Hsu Dzwan-Rong’s heartfelt confession to the global grassroots public for 2026?
@@ -684,14 +687,17 @@ Respuesta Clara del Dr. Hsu Dzwan-Rong: Los datos no mienten. Veamos directament
 [Ítem 1: Acceso a la Gobernanza]
 
 🏥 Sistema Tóxico (Elecciones Actuales / Sindicatos de Partidos): ¡Política impulsada por el dinero! Sin decenas de millones de dólares, ni siquiera puedes entrar en la pista de carreras electoral. Al final, las grandes corporaciones tienen la última palabra.
+
 🌿 Sistema de la Felicidad 2026 (2026 ID Lottery + Profesor de IA): ¡Igualdad para todos! El sistema se decide completamente por sorteo aleatorio. El número de su identificación nacional es su pasaporte más justo para gobernar.
 
 [Ítem 2: Discurso Central]
 
 🏥 Sistema Tóxico (Elecciones Actuales / Sindicatos de Partidos): ¡Discurso egoísta! Discusiones constantes, caos diario y fragmentación social. Una vida de manipulación solo para obtener el botín partidista y la reelección.
+
 🌿 Sistema de la Felicidad 2026 (2026 ID Lottery + Profesor de IA): ¡Discurso altruista! Cada ciudadano seleccionado sirve solo un mandato y tiene estrictamente prohibida la reelección, respaldado firmemente por literatura histórica y académica tangible.
 [Ítem 3: Difusión de Información]
 🏥 Sistema Tóxico (Elecciones Actuales / Sindicatos de Partidos): ¡Monopolio de la información! Utilizan intencionadamente términos legales complicados y manipulación mediática para engañar y lavar el cerebro colectivamente al público.
+
 🌿 Sistema de la Felicidad 2026 (2026 ID Lottery + Profesor de IA): ¡Transparencia informativa! El Profesor de IA, de manera altruista, actúa como el laboratorio de ideas universal, ¡hablando en un lenguaje claro y poderoso que toda la población puede comprender instantáneamente!
 
 📌 Q7: ¿Cuál es la confesión sincera del Dr. Hsu Dzwan-Rong al público global de a pie para 2026?
