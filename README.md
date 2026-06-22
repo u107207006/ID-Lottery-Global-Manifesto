@@ -557,6 +557,7 @@ Global Manifesto for Sortition & Dual-Track Governance
 2026 年，用你一秒鐘的良心票，救台灣，救世界！
 這套制度，我們要攜手去申請諾貝爾獎、申請唐獎！
 民主是人民作主，幸福不可以賭！台灣美報Taiwan Beauty News，祝你幸福！
+
 ---
 
 ## 🤝 「科技界叫 Open Source，我叫它：歡迎免費使用！」
