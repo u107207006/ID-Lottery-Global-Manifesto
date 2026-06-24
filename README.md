@@ -1129,6 +1129,58 @@ A4（自信，絕對犀利）：
 只要這任期內成功推動新制度的立法架構，未來這個位子、甚至更高的權力核心，都將由全台灣、全人類的身分證字號隨機抽籤產生。我們不需要神，我們只需要公平的數學演算法。 我一個人不連任，是為了徹底終結政黨少數人的政治世襲，換取未來千萬個像看護、外送員一樣的普通人都能公平坐上這個位子的制度。這不叫政治自殺，這叫用一屆的肉身，終結虛偽的造神政治，開創人類萬世的開源幸福！」
 
  - - - - 
+🏛️ The International Media Interrogation: The Ultimate Trial of the Capital Caste
+Q1 (Top Western Political Journalist):
+"Mr. Hsu, you define the West’s proud representative democracy and real estate market as a 'modern capital and political caste system.' Isn't that too extreme? The Western world has free elections and a robust rule of law. Anyone can buy a luxury mansion or even become president through hard work. How can you compare this to the ancient Indian caste system based on bloodline?"
+
+A1 (Hsu Tsuan-Jung, with a relaxed, confident smile):
+"Journalist, ancient India used 'mythology and bloodline' to segregate classes, whereas modern political parties and conglomerates use 'prices and security deposits' to execute a more precise physical cleansing. In essence, there is absolutely no difference.
+
+You claim that anyone can run for president? In your system, running for a local council seat requires millions of dollars upfront, and a campaign for a US Senator costs hundreds of millions. Who pays for this? Is it the hard-working caregivers and delivery riders, or the financial giants of Wall Street?
+
+The answer is self-evident. The politicians you elect are public servants in name, but in reality, they are 'lifetime employees' of conglomerates. High-priced luxury towers do not need laws to ban the working class; the 'housing price tag' alone effectively accomplishes total class segregation. You shout 'democracy and freedom' every day, yet you are suffocating outside the high walls built by capital. This is not extreme; this is the raw truth of a social clinical diagnosis."
+
+Q2 (Journalist provoking with a stern tone):
+"Fine, even if the system has flaws, the Western world never lacks resistance! 'Occupy Wall Street,' the 'Yellow Vests (Gilets Jaunes),' and 'Black Lives Matter'—millions of people took to the streets to protest. Are these collective forces seeking change just 'ineffective tricks' in your eyes? You are dismissing the value of global social movements!"
+
+A2 (Stern and Professional):
+"Precisely because I value these blood-and-tear struggles of the working-class people, I must painfully tell them the truth: You have used the wrong method, and you are destined to fail.
+
+In medicine, if your foundational architecture is wrong, giving more antibiotics will only cause the bacteria to develop antimicrobial resistance. Your street protests are, in essence, begging for mercy from the house dealers within the game rules of the political party structure. It is exactly like going on a hunger strike at the doorstep of a corrupt kitchen, hoping the chef will change the menu.
+
+Political parties and conglomerates are extraordinarily clever. They simply release a chemical signal called 'wealth and promotion' to absorb your movement's leaders into the establishment—offering them high salaries, privileges, or at-large legislative seats. Once these leaders cross the class line, in order to secure their new identities, they transform into the most ferocious 'invisible guardians (無形護法)' of the upper structure, turning back to appease and deceive the grassroots. This mechanism of 'precision domestication' ensures that your movements always end up as 'loud thunder but little rain.' As long as power distribution remains chained to money-driven elections, grassroots solidarity will forever remain a rope of sand."
+
+Q3 (Journalist pressing further):
+"So you are saying your proposed ID Lottery (Sortition Governance Architecture) can solve everything? Handing the supreme power of a nation over to ordinary citizens chosen at random? If a caregiver or a taxi driver with zero political experience gets selected, wouldn't that be an absolute disaster?"
+
+A3 (Calm, Confident, and Humorous):
+"Journalist, this is precisely the mental blind spot resulting from being enslaved by political parties for too long.
+
+Let me ask you: when a country's housing policy is drafted by a bunch of elite politicians who live in luxury mansions and pocket political donations from real estate developers, the result is a catastrophe—the current housing crisis. Conversely, if through the ID Lottery, half of the decision-making body consists of randomly sampled tenants, grassroots laborers, and professional caregivers, a hoarding tax and public housing laws will be passed with maximum efficiency within three months! This is not a disaster; this is restoring the true proportion of social suffering to governance.
+
+Sortition is the pure essence of ancient Athenian democracy. 'Without the pressure of re-election, there is no value in being corrupted.' Selected citizens return to civilian life once their term ends. No matter how wealthy a conglomerate is, they cannot predict which code will be drawn tomorrow, rendering them entirely unable to bribe in advance. This is the fairness of an algorithm, the ultimate antidote to end this social addiction and parasitic structure.
+
+My personal entry into the local council election in Nantou, Taiwan, is driven by the practical mindset of clinical medicine and pharmaceutical science—to physically combat the politicians and demonstrate to the world how to dismantle their invisible guardians! This system is now fully open-source. We welcome global changemakers to come to Taiwan or contact us via happyholdme@gmail.com through Taiwan Beauty News. The code is in our hands, and the response to human happiness is up to us."
+
+Q4 (Journalist questioning critically):
+"Mr. Hsu, you are personally running for the local council election in Nantou, Taiwan. Yet, the very first sentence of your campaign manifesto reads in bold letters: 'Run for office, No re-election!' In political science, this is practically an act of political suicide. Every politician runs to secure long-term governance and pursue re-election to implement their policies. By voluntarily giving up re-election, aren't you abandoning long-term political influence? How do you convince voters to cast their ballots for someone who will only serve one term?"
+
+A4 (Confident and Categorically Sharp):
+"Journalist, this is the most despicable collective scam of modern politicians! It is a social pathology born from being collectively brainwashed by the old era's 'party-state mentality' and 'idol-worship (god-making) ideology.'
+
+These politicians grossly overestimate their own abilities! Everyone starts creating a god-like persona as soon as the election begins, boasting about how grand and indispensable they are, shouting, 'This place cannot survive without me!' And the historical truth? They talk grandiosely on stage, but act minutely off stage, or do absolutely nothing at all! Or, they turn around and engineer policies that solely benefit conglomerates while failing the masses!
+
+They tell voters: 'Vote for me, I need to be re-elected to continue serving you.' But what is the underlying essence? 'To get re-elected, he must start raising massive campaign funds for the next term; and for that money, he must sell his soul to the corporations.'
+
+My call of 'Run for office, No re-election' is designed to deliver a fierce slap to the faces of these politicians amidst this absurd god-making movement! Because I do not seek re-election, I have no baggage of re-election, and therefore, I have no value to be corrupted. I don't need to look at the faces of party bosses, nor do I need to compromise with developers or sell out ordinary citizens for next term's votes. During my term, my sole employer is the people, allowing me to execute the most righteous social clinical diagnosis with 100% purity and cleanliness.
+
+I am giving voters 'a single second to awaken their conscience.' In the past, you were deceived by the rhetoric of 'we can't do without them' and voted for politicians who promised re-election. What did you get? You got skyrocketing housing prices, stagnant wages, and a bunch of 'invisible guardians' who crossed class lines only to turn back and exploit you.
+
+Voting for me today is not to make me a permanent official, let alone to create another political god. It is to put me inside the establishment to amend and pass laws, forcefully implanting the seeds of the ID Lottery into the legal framework!
+
+Once the legislative framework for this new system is successfully established during this term, this seat—and even the highest core of power—will be randomly drawn from the national identification numbers of all citizens. We do not need political gods; we only need fair mathematical algorithms. My individual refusal of re-election is to thoroughly terminate the political inheritance of the oligarchic minority, exchanging it for a system where millions of ordinary citizens, like caregivers and delivery riders, have an equal opportunity to hold power. This is not political suicide; this is using one term of physical sacrifice to dismantle hypocritical god-making politics and unlock open-source happiness for humanity for generations to come!"
+
+ - - - - 
 # 《沒有醫生的手術台》/ The Operating Table Without a Doctor
 ### 全球三語（中、英、西）反毒音樂宣導企劃 ｜ Trilingual Anti-Drug Anthem Project
 
