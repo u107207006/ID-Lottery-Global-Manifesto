@@ -1073,11 +1073,14 @@ Working-class citizens strive daily for survival. Our right to truth and institu
  －　－　－　
 
 🏛️ 國際媒體拷問錄：資本種姓的終極審判 (The Ultimate Trial)
+
 Q1（西方頂級政治記者）：
+
 「許先生，您把西方引以為傲的代議民主與房價市場，定義為『現代資本與政治種姓制度』，這是不是太過極端？西方世界有自由的選舉、有完善的法治，任何人都可以透過努力買到豪宅、甚至當上總統。這怎麼能跟古代印度的血緣種姓相提並論？」
 
 
 A1（Hsu Tsuan-Jung / Hsu Dzwan-Rong 輕鬆且自信地微笑）：
+
 「記者小姐先生，古代印度人用『神話與血緣』來隔離階級，現代政黨與財團則用『價格與保證金』進行更精準的物理清洗。這本質上毫無區別。
 
 你說任何人都能選總統？在你們的制度裡，參選地方議員要先砸數百萬，選一場美國參議員要數億美金。這筆錢誰出？是每天辛勤工作的看護、外送員，還是華爾街的金融巨頭？
@@ -1087,9 +1090,11 @@ A1（Hsu Tsuan-Jung / Hsu Dzwan-Rong 輕鬆且自信地微笑）：
 
 
 Q2（記者挑釁、語氣嚴厲）：
+
 「好，就算體制有瑕疵。但西方世界從來不缺乏反抗！『佔領華爾街』、『黃背心運動』、『BLM』，千百萬人上街抗議，難道這些尋求改變的集體力量，在你眼裡也只是『無效的把戲』嗎？你這是在否定全球社會運動的價值！」
 
 A2（嚴肅專業）：
+
 「正因為我看重這些流血流淚的底層人民，我才必須痛心地告訴他們：你們用錯了方法，注定失敗。
 
 在醫學上，如果你的架構錯了，給再多抗生素也只是讓細菌產生抗藥性。你們上街抗議，本質上是在政黨架構的遊戲規則裡，向莊家乞求憐憫。這就像是在黑心廚房門口絕食，希望廚師改菜單。
@@ -1098,9 +1103,11 @@ A2（嚴肅專業）：
 
 
 Q3（記者追問）：
+
 「所以你提出的 ID Lottery（抽籤治理架構） 就能解決一切？把國家大權交給隨機抽籤出來的普通人？如果抽中一個毫無政治經驗的看護、或是計程車司機，這難道不是一場災難嗎？」
 
 A3（從容且自信幽默）：
+
 「記者先生，這正是你們被政黨奴役太久的思維盲點。
 
 我問你，當一個國家的住宅政策，是由一群住在『高單價豪宅』、拿著建商政治獻金的精英政客制定時，結果是一場災難（高房價危機）；而如果透過 ID Lottery，讓決策層有一半是隨機抽樣出來的無殼蝸牛、基層勞工與專業看護時，囤房稅與社會住宅絕對會在三個月內用最高效率通過！這不是災難，這是恢復真實社會的痛苦比例。
@@ -1111,9 +1118,11 @@ A3（從容且自信幽默）：
 
 
 Q4（記者質疑問）：
+
 「許先生，您今年（2026年）親自投入台灣南投的縣議員選舉，但您在競選宣言的第一句竟然寫著大大的『參選，不連任』！這在政治學上簡直是不可思議的自殺行為。所有政客參選都是為了長期執政、追求連任來實踐政見。您主動放棄連任，不就等於放棄了長期的政治影響力嗎？您要怎麼說服選民把票投給一個『只做一任』的人？」
 
 A4（自信，絕對犀利）：
+
 「記者先生，這正是現代政客最卑劣的集體騙局！也是被舊時代『黨國思想』與『造神思想』集體洗腦後的社會病態！
 
 那些政黨政客真的太高估自己的能力了！每個人一到選舉就開始造神，吹噓自己有多偉大、多不可或缺，高喊著『這個地方沒有我，絕對不行！』結果呢？歷史的真相是，他們在台上講得無比偉大，下台後做得無比渺小，甚至根本不做！ 或者，他們轉過身，做出來的政策全都是『不利眾生，只利財團』的黑箱分贓！
@@ -1130,10 +1139,13 @@ A4（自信，絕對犀利）：
 
  - - - - 
 🏛️ The International Media Interrogation: The Ultimate Trial of the Capital Caste
+
 Q1 (Top Western Political Journalist):
+
 "Mr. Hsu, you define the West’s proud representative democracy and real estate market as a 'modern capital and political caste system.' Isn't that too extreme? The Western world has free elections and a robust rule of law. Anyone can buy a luxury mansion or even become president through hard work. How can you compare this to the ancient Indian caste system based on bloodline?"
 
 A1 (Hsu Tsuan-Jung, with a relaxed, confident smile):
+
 "Journalist, ancient India used 'mythology and bloodline' to segregate classes, whereas modern political parties and conglomerates use 'prices and security deposits' to execute a more precise physical cleansing. In essence, there is absolutely no difference.
 
 You claim that anyone can run for president? In your system, running for a local council seat requires millions of dollars upfront, and a campaign for a US Senator costs hundreds of millions. Who pays for this? Is it the hard-working caregivers and delivery riders, or the financial giants of Wall Street?
@@ -1141,9 +1153,11 @@ You claim that anyone can run for president? In your system, running for a local
 The answer is self-evident. The politicians you elect are public servants in name, but in reality, they are 'lifetime employees' of conglomerates. High-priced luxury towers do not need laws to ban the working class; the 'housing price tag' alone effectively accomplishes total class segregation. You shout 'democracy and freedom' every day, yet you are suffocating outside the high walls built by capital. This is not extreme; this is the raw truth of a social clinical diagnosis."
 
 Q2 (Journalist provoking with a stern tone):
+
 "Fine, even if the system has flaws, the Western world never lacks resistance! 'Occupy Wall Street,' the 'Yellow Vests (Gilets Jaunes),' and 'Black Lives Matter'—millions of people took to the streets to protest. Are these collective forces seeking change just 'ineffective tricks' in your eyes? You are dismissing the value of global social movements!"
 
 A2 (Stern and Professional):
+
 "Precisely because I value these blood-and-tear struggles of the working-class people, I must painfully tell them the truth: You have used the wrong method, and you are destined to fail.
 
 In medicine, if your foundational architecture is wrong, giving more antibiotics will only cause the bacteria to develop antimicrobial resistance. Your street protests are, in essence, begging for mercy from the house dealers within the game rules of the political party structure. It is exactly like going on a hunger strike at the doorstep of a corrupt kitchen, hoping the chef will change the menu.
@@ -1151,9 +1165,11 @@ In medicine, if your foundational architecture is wrong, giving more antibiotics
 Political parties and conglomerates are extraordinarily clever. They simply release a chemical signal called 'wealth and promotion' to absorb your movement's leaders into the establishment—offering them high salaries, privileges, or at-large legislative seats. Once these leaders cross the class line, in order to secure their new identities, they transform into the most ferocious 'invisible guardians (無形護法)' of the upper structure, turning back to appease and deceive the grassroots. This mechanism of 'precision domestication' ensures that your movements always end up as 'loud thunder but little rain.' As long as power distribution remains chained to money-driven elections, grassroots solidarity will forever remain a rope of sand."
 
 Q3 (Journalist pressing further):
+
 "So you are saying your proposed ID Lottery (Sortition Governance Architecture) can solve everything? Handing the supreme power of a nation over to ordinary citizens chosen at random? If a caregiver or a taxi driver with zero political experience gets selected, wouldn't that be an absolute disaster?"
 
 A3 (Calm, Confident, and Humorous):
+
 "Journalist, this is precisely the mental blind spot resulting from being enslaved by political parties for too long.
 
 Let me ask you: when a country's housing policy is drafted by a bunch of elite politicians who live in luxury mansions and pocket political donations from real estate developers, the result is a catastrophe—the current housing crisis. Conversely, if through the ID Lottery, half of the decision-making body consists of randomly sampled tenants, grassroots laborers, and professional caregivers, a hoarding tax and public housing laws will be passed with maximum efficiency within three months! This is not a disaster; this is restoring the true proportion of social suffering to governance.
@@ -1163,9 +1179,11 @@ Sortition is the pure essence of ancient Athenian democracy. 'Without the pressu
 My personal entry into the local council election in Nantou, Taiwan, is driven by the practical mindset of clinical medicine and pharmaceutical science—to physically combat the politicians and demonstrate to the world how to dismantle their invisible guardians! This system is now fully open-source. We welcome global changemakers to come to Taiwan or contact us via happyholdme@gmail.com through Taiwan Beauty News. The code is in our hands, and the response to human happiness is up to us."
 
 Q4 (Journalist questioning critically):
+
 "Mr. Hsu, you are personally running for the local council election in Nantou, Taiwan. Yet, the very first sentence of your campaign manifesto reads in bold letters: 'Run for office, No re-election!' In political science, this is practically an act of political suicide. Every politician runs to secure long-term governance and pursue re-election to implement their policies. By voluntarily giving up re-election, aren't you abandoning long-term political influence? How do you convince voters to cast their ballots for someone who will only serve one term?"
 
 A4 (Confident and Categorically Sharp):
+
 "Journalist, this is the most despicable collective scam of modern politicians! It is a social pathology born from being collectively brainwashed by the old era's 'party-state mentality' and 'idol-worship (god-making) ideology.'
 
 These politicians grossly overestimate their own abilities! Everyone starts creating a god-like persona as soon as the election begins, boasting about how grand and indispensable they are, shouting, 'This place cannot survive without me!' And the historical truth? They talk grandiosely on stage, but act minutely off stage, or do absolutely nothing at all! Or, they turn around and engineer policies that solely benefit conglomerates while failing the masses!
@@ -1182,6 +1200,7 @@ Once the legislative framework for this new system is successfully established d
 
  - - - - 
 # 《沒有醫生的手術台》/ The Operating Table Without a Doctor
+
 ### 全球三語（中、英、西）反毒音樂宣導企劃 ｜ Trilingual Anti-Drug Anthem Project
 
 本企劃由台灣製藥碩士與臨床醫學背景專家許纘融先生發起，從臨床藥理學與醫學常識出發，透過自覺嘻哈（Conscious Hip-Hop）音樂形式，對全球新興毒品「異硝氮烯（Nitazenes）」危機提出具體臨床警告。
