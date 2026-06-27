@@ -28,6 +28,53 @@
 這不是在做夢，這是一場世界級的社會結構更新工程。 我們不要再當政黨肥貓的提款機！我們要用科學、用良心，把政治的主導權，原原本本地奪回來，還給每一個老老實實生活的台灣人！
 「更多、更詳細的問答（QA）與論述，網頁裡都寫得非常清楚。你只要願意拿出耐心看完，你就是這場共同善舉的發起人！讓我們共同為更幸福的生活，一起加油！」
 
+- - - - 
+【ID Lottery】Understand Our Social Re-Engineering in Just One Minute!
+"Many people have asked me: 'Master Hsu, your website contains an immense amount of data and reflects incredible dedication, but I cannot read it all at once.' Fair enough! Let me break it down for you in the simplest terms:"
+
+What is the core problem? Current "partisan politics" is completely dead. Regardless of parties or borders, political parties have mutated into "privileged fat cats" sucking the nation's resources dry. Every election, they use ideology to "hypnotize" us, forcing us to make a painful choice between bad and worse party politicians. Once the votes are cast, they continue to enrich themselves while ordinary citizens struggle at the very bottom.
+
+How do we fix it? Stop begging political parties! Using a scientific and fair methodology, we advocate for a global shift toward "Sortition" (The ID Lottery).
+
+What are the benefits of the Lottery? Just like serving as a "citizen juror," representatives are selected purely via random, scientific lottery from everyday citizens across all walks of life (farmers, drivers, caregivers, massage therapists, homemakers, and small shop owners). No millions wasted on campaigning, no corporate funding, and zero political favors owed! Representatives will sit down together, utilizing rationality and data, to solve issues of transportation, long-term care, education, and public safety one by one.
+
+Why Must We Uncompromisingly Push for the "ID Lottery"?
+1. Partisan Politics: The Global Pandemic of "Chronic Systemic Necrosis"
+My fellow citizens, modern politics is not merely sick—it has suffered total Necrosis (tissue death)! This is not just Taiwan’s tragedy; it is a global pandemic.
+
+Under the chokehold of partisan politics, whether it is the Presidential system in the US, the Parliamentary system in the UK, or the Semi-Presidential system in France—they have shuffled through hundreds of different tricks, yet the outcome remains identically corrupted. Classifying this through a physiological structure, modern partisan politics behaves exactly like severe, systemic arteriosclerosis and necrosis. In a healthy society, nutrients (public budgets and legislative power) should flow like oxygenated blood to the peripheral nerves, nourishing every everyday laborer, tea farmer, taxi driver, and caregiver.
+
+Instead, political parties worldwide have grown into malignant "fat-cat tumors" attached directly to society's main aorta. They siphon hundreds of billions in public budgets and all social nutrients straight into the pockets of their party structures and mega-corporations. The result? Total peripheral circulatory failure. Ordinary citizens are left to survive on sheer grit, and life becomes harder by the day.
+
+2. The Western Illusion: A Lawless Nightmare of "Zombie Streets" and "Looting Laws"
+The world constantly praises Western democracy, but let us open our eyes and look at what the world has become under this "elite political party management."
+Walk down the main streets of major American or European cities. They are plagued by rampant drug abuse and loss of neurological control—crowded with "zombie-like" citizens wandering like the walking dead while party-driven governments look the other way. Even more absurdly, to pander for votes, politicians have engineered legal jokes like the "under-$950 shoplifting/looting laws," where mass robbery goes unpunished.
+
+When the social safety net has degenerated into total chaos—much like a deteriorating brain—those high-and-mighty politicians continue to count cash in their luxury mansions. You call this democracy? This is nothing short of "Systemic Political Dementia."
+
+3. Elections: A Recurring Cycle of "Mass Hypnotism"
+Every election cycle, these party politicians put on a theatrical performance of fighting, mudslinging, and polarization. In medicine, this is called a Nerve Block. Parties deliberately inject toxins of polarization, identity politics, and ideological warfare to paralyze our brain's pain receptors. They make us forget the chaotic traffic, the severe lack of elderly care, skyrocketing inflation, and collapsing public safety.
+
+Our sacred votes are held hostage, forced into a agonizing dilemma between the "bad" and the "worse." Once the election ends, the fat cats return to their lavish lifestyles, and we return to our struggles. If this necrotized gangrene is not surgically removed immediately, the next generation will have absolutely no future.
+
+4. Our Scientific Cure: Break the Monopoly and "Reboot" the System
+Since the global partisan apparatus has completely failed, we no longer need to beg these career politicians! Grounded in professional confidence, we propose the world’s most advanced and fairest scientific system: Sortition (The ID Lottery).
+
+We are bypassing this calcified, corrupt partisan system entirely and installing a healthy Bypass Graft (a new circulatory vessel), routing legislative power directly back into the hands of honest, hardworking citizens!
+
+Why is this system profoundly superior?
+
+True Cellular Regeneration: Modeled after the citizen-juror system, we utilize a fair, scientific lottery to select representatives directly from everyday people. Whether you are a homemaker, a professional caregiver, a massage therapist, or a small business owner—if your ID is drawn, you become the national representative. This is how we inject fresh, healthy blood into the legislature and permanently shatter the partisan monopoly.
+
+Surgical Excision of Corporate Tumors: Selected representatives do not need to waste millions on campaign flags, billboards, and mass rallies. Since you do not take a single dime from mega-corporations, you will never be a corporate puppet. Owing zero political debts, your only allegiance in the assembly will be to your conscience and your community, allowing you to speak the absolute truth for the grassroots.
+
+Restoring Healthy Social Metabolism: Without partisan fat cats paralyzing the legislature for private gain, throwing water balloons, and staging political theater, representatives will sit down constructively. Armed with objective logic and scientific data, they will systematically resolve local infrastructure, long-term care networks, public security, and educational resources.
+
+This is not a utopian dream; this is a world-class structural re-engineering project.
+We refuse to remain the ATM for partisan fat cats! Guided by science and conscience, we will reclaim the sovereign right of governance and return it completely to every honest, hardworking citizen!
+
+"Much more comprehensive Q&As and deeper systemic analyses are fully detailed across this website. If you choose to invest your patience in reading through it, you automatically become a co-founder of this global movement for the common good. Let us unite and fight together for a better, more secure life!"
+
 - - - - -
 
 🌐 ID Lottery 國際宣言：重構政治賽局的代碼
