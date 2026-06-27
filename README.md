@@ -43,6 +43,7 @@
 
 - - - - 
 【ID Lottery】Understand Our Social Re-Engineering in Just One Minute!
+
 "Many people have asked me: 'Master Hsu, your website contains an immense amount of data and reflects incredible dedication, but I cannot read it all at once.' Fair enough! Let me break it down for you in the simplest terms:"
 
 What is the core problem? Current "partisan politics" is completely dead. Regardless of parties or borders, political parties have mutated into "privileged fat cats" sucking the nation's resources dry. Every election, they use ideology to "hypnotize" us, forcing us to make a painful choice between bad and worse party politicians. Once the votes are cast, they continue to enrich themselves while ordinary citizens struggle at the very bottom.
