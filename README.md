@@ -1833,6 +1833,7 @@ Once the legislative framework for this new system is successfully established d
 
   - - - 
  ✉️ An Open Letter to Nobel Laureate Dr. Demis Hassabis
+ 
 Subject: From Protein Structures to Social Structures: A Scientific Invitation from Taiwan on the "Restoration and Defense of Social Integrity"
 
 Dear Dr. Demis Hassabis,
@@ -1866,11 +1867,17 @@ I look forward to discussing how we can deploy science and systemic integrity to
 Sincerely yours in medical integrity,
 
 Hsu Tsuan-Jung (Hsu Dzwan-Rong)
+
 Founder, ID Lottery Governance Framework
+
 Editor-in-Chief, Taiwan Beauty News
+
 Primary Institutional Email: u107207006@cmu.edu.tw
+
 Alternative Correspondence: happyholdme@gmail.com
+
 Official Platform: https://www.taiwanbeautynews.com/
+
   - - - - -
 # 《沒有醫生的手術台》/ The Operating Table Without a Doctor
 
