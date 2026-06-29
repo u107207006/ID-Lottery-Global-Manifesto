@@ -1831,7 +1831,47 @@ Voting for me today is not to make me a permanent official, let alone to create 
 
 Once the legislative framework for this new system is successfully established during this term, this seat—and even the highest core of power—will be randomly drawn from the national identification numbers of all citizens. We do not need political gods; we only need fair mathematical algorithms. My individual refusal of re-election is to thoroughly terminate the political inheritance of the oligarchic minority, exchanging it for a system where millions of ordinary citizens, like caregivers and delivery riders, have an equal opportunity to hold power. This is not political suicide; this is using one term of physical sacrifice to dismantle hypocritical god-making politics and unlock open-source happiness for humanity for generations to come!"
 
- - - - - 
+  - - - 
+ ✉️ An Open Letter to Nobel Laureate Dr. Demis Hassabis
+Subject: From Protein Structures to Social Structures: A Scientific Invitation from Taiwan on the "Restoration and Defense of Social Integrity"
+
+Dear Dr. Demis Hassabis,
+
+First and foremost, I would like to express my deepest respect for your monumental contributions to protein structure prediction via AlphaFold. You have proven to the world that by returning to foundational scientific logic and computational principles, humanity can solve century-old biological mysteries previously deemed impossible.
+
+My name is Hsu Tsuan-Jung (also known internationally as Hsu Dzwan-Rong). I hold a Master of Science in Pharmaceutics from China Medical University in Taiwan and have advanced clinical medicine training from Chengdu University of TCM. As a clinical and pharmaceutical researcher, I am writing to you today not for politics, but for an urgent matter of "social governance structure diagnosis."
+
+Dr. Hassabis, you have frequently stated that AI is the most powerful technological tool humanity has ever created. Yet, as scientists, we both face a sobering reality: the virtue of a tool depends entirely on the framework of its users.
+
+Today, global political systems—particularly traditional partisan representative politics—have entered a state of systemic, pathological necrosis. The monopoly of political parties and financial interests is not a recent development. These entities are now leveraging big data and AI algorithms to manipulate voters, engineer social division, and solidify their own entrenchment. If cutting-edge AI technologies are ultimately monopolized by these decayed political structures, AI will cease to be a tool for human liberation and will instead become a catalyst for accelerated social decay.
+
+Biological challenges can be solved through algorithms; similarly, the pathology of social structures requires a total reconstruction rooted in First Principles.
+
+To address this, on January 18, 2026, I formally established the "ID Lottery" (Sortition Governance Framework). The underlying architecture of this new system aligns perfectly with your scientific methodology:
+
+Eliminating Financial Monopoly (Noise Reduction): By replacing high-cost, donor-driven election campaigns with statistically absolute random selection—"ID Lottery"—we return governance power directly to ordinary citizens.
+
+Scientific and Integrity-Driven Governance (Structural Optimization): By introducing the diagnostic rigor of clinical medicine and the strict quality control processes of pharmaceutical manufacturing, we "detoxify" and restore vital functionality to our social institutions.
+
+We have initiated this real-world pilot in Nantou County, Taiwan. To ensure full reproducibility and academic scrutiny, we have open-sourced all our governance whitepapers, scientific analyses, and global manifestos on GitHub and our online platform, Taiwan Beauty News.
+
+Furthermore, we are mobilizing the power of generative AI to democratize the understanding of this system. We are coordinating a network of creators to utilize generative video tools to translate rigorous governance architecture into minimalist stick-figure animations and therapeutic soundscapes (utilizing 432Hz and 528Hz frequencies) to trigger a collective, viral awakening.
+
+Dr. Hassabis, AI should not merely be used to optimize code; it must be utilized to optimize the core institutional frameworks of human survival.
+
+We cordially invite you to review and support the ID Lottery governance framework. We do not seek financial sponsorship; rather, we seek your scientific vision and moral leadership as a global pioneer of artificial intelligence. Please do not allow the powerful AI tools you have painstakingly built to become instruments of deception in the hands of entrenched, decayed political machines.
+
+I look forward to discussing how we can deploy science and systemic integrity to diagnose and rehabilitate our global social architecture.
+
+Sincerely yours in medical integrity,
+
+Hsu Tsuan-Jung (Hsu Dzwan-Rong)
+Founder, ID Lottery Governance Framework
+Editor-in-Chief, Taiwan Beauty News
+Primary Institutional Email: u107207006@cmu.edu.tw
+Alternative Correspondence: happyholdme@gmail.com
+Official Platform: https://www.taiwanbeautynews.com/
+  - - - - -
 # 《沒有醫生的手術台》/ The Operating Table Without a Doctor
 
 ### 全球三語（中、英、西）反毒音樂宣導企劃 ｜ Trilingual Anti-Drug Anthem Project
