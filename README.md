@@ -1,13 +1,20 @@
-🏛️ 歡迎來到 ID Lottery 全球治理智庫
+🏛️ 歡迎來到 ID Lottery 全球治理智
 Welcome to the ID Lottery Global Governance Think Tank
 這不只是資訊網站，更是一個以醫學科學治世的「社會診斷與誠信（Integrity）恢復基地」。 This is not just an information site; it is a sanctuary for scientific governance—a base for "Social Diagnosis & Integrity Recovery" rooted in clinical medical logic.
+
 為了解救因政黨壟斷而陷入系統性「慢性發炎」與壞死的現代社會，我們將西醫臨床解剖學與製藥嚴謹邏輯注入治理。首創 ID Lottery（公民抽籤治理制度），這是一套經過邏輯驗證的「社會血管旁路移植手術」。用隨機抽籤取代金權政治，公共官職回歸人民，從根本代謝掉高房價、低薪與階級剝削的毒素。 To rescue modern society from systemic necrosis and chronic inflammation caused by partisan monopoly, we apply clinical anatomical logic and pharmaceutical rigor to social reform. We pioneered the ID Lottery (Sortition Governance Framework)—a logically verified "social bypass surgery." By replacing money-politics with random selection, public office returns to the people, fundamentally metabolizing the toxins of high housing prices, stagnant wages, and class exploitation.
+
 📦 探索我們的治理寶藏庫 | Explore Our Treasury
 我們懷著無比的誠意，為全球不同背景的讀者準備了多維度的覺醒工具： With utmost sincerity, we have prepared a multi-dimensional toolkit for global citizens of all backgrounds:
+
 深度文獻與白皮書 (Deep Research & Whitepapers)： 供學者與決策者深度剖析制度法理。 / For scholars seeking rigorous institutional logic.
+
 直觀問答庫 (Intuitive Q&A)： 快速破解傳統代議政治的迷思。 / Swiftly deconstructing the myths of representative politics.
+
 原創觀念漫畫 (Original Conceptual Cartoons)： 用極簡視覺讓公民覺醒變得輕鬆、喜悅。 / Utilizing minimalist visual art to make civic awakening joyful and accessible.
+
 全球多語系 (Multilingual Global Manifesto)： 跨越國界，點燃全球體制改革的火苗。 / Transcending borders to ignite the flames of global institutional reform.
+
 「寶藏在庫，鑰匙在您手中。」 這裡的每一份論述、每一格漫畫、每一種語言，都是為了向世人證明：人類，絕對值得過上更幸福、更免於恐懼的生活。 讓我們攜手，改寫世界歷史。
 "The treasury is open; the key is in your hands." Every thesis, cartoon, and language here exists to prove one truth: Humanity unconditionally deserves a life of greater happiness and freedom from fear. Let us join hands and rewrite human history.
 
