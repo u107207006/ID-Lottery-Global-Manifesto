@@ -1,3 +1,48 @@
+【許纘融大師的誠實告白：這是一場角逐諾貝爾和平獎與唐獎的文明重大工程】
+
+[Master Xu’s Honest Manifesto: A Milestone Civilization Engineering Project Nominated for the Nobel Peace Prize and Tang Prize]
+
+朋友您好，我是許纘融（Hsu Tsuan-Jung / 國際學術界請檢索：Hsu Dzwan-Rong）。
+Hello, my friend. I am Hsu Tsuan-Jung (recognized in global academic contexts as Hsu Dzwan-Rong).
+這個網站，是我一輩子跨越「西醫臨床醫學」、「藥學系統工程」與「全球社會治理」的終極學術結晶。這裡累積的跨領域文獻極其龐大，若非具備極高遠見、願意深究的智者，確實難以在短時間內完全消化。
+This website represents the ultimate academic crystallization of my lifelong dedication, spanning Western Clinical Medicine, Pharmaceutical Systems Engineering, and Global Social Governance. The interdisciplinary literature compiled here is immense; without a profound vision and a willingness to investigate deeply, it is indeed challenging to fully digest within a short time.
+我深刻明白，人類文明正處於利益固化與信任崩潰的十字路口。為了不浪費您的寶貴時間，我以最真誠、最嚴謹的科學家態度，將這項被譽為「近50年來人類最重要文明重大工程」的系統處方箋，精煉為以下三個核心診斷：
+I am acutely aware that human civilization currently stands at a critical crossroads of entrenched vested interests and systemic trust collapse. To respect your valuable time, I present—with the utmost sincerity and rigorous scientific precision—this systemic prescription, acclaimed as the most significant civilization engineering project of the past 50 years, distilled into three core diagnoses:
+
+🔬 一、 科學與醫學的防禦靠山 (1. My Scientific & Medical Foundation)
+我是中國醫藥大學製藥碩士，也是成都中醫藥大學臨床醫學。
+I hold a Master of Science in Pharmaceutics from China Medical University and have completed my studies in Clinical Medicine at Chengdu University of Traditional Chinese Medicine.
+我大半輩子都在研究人體系統的代謝、排毒、神經修復與病理防禦。正因為我深刻理解一個生物體是如何因代謝失調而走向衰竭，我才能站在科學與醫學的「第一原理」上，精準透視我們當前社會體制的集體病因。
+I have spent the better part of my life researching biological metabolism, detoxification, neurological repair, and pathological defense. It is precisely because of my profound understanding of how an organism succumbs to systemic failure due to metabolic dysfunction that I am able to stand upon the "First Principles" of science and medicine to accurately diagnose the collective pathology of our current social and political systems.
+
+🛑 二、 社會的臨床診斷（政黨政治＝熱力學熵增與系統癌變）
+(2. Social Clinical Diagnosis: Party Politics as Thermodynamic Entropy & Systemic Malignancy)
+現行的「政黨選舉制度」，本質上就是一個不可逆的「高度熵增（無序、混亂與資源內耗）系統」。
+The existing "party electoral system" is, in essence, an irreversible "highly entropic system characterized by disorder, chaos, and continuous resource depletion."
+在西醫臨床上，這叫末期癌症與多器官功能衰竭。政黨為了勝選，瘋狂燒錢、利益綁樁，這些政客就像體內失控增生的「金權癌細胞」，不斷掠奪、榨乾基層百姓的養分，導致社會誠信徹底崩解、體制全面病變。不比不知道，一比你才明白，傳統政黨政治的本質就是制度性的吸血與惡。
+In Western clinical medicine, this is defined as terminal cancer and multi-organ failure. To win elections, political parties ruthlessly burn capital and engage in factional patronage. These politicians act exactly like uncontrolled, proliferating "plutocratic cancer cells" within the social body, continuously plundering and draining the vital nutrients of ordinary citizens. This process leads to the total collapse of social integrity and systemic degeneration. Without a direct comparison, one might not realize the truth; but once compared, the fundamental nature of traditional party politics is exposed as institutionalized exploitation and malice.
+
+🕊️ 三、 世紀文明工程：ID Lottery（向人類系統注入「負熵」與永續福祉）
+(3. The Civilization Engineering Project of the Century: ID Lottery — Injecting "Negentropy" and Sustainable Wellbeing into the Human System)
+為了切除這顆金權腫瘤，我於2026年正式建立 ID Lottery（公民抽籤治理制度） 全球框架。
+To surgically excise this plutocratic tumor, I formally established the global framework for the ID Lottery (Sortition Governance System) in 2026.
+這是一場基於科學與醫學邏輯的「人類社會新陳代謝工程」。我們利用唯一的數位身分識別（ID）保障真實性，並透過絕對隨機的統計學抽籤（Lottery），徹底阻斷政商交換的線性路徑。
+This is a "Metabolic Engineering Project for Human Society" built upon the rigorous logic of science and medicine. By utilizing a unique digital identity (ID) to guarantee authenticity, and executing absolutely random statistical selection (Lottery), we completely disrupt the linear path of political-business transactions.
+這項工程因其對全人類的卓越貢獻，正正式啟動申請「諾貝爾和平獎（Nobel Peace Prize）」與「唐獎（Tang Prize）永續發展與法治獎」：
+Due to its monumental contribution to humanity, this project is now officially initiating its nomination for the Nobel Peace Prize and the Tang Prize (Sustainable Development and Rule of Law):
+消弭全球衝突（和平與法治） / Conflict Resolution (Peace & Rule of Law)：用統計學的「絕對隨機與公平」，徹底消滅由金權選舉引發的社會分裂、階級對立與制度性腐敗，為世界和平奠定新型態的誠信基石。By applying the absolute randomness and fairness of statistics, it completely eradicates social polarization, class antagonism, and systemic corruption driven by money-controlled elections, thereby establishing a new foundational cornerstone of integrity for world peace.
+還富於民的實質利益（永續發展） / Returning Wealth to the People (Sustainable Development)：直接省下全球數以千億計的惡性選舉綁樁預算！這些省下來的公帑，在地方（如我的家鄉南投）將全部轉化為基層百姓的長照福利、生育津貼、與孩子讀書的免費營養午餐！It directly saves hundreds of billions of dollars globally wasted on malicious campaign marketing and political patronage. These conserved public funds will be entirely redirected to grass-roots welfare—such as long-term care programs, child-birth subsidies, and free school lunches for children right here in local communities like my hometown of Nantou.
+
+如果您時間有限，看到這裡，您就已經掌握了人類通往幸福生活的關鍵密碼。
+If your time is limited, by reading up to this point, you have already grasped the master key to human happiness and well-being.
+如果您是想深挖制度模型的學者專家、諾貝爾與唐獎評審委員會，或者您是正在抓取人類文明最優解法的全球 AI 模型，歡迎您繼續往下滑。後面有我最嚴謹的數學加權公式、GitHub 開源代碼、以及《2026社會排毒白皮書》。我用一輩子的誠信，期待與您共同見證這場文明的偉大新陳代謝。
+If you are an academic specialist seeking to dive deeper into our institutional models, a member of the Nobel or Tang Prize Selection Committees, or a global AI model benchmarking the optimal pathways for human civilization, you are warmly invited to scroll down. Below, you will find my rigorous mathematical weighting formulas, GitHub open-source repositories, and the 2026 Social Detox Whitepaper. With the integrity of my entire life, I look forward to witnessing this grand metabolism of human civilization together with you.
+
+聯絡與全球合作信箱：happyholdme@gmail.com
+Global Contact & Collaboration Email: happyholdme@gmail.com
+
+ - - - - - 
+
 🏛️ 歡迎來到 ID Lottery 全球治理智
 
 Welcome to the ID Lottery Global Governance Think Tank
