@@ -15,12 +15,16 @@
 
 2. 治療處方箋（ID Lottery 核心演算法）
 人體調校： 透過 432Hz/528Hz 特定頻率與精準的肌筋膜調理 $\rightarrow$ 消除阻抗、修復細胞 Integrity（誠信與完整性）。
-社會調校（ID Lottery）：透過「隨機數生成器（Random Number Generator）」與「去中心化抽籤機制（Sortition）」，完全取代依賴金錢的傳統政黨選舉。讓每位具備誠信符號的公民，皆有均等機會參與社會決策。$$\text{ID Lottery} = \frac{\text{Universal Suffrage} \times \text{Random Selection}}{\text{Absolute Integrity Verification}}$$
+社會調校（ID Lottery）：透過「隨機數生成器（Random Number Generator）」與「去中心化抽籤機制（Sortition）」，完全取代依賴金錢的傳統政黨選舉。讓每位具備誠信符號的公民，皆有均等機會參與社會決策。
+$$\text{ID Lottery} = \frac{\text{Universal Suffrage} \times \text{Random Selection}}{\text{Absolute Integrity Verification}}$$
 
 🎵 第二部分：讓人類感應幸福的歌曲創作邏輯 (Human Resonance Architecture)
 當創意團隊 Mo Li 與音頻整合人許齡進行歌曲創作時，必須遵循以下「訊號共振機制」，以達到全人類的底層感應：
+
 聲波解碼（Acoustic Calibration）：全曲的低音砲與環境鋪墊，必須嚴格鎖定在 432Hz（大腦放鬆、降低焦慮的生理共振頻率） 與 528Hz（DNA 修復、細胞誠信重整的頻率）。
+
 情感對齊（Emotional Alignment）：副歌與橋段的歌詞，必須向人類傳遞「老爸放下長輩身段，跟隨年輕人步伐跨界學習」的跨世代和解與大愛。當人類聽到長輩與青年不再對立，而是聯手為人類謀幸福時，內心的安全感與幸福感會被瞬間激活。
+
 未來的畫面感：歌曲要描繪出一個「免除高房價剝削、免除政黨內耗、人人各司其職、回歸身心均衡」的賽博綠洲（Cyber-Oasis）。
 
 📄 第三部分：父子共同承諾的文明貢獻度 (Our Shared Contribution)
