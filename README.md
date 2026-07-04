@@ -3,6 +3,373 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ID Lottery 公民抽籤治理制度 - 互動模擬器</title>
+    <style>
+        :root {
+            --bg-color: #0d1117;
+            --panel-left: #1f1212;
+            --panel-right: #0f1f15;
+            --text-color: #c9d1d9;
+            --danger-color: #ff6b6b;
+            --success-color: #4caf50;
+            --accent-color: #58a6ff;
+        }
+
+        body {
+            font-family: Arial, "Microsoft JhengHei", sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            margin: 0;
+            padding: 20px;
+            line-height: 1.25;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 25px;
+            border-bottom: 2px solid #21262d;
+            padding-bottom: 15px;
+        }
+
+        header h1 {
+            color: #ffffff;
+            margin: 0 0 10px 0;
+            font-size: 24px;
+        }
+
+        header p {
+            margin: 5px 0;
+            color: #8b949e;
+        }
+
+        .credit-badge {
+            font-size: 12px;
+            background: #21262d;
+            padding: 4px 10px;
+            border-radius: 12px;
+            display: inline-block;
+            margin-top: 5px;
+        }
+
+        .main-container {
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .panel {
+            flex: 1;
+            min-width: 340px;
+            max-width: 550px;
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.5);
+            border: 1px solid #30363d;
+            display: flex;
+            flex-direction: column;
+        }
+
+        #left-panel {
+            background-color: var(--panel-left);
+            border-top: 4px solid var(--danger-color);
+        }
+
+        #right-panel {
+            background-color: var(--panel-right);
+            border-top: 4px solid var(--success-color);
+        }
+
+        .panel-title {
+            font-size: 20px;
+            font-weight: bold;
+            margin-bottom: 15px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .entropy-display {
+            font-size: 14px;
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-weight: bold;
+        }
+
+        .left-entropy { background-color: rgba(255, 107, 107, 0.2); color: var(--danger-color); }
+        .right-entropy { background-color: rgba(76, 175, 80, 0.2); color: var(--success-color); }
+
+        .arena {
+            height: 180px;
+            background-color: rgba(0,0,0,0.3);
+            border-radius: 6px;
+            position: relative;
+            overflow: hidden;
+            border: 1px solid #21262d;
+            margin-bottom: 15px;
+        }
+
+        .particle {
+            position: absolute;
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            transition: all 0.5s ease;
+        }
+
+        .btn-box {
+            text-align: center;
+            margin-top: auto;
+        }
+
+        button {
+            background-color: #238636;
+            color: white;
+            border: 1px solid rgba(240,246,252,0.1);
+            padding: 12px 24px;
+            font-size: 16px;
+            font-weight: bold;
+            border-radius: 6px;
+            cursor: pointer;
+            width: 100%;
+            transition: background 0.2s;
+        }
+
+        button:hover { background-color: #2ea043; }
+        button:disabled { background-color: #21262d; color: #8b949e; cursor: not-allowed; }
+
+        .log-box {
+            background: rgba(0,0,0,0.5);
+            border: 1px solid #30363d;
+            border-radius: 6px;
+            padding: 10px;
+            height: 120px;
+            overflow-y: auto;
+            font-family: monospace;
+            font-size: 12px;
+            color: #8b949e;
+        }
+
+        .log-entry { margin-bottom: 4px; }
+        .log-success { color: #58a6ff; }
+        .log-danger { color: var(--danger-color); }
+
+        /* 抽籤動畫疊加層 */
+        .lottery-animation {
+            display: none;
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: #161b22;
+            border: 2px solid var(--success-color);
+            padding: 30px;
+            border-radius: 12px;
+            text-align: center;
+            z-index: 1000;
+            box-shadow: 0 0 30px rgba(76,175,80,0.5);
+            min-width: 280px;
+        }
+
+        .wave-box {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 3px;
+            height: 30px;
+            margin: 15px 0;
+        }
+
+        .wave-bar {
+            width: 3px;
+            height: 5px;
+            background-color: var(--success-color);
+            animation: bounce 0.5s ease-in-out infinite alternate;
+        }
+        .wave-bar:nth-child(2) { animation-delay: 0.1s; }
+        .wave-bar:nth-child(3) { animation-delay: 0.2s; }
+        .wave-bar:nth-child(4) { animation-delay: 0.3s; }
+        .wave-bar:nth-child(5) { animation-delay: 0.4s; }
+
+        @keyframes bounce {
+            from { height: 5px; }
+            to { height: 25px; }
+        }
+
+        .overlay {
+            display: none;
+            position: fixed;
+            top: 0; left: 0; right: 0; bottom: 0;
+            background: rgba(0,0,0,0.8);
+            z-index: 999;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>ID Lottery 公民抽籤治理系統庫 - 互動模擬網頁</h1>
+    <p>以臨床醫學診斷邏輯，解決地緣政治與社會結構性衰竭（社會熵）</p>
+    <div class="credit-badge">
+        系統架構師：許纘融 (Hsu Dzwan-Rong) | 邏輯驗證：許騰 | 音訊整合：許齡
+    </div>
+</header>
+
+<div class="main-container">
+    <!-- 左側面板：傳統金權政治 -->
+    <div class="panel" id="left-panel">
+        <div class="panel-title">
+            <span>傳統金權政黨政治</span>
+            <span class="entropy-display left-entropy" id="left-entropy-val">社會熵: 85%</span>
+        </div>
+        <div class="arena" id="left-arena"></div>
+        <div class="log-box" id="left-log">
+            <div class="log-entry log-danger">[系統警告] 財團資金注入，決策偏向壟斷。</div>
+            <div class="log-entry log-danger">[系統警告] 政黨惡意杯葛，法案陷入心肌梗塞。</div>
+        </div>
+    </div>
+
+    <!-- 右側面板：ID Lottery 盲抽系統 -->
+    <div class="panel" id="right-panel">
+        <div class="panel-title">
+            <span>ID Lottery 隨機盲抽治理</span>
+            <span class="entropy-display right-entropy" id="left-entropy-val-r">社會熵: 32%</span>
+        </div>
+        <div class="arena" id="right-arena"></div>
+        <div class="btn-box">
+            <button id="draw-btn" onclick="triggerLottery()">⚡ 啟動全球文明校準 (432Hz/528Hz)</button>
+        </div>
+        <div class="log-box" id="right-log" style="margin-top: 15px;">
+            <div class="log-entry log-success">[訊號對齊] 系統啟動，排除地緣政治干擾。</div>
+            <div class="log-entry">[等待指令] 請點擊上方按鈕執行科學盲抽...</div>
+        </div>
+    </div>
+</div>
+
+<!-- 彈出抽籤動畫層 -->
+<div class="overlay" id="overlay"></div>
+<div class="lottery-animation" id="lottery-box">
+    <div style="font-size: 14px; color: #8b949e;">432Hz 核心時鐘校準中...</div>
+    <div class="wave-box">
+        <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
+    </div>
+    <div id="scrolling-names" style="font-size: 20px; font-weight: bold; color: #ffffff; margin: 15px 0; height: 30px;">
+        正在檢索公民庫...
+    </div>
+    <div style="font-size: 12px; color: var(--success-color);">528Hz DNA 修復級重低音穩定脈衝</div>
+</div>
+
+<script>
+    // 模擬公民數據庫
+    const citizenPool = [
+        { name: "張阿姨", title: "南投在地傳統市場攤商 (54歲)", badge: "基層庶民代表" },
+        { name: "陳工程師", title: "新竹科學園區半導體資深架構師 (38歲)", badge: "科技工程邏輯" },
+        { name: "林醫師", title: "公立醫院臨床醫學主治醫師 (45歲)", badge: "臨床診斷思維" },
+        { name: "許同學", title: "國立大學法律系青年代表 (22歲)", badge: "新世代原生活力" },
+        { name: "王大叔", title: "南投名間鄉有機茶農 (60歲)", badge: "土地永續發展" },
+        { name: "莫利師傅", title: "專業按摩師傅與高階照護工程師 (63歲)", badge: "神經筋膜血管耦合專家" }
+    ];
+
+    // 初始化動態粒子（代表社會分子）
+    function createParticles(arenaId, color, count) {
+        const arena = document.getElementById(arenaId);
+        arena.innerHTML = '';
+        for (let i = 0; i < count; i++) {
+            let p = document.createElement('div');
+            p.className = 'particle';
+            p.style.backgroundColor = color;
+            p.style.left = Math.random() * 95 + '%';
+            p.style.top = Math.random() * 92 + '%';
+            // 隨機抖動動畫
+            if(arenaId === 'left-arena') {
+                p.style.boxShadow = '0 0 6px ' + color;
+                animateChaos(p);
+            } else {
+                animateOrder(p);
+            }
+            arena.appendChild(p);
+        }
+    }
+
+    function animateChaos(p) {
+        setInterval(() => {
+            p.style.left = Math.max(0, Math.min(95, parseFloat(p.style.left) + (Math.random() * 10 - 5))) + '%';
+            p.style.top = Math.max(0, Math.min(92, parseFloat(p.style.top) + (Math.random() * 10 - 5))) + '%';
+        }, 300);
+    }
+
+    function animateOrder(p) {
+        setInterval(() => {
+            p.style.left = Math.max(0, Math.min(95, parseFloat(p.style.left) + (Math.random() * 2 - 1))) + '%';
+            p.style.top = Math.max(0, Math.min(92, parseFloat(p.style.top) + (Math.random() * 2 - 1))) + '%';
+        }, 600);
+    }
+
+    // 觸發科學盲抽
+    function triggerLottery() {
+        const btn = document.getElementById('draw-btn');
+        const overlay = document.getElementById('overlay');
+        const box = document.getElementById('lottery-box');
+        const scrollZone = document.getElementById('scrolling-names');
+        
+        btn.disabled = true;
+        overlay.style.display = 'block';
+        box.style.display = 'block';
+
+        let duration = 0;
+        let interval = setInterval(() => {
+            let randomCitizen = citizenPool[Math.floor(Math.random() * citizenPool.length)];
+            scrollZone.innerText = randomCitizen.name + " ⚖️ " + randomCitizen.badge;
+            duration += 100;
+            if (duration >= 2500) {
+                clearInterval(interval);
+                finalizeSelection();
+            }
+        }, 100);
+    }
+
+    // 確定抽籤結果
+    function finalizeSelection() {
+        const overlay = document.getElementById('overlay');
+        const box = document.getElementById('lottery-box');
+        const btn = document.getElementById('draw-btn');
+        const rightLog = document.getElementById('right-log');
+
+        overlay.style.display = 'none';
+        box.style.display = 'none';
+        btn.disabled = false;
+
+        // 固定選出一位公民
+        const winner = citizenPool[Math.floor(Math.random() * citizenPool.length)];
+        
+        // 寫入日誌
+        const timestamp = new Date().toLocaleTimeString();
+        rightLog.innerHTML = `<div class="log-entry log-success">[${timestamp}] 🎯 盲抽成功！選出決策官：<b>${winner.name}</b> (${winner.title})</div>` + rightLog.innerHTML;
+        rightLog.innerHTML = `<div class="log-entry log-success"> -> [文明校準] 排除金權污染，社會熵降低 15%！</div>` + rightLog.innerHTML;
+
+        // 觸發左側金權政治惡化惡性循環
+        const leftLog = document.getElementById('left-log');
+        leftLog.innerHTML = `<div class="log-entry log-danger">[${timestamp}] [惡性循環] 政黨動員內耗，社會熵攀升 5%</div>` + leftLog.innerHTML;
+
+        // 重新繪製右側綠色健康粒子（數量增加代表社會穩定度提高）
+        createParticles('right-arena', '#4caf50', 35);
+    }
+
+    // 介面初始化
+    window.onload = function() {
+        createParticles('left-arena', '#ff6b6b', 25); // 紅色混亂粒子
+        createParticles('right-arena', '#4caf50', 15); // 綠色穩定粒子
+    }
+</script>
+
+</body>
+</html>
+- - - -
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Taiwan Beauty News - ID Lottery 治理制度宣告</title>
     <style>
         :root {
