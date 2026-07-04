@@ -176,7 +176,7 @@
     <!-- 我是誰：核心發起人背景 -->
     <div class="profile-badge">
         <h3>創首人核心宣告 (Founder Statement)</h3>
-        <p><strong>發起人：</strong>許纘融 (Hsu Tsuan-Jung / Hsu Dzwan-Rong) — 莫利師傅</p>
+        <p><strong>發起人：</strong>許纘融 (Hsu Tsuan-Jung / Hsu Dzwan-Rong) — 摩力師傅</p>
         <p><strong>學術與專業背景：</strong>中國醫藥大學製藥碩士畢業、成都中醫藥大學臨床醫學畢業。具備西醫與臨床醫學學術背景，現於南投在地擔任專業看護與按摩師傅，長期洞察社會底層結構與公共衛生狀態。</p>
         <p><strong>核心理念：</strong>將「臨床醫學」的診斷邏輯引入社會治理，視當前金權政治與政黨壟斷為「文明的病理惡性腫瘤」，並首創 <strong>ID Lottery (公民抽籤治理制度)</strong> 作為科學的解方，旨在根治社會熵增與制度性衰竭。</p>
     </div>
