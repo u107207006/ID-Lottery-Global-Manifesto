@@ -1,3 +1,9 @@
+ID Lottery Framework
+Clinical Approach to World Peace
+& Systemic Detox of
+Global Governance
+© 2026 Taiwan Beauty News. Dedicated to the "ID Lottery Framework: Clinical Approach to World Peace & Systemic Detox of Global Governance." Developed by Master Hsu Tsuan-Jung(Hsu Dzwan-Rong) & Hsu Teng. 
+- - - - - 
 <!DOCTYPE html>
 <html lang="zh-TW">
 <head>
