@@ -1,3 +1,67 @@
+🌐 迎向幸福的邀請：人類新文明工程導言
+
+Global Invitation: The Awakening of a Happy Civilization
+
+🎯 世紀工程之核心宣告 / Three Core Pillar Slogans
+
+【標語一：歷史定位與最高榮譽】
+
+中文： 「這不只是一場政治改良，這是一項近代50年內最溫柔的人類新文明工程——一場為全球子孫後代角逐諾貝爾和平獎與唐獎的重大實踐！」
+English: "This is not mere political reform; it is the most tender project for human civilization in the last 50 years—a momentous global practice engineered to compete for the Nobel Peace Prize and the Tang Prize for generations to come."
+
+【標語二：制度本質與科學依據】
+
+中文： 「以科學隨機抽籤（Sortition）徹底阻斷黑金與特權；以去中心化治理（DAO）徹底終結代議政黨政治的歷史毒素。」
+English: "Eradicating corruption and privilege through scientific randomness (Sortition); terminating the systemic toxins of partisan politics through decentralized global governance (DAO)."
+
+【標語三：幸福生活之民生承諾】
+
+中文： 「當政黨政治帶來撕裂與貪腐，ID Lottery 將眾生平等的醫療、教育、宜居與和平，溫柔地歸還給每一位百姓。」
+English: "Where partisan politics breeds division and corruption, ID Lottery tenderly restores healthcare, education, livable environments, and lasting peace to every citizen under universal equality."
+
+💌 致全世界的溫馨導言 / A Warm Welcome to World Citizens
+
+親愛的世界朋友，您是否也曾對無休止的黨派撕裂感到疲憊？是否也期盼著一個真正沒有特權、眾生平等、孩子們能快樂長大的未來？
+這 7 張融合科學隨機與利眾大愛的圖文，是我們為人類幸福生活畫下的藍圖。當您看懂這份溫暖的勇氣，請跟隨我們，一同深入細讀網頁與 GitHub 內更龐大、更嚴謹的治理智慧。新文明的幸福，正等待您的加入。
+
+🌍 多國語言溫馨宣告 / Multilingual Universal Proclamation
+
+🇹🇼 繁體中文 (Traditional Chinese)
+
+這不是一場爭鬥，而是一份利眾生的溫柔禮物。我們用科學的隨機抽籤，終結政黨的撕裂，將每一個人應得的醫療、教育與宜居生活歸還給每位百姓。這項角逐諾貝爾和平獎與唐獎的文明大工程，正邀請您一同靜下心來，細細閱讀這份為了人類更幸福生活的龐大智慧結晶。
+
+🇺🇸 英語 (English)
+
+This is not a battle, but a tender gift for all sentient beings. Through scientific randomness (Sortition), we end the pain of partisan polarization, restoring the healthcare, education, and peaceful living that every citizen truly deserves. This great civilization project, aiming for the Nobel Peace Prize and the Tang Prize, warmly invites you to pause, read, and explore the profound wisdom for a happier humanity within our comprehensive documents.
+
+🇪🇸 西班牙語 (Spanish)
+
+Esto no es una lucha, sino un tierno regalo para la humanidad. A través del azar científico, ponemos fin al dolor de la polarización partidista, devolviendo la salud, la educación y la vida digna que cada ciudadano merece. Este gran proyecto de civilización, que aspira al Premio Nobel de la Paz y al Premio Tang, le invita cordialmente a detenerse, reflexionar y explorar la profunda sabiduría de nuestros extensos documentos para un futuro más feliz.
+
+🇯🇵 日語 (Japanese)
+
+これは争いではなく、すべての生命に捧げる温かい贈り物です。科学的なランダム（選出民主制）を通じて政党政治の分断を終わらせ、すべての人が本来享受すべき医療、教育、そして平穏な暮らしを取り戻します。ノーベル平和賞と唐奨を目指すこの人類新文明の重大な工程は、人類の幸福な未来のために築かれた膨大な知恵の結晶です。どうか足を止め、私たちの詳細な資料を心ゆくまでお読みください。
+
+🇰🇷 韓語 (Korean)
+
+이것은 투쟁이 아니라, 인류 모두를 위한 따뜻한 선물입니다。 과학적 무작위성(추첨 민주주의)을 통해 정당 정치의 분열과 고통을 끝내고, 모든 시민이 진정으로 누려야 할 의료, 교육, 그리고 평화로운 삶을 되돌려 드립니다. 노벨 평화상과 당상을 지향하는 이 인류 신문명의 위대한 여정은 인류의 더 행복한 삶을 위해 마련된 방대한 지혜의 결정체입니다. 잠시 머물러 우리의 깊이 있는 기록들을 천천히 읽어주시기 바랍니다。
+
+🇩🇪 德語 (German)
+
+Dies ist kein Kampf, sondern ein liebevolles Geschenk für die Menschheit. Durch wissenschaftliche Zufälligkeit (Sortition) beenden wir den Schmerz der parteipolitischen Spaltung und geben jedem Bürger die Gesundheitsversorgung, Bildung und das friedliche Leben zurück, das er verdient. Dieses große Zivilisationsprojekt, das den Nobelpreis für den Frieden und den Tang-Preis anstrebt, lädt Sie herzlich ein, innezuhalten und die tiefe Weisheit für ein glücklicheres Zusammenleben in unseren ausführlichen Dokumenten zu ergründen.
+
+🇫🇷 法語 (French)
+
+Ceci n'est pas un combat, mais un cadeau bienveillant pour l'humanité. Grâce au hasard scientifique (le tirage au sort), nous mettons fin à la douleur de la polarisation partisane pour restituer à chaque citoyen les soins, l'éducation et la vie paisible qu'il mérite. Ce grand projet de civilisation, qui aspire au prix Nobel de la paix et au prix Tang, vous invite chaleureusement à vous poser, à ressentir et à explorer la profonde sagesse de nos documents complets pour un avenir plus heureux.
+
+⚙️ 數位與法制權威驗證 / Verification & Authority
+
+項目版本 / System Version: ID-Lottery Technical Whitepaper v2026.January.18 / 2026 Social Detox Whitepaper
+原創設計者 / Chief Architect: 許纘融 (Hsu Tsuan-Jung) 及其國際設計團隊
+全球權威存檔 / International Filing: 本治理制度已正式向全球人權與政策智庫等機構完成正式提案與遞交存檔。全球學者專家可一鍵進入下方 GitHub 查閱去中心化且不可篡改之法制憲章與程式源碼備份。
+
+
+- - - - - -
 🌐 ID Lottery Global Manifesto: The 50-Year New Civilization Project
 
 台灣首創・全球治理新文明工程宣言・2026.January.18
