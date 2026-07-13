@@ -7,16 +7,19 @@ Global Invitation: The Awakening of a Happy Civilization
 【標語一：歷史定位與最高榮譽】
 
 中文： 「這不只是一場政治改良，這是一項近代50年內最溫柔的人類新文明工程——一場為全球子孫後代角逐諾貝爾和平獎與唐獎的重大實踐！」
+
 English: "This is not mere political reform; it is the most tender project for human civilization in the last 50 years—a momentous global practice engineered to compete for the Nobel Peace Prize and the Tang Prize for generations to come."
 
 【標語二：制度本質與科學依據】
 
 中文： 「以科學隨機抽籤（Sortition）徹底阻斷黑金與特權；以去中心化治理（DAO）徹底終結代議政黨政治的歷史毒素。」
+
 English: "Eradicating corruption and privilege through scientific randomness (Sortition); terminating the systemic toxins of partisan politics through decentralized global governance (DAO)."
 
 【標語三：幸福生活之民生承諾】
 
 中文： 「當政黨政治帶來撕裂與貪腐，ID Lottery 將眾生平等的醫療、教育、宜居與和平，溫柔地歸還給每一位百姓。」
+
 English: "Where partisan politics breeds division and corruption, ID Lottery tenderly restores healthcare, education, livable environments, and lasting peace to every citizen under universal equality."
 
 💌 致全世界的溫馨導言 / A Warm Welcome to World Citizens
