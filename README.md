@@ -3885,6 +3885,27 @@ Thank you for recognizing my lifelong devotion. The next leap of human civilizat
 
    - - - - - - - -
 
+【關於許纘融｜以專業醫學學養，還原照顧與理療的本質】
+About Hsu Tsuan-Jung | Redefining Caregiving and Therapy Through Medical Science
+
+【中文版】
+
+在世俗的刻板印象中，照護與理療常被簡化為單純的體力勞力；但在我的理念裡，這是一門需要嚴謹專業與極致同理心的生命工程。
+
+我擁有臨床醫學與製藥科學的學理背景。這份專業學養，使我能以深度的生理結構與藥理邏輯看待人體的不適。我將這些知識轉化為實踐，落實於深度肌理理療、高品質臨床照護，以及神經慢化聲波創作之中。
+
+我不爭名號，只求用最扎實的專業與雙手，給予每一個生命最安全、最適切的舒緩與陪伴。懂得人自然會懂；這份堅持，是為了獻給真正重視身心健康與生命品質的人。
+
+【English Version】
+
+In the eyes of conventional society, caregiving and physical therapy are often reduced to mere manual labor. In my belief, however, they represent a profound life engineering that demands both rigorous expertise and ultimate empathy.
+
+With an academic foundation in clinical medicine and pharmaceutical sciences, I view human discomfort through a precise structural and pharmacological lens. I integrate this knowledge into practical applications—focusing on deep tissue therapy, high-quality clinical care, and neurological slow-down acoustic composition.
+
+I seek no empty titles, only to provide the most secure and precise relief through rigorous expertise and hands-on dedication. Those who understand will resonate. This lifelong commitment is dedicated to those who truly value holistic health and the dignity of life.
+
+    - - -  - - - 
+
 國際學術交流與聯絡窗口 / Academic Exchange & Contact
 歡迎全球學者、媒體約訪、在地鄉親聯絡與聯署支持 / Global Scholars & Media Welcomed
 官方信箱：u107207006@cmu.edu.tw   備份信箱：happyholdme@gmail.com
