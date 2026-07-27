@@ -3906,6 +3906,68 @@ I seek no empty titles, only to provide the most secure and precise relief throu
 
     - - -  - - - 
 
+Track Title: Voice of a Social Doctor (Message to MrBeast)
+（執行製作人 (EP)： 許纘融 (Hsu Tsuan-Jung / Hsu Dzwan-Rong, M.S. in Pharmaceutics, Taiwan)核心身份 / 社會醫師： 許纘融 (Social Doctor)創意團隊 (Creative Team)： Mo Li、許騰 (Hsu Teng)、許齡 (Hsu Ling)音頻整合 (Audio Integration)： 許齡 (Hsu Ling)🎧 Style Prompt for AI Music Generator
+Cinematic Rock Fusion, heavy driving guitar riffs, intense pounding rhythm, passionate authoritative male vocal, raw emotional delivery, powerful chorus, dramatic spoken-word intro and bridge, inspiring and urgent finish
+
+📝 Full English & Chinese Lyrics
+【Intro: Self-Introduction (自我介紹與宣告)】
+(Driving bassline, heavy cinematic drumbeats entering / 重低音與電影感重拍進場)
+我是台灣 許纘融，
+社會醫師，
+人民治理教父。
+
+I am Hsu Tsuan-Jung from Taiwan,
+A Social Doctor,
+The Godfather of People-Centric Governance.
+
+【Verse 1: The AI-Money Monopoly Trap (AI與金錢的壟斷陷阱)】
+(Aggressive rock guitar riff, punchy rhythm / 爆發力電吉他與重拍)
+2026 加 50 年，直到 2076，
+政黨政客用錢買 AI，
+人類依然被肥貓政黨政客綁架、被壟斷割肉！
+政黨政客用錢買 AI，假民主，真壟斷！
+
+2026 plus fifty years—all the way to 2076,
+Politicians and political parties use money to buy AI,
+Fat-cat politicians buy up AI with their cash and tricks!
+Humanity stays kidnapped, bled dry by party machines!
+Money buys AI for politicians—fake democracy, corrupt regime!
+【Chorus: The True Meaning of Democracy (民主的真正價值)】
+(Massive vocal explosion, soaring rock melody / 聲線大爆發，搖滾主旋律)
+民主，是人民作主！不是政黨在作主！
+民主，是全民做主！不是政客在作主！
+還給人民真正的更幸福生活，
+打破政黨權力的黑幕！
+
+Democracy means People Rule—not party machines in control!
+Democracy means People Rule—not sleazy politicians buying souls!
+Restore true happiness to the people, break the dark corrupt chokehold!
+【Bridge: The Direct Call to MrBeast (對 MrBeast 的真誠呼喚與感謝)】
+(Rhythm slows down, deep emotional pulse and raw passion / 鼓點放慢，展現深沉情感與震撼力的呼喚)
+
+MrBeast，這個時代需要你！
+MrBeast，你沒有義務為世界負擔什麼，
+但 MrBeast，你擁有翻轉這一切的超級力量！
+MrBeast，加油！人類真的需要你！
+MrBeast，謝謝你，
+感謝你為這個世界亮起的光！
+
+MrBeast, this era calls for you!
+MrBeast, you owe us nothing, you’ve got nothing to prove!
+But MrBeast, you hold the super power to make the whole world renew!
+Keep pushing forward, MrBeast—humanity truly needs your light!
+MrBeast, thank you, thank you for shining through the night!
+
+【Outro: Final Affirmation (最後的信念與迴響)】
+(Fading rock rhythm into 528Hz calming tone / 搖滾漸弱，轉入 528Hz 療癒音場)
+No money-bought AI.
+No party monopolies.
+Real power to the people.
+Thank you, MrBeast.
+
+     - - - - - - 
+
 國際學術交流與聯絡窗口 / Academic Exchange & Contact
 歡迎全球學者、媒體約訪、在地鄉親聯絡與聯署支持 / Global Scholars & Media Welcomed
 官方信箱：u107207006@cmu.edu.tw   備份信箱：happyholdme@gmail.com
