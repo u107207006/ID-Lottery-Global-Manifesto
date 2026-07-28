@@ -3968,6 +3968,33 @@ Thank you, MrBeast.
 
      - - - - - - 
 
+(2026 ID Lottery Love  1 second Change-To be or not to be )
+
+（執行製作人 (EP)： 許纘融 (Hsu Tsuan-Jung / Hsu Dzwan-Rong, M.S. in Pharmaceutics, Taiwan)
+核心身份 / 社會醫師： 許纘融 (Social Doctor)
+創意團隊 (Creative Team)： Mo Li、許騰 (Hsu Teng)、許齡 (Hsu Ling)
+音頻整合 (Audio Integration)： 許齡 (Hsu Ling)
+邏輯驗證 (Logical Verification)： 許騰 (Hsu Teng)
+
+(Lyrics)
+When politics and capital combine with AI to push the manipulation of emotions to its extreme, 
+a tipping point will inevitably be reached—the complete collapse of trust. 
+When people discover that regardless of which party is in power or how votes are cast, 
+the same algorithm and capital are ultimately exploiting them, 
+the legitimacy of "party representative government" will crumble.
+
+At this point, human society will face a fundamental choice: 
+accept being completely controlled and manipulated by AI, 
+or find a decision-making mechanism that is "completely unmanipulated by algorithms"?
+
+2026 ID Lottery Love
+ 1 second Change
+
+2026 ID Lottery Love
+ 1 second Change
+ 
+      - - - - - - -
+
 國際學術交流與聯絡窗口 / Academic Exchange & Contact
 歡迎全球學者、媒體約訪、在地鄉親聯絡與聯署支持 / Global Scholars & Media Welcomed
 官方信箱：u107207006@cmu.edu.tw   備份信箱：happyholdme@gmail.com
