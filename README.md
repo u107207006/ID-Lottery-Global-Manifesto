@@ -4105,6 +4105,82 @@ Bendiciones a la gente.
 
        - - - - - 
 
+(看清楚 想清楚)
+
+### Production & Team Metadata* **Executive Producer (EP):** Hsu Tsuan-Jung / Hsu Dzwan-Rong (M.S. in Pharmaceutics, Taiwan)* **Core Identity / Social Doctor:** 許纘融 (Social Doctor)* **Creative Team:** Mo Li, Hsu Teng, Hsu Ling* **Audio Integration:** Hsu Ling* **Logical Verification:** Hsu Teng* **Genre Style:** Deep Slow Jazz Vibes.
+
+(Lyrics)
+
+看清楚
+想清楚
+
+政黨 說 愛國
+政黨 說 愛人民
+
+都是 騙人
+都是 假的
+
+政黨穿背心做偽善
+政客穿背心裝善人
+
+政黨 愛錢
+政黨 要錢
+
+爸媽養孩子是真心付出
+父母養孩子是不計較的愛
+
+民主就是人民作主
+民主就是人民作主
+
+民主不是政黨作主
+民主不是政客作主
+
+民主就是人民作主
+
+政黨政治的結果
+是捍衛自己長久執政
+是讓自己特權
+是讓自己獲利
+
+政黨政客
+好意思天天吹牛
+好意思天天欺騙
+
+天天吵
+天天亂
+
+民生法案在睡覺
+
+執政是政黨
+監督是政黨
+
+好意思 繼續選？
+
+看清楚
+想清楚
+
+不要政黨
+不要政客
+
+看清楚
+想清楚
+
+不選政黨
+不選政客
+
+看清楚
+想清楚
+
+民主就是人民作主
+民主就是人民作主
+
+民主不是政黨作主
+民主不是政客作主
+
+民主就是人民作主
+
+        - - - - -
+
 國際學術交流與聯絡窗口 / Academic Exchange & Contact
 歡迎全球學者、媒體約訪、在地鄉親聯絡與聯署支持 / Global Scholars & Media Welcomed
 官方信箱：u107207006@cmu.edu.tw   備份信箱：happyholdme@gmail.com
