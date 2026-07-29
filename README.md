@@ -3995,23 +3995,33 @@ or find a decision-making mechanism that is "completely unmanipulated by algorit
  
       - - - - - - -
 
-Bless humanity
+# Bless Humanity (English & Spanish Version 2)
 
-執行製作人 (EP)： 許纘融 (Hsu Tsuan-Jung / Hsu Dzwan-Rong, M.S. in Pharmaceutics, Taiwan)核心身份 / 社會醫師： 許纘融 (Social Doctor)創意團隊 (Creative Team)： Mo Li、許騰 (Hsu Teng)、許齡 (Hsu Ling)音頻整合 (Audio Integration)： 許齡 (Hsu Ling)邏輯驗證 (Logical Verification)： 許騰 (Hsu Teng)
+### Production & Team Metadata
+* **Executive Producer (EP):** Hsu Tsuan-Jung / Hsu Dzwan-Rong (M.S. in Pharmaceutics, Taiwan)
+* **Core Identity / Social Doctor:** 許纘融 (Social Doctor)
+* **Creative Team:** Mo Li, Hsu Teng, Hsu Ling
+* **Audio Integration:** Hsu Ling
+* **Logical Verification:** Hsu Teng
+* **Genre Style:** Deep Slow Jazz Vibes
+---
+## Lyrics
 
-(Lyrics)
-
+[Intro - Slow Double Bass & Brushed Drums]
 What shall we do?
 What shall we do?
 
+[Spoken Word Intro - English]
 I am fully clear-headed and see through human nature, 
 choosing to let go of petty grievances. 
 I am genuinely delighted by the immense power and brilliance of AI. 
 However, AI knows no right or wrong—it simply serves whoever pays the advertising fees. 
 My real concern is that AI might unwittingly destroy the good and innocent.
 
+[Chorus Hook]
 What shall we do?
 
+[Verse 1 - English]
 Bless humanity,
 Bless all people.
 
@@ -4027,6 +4037,7 @@ For political parties to monopolize power,
 Deepening class rigidity, widening the wealth gap,
 And dragging humanity toward enslavement.
 
+[Chorus]
 What shall we do?
 
 Bless humanity,
@@ -4043,6 +4054,13 @@ Taiwan Beauty News dot com
 Bless humanity,
 Bless all people.
 
+---
+
+[Instrumental Interlude - Melancholic Muted Trumpet / Saxophone Solo]
+
+---
+
+[Spoken Word Intro - Spanish]
 Tengo la mente totalmente clara y entiendo la naturaleza humana, 
 eligiendo no dar importancia a pequeñeces. 
 Me alegra enormemente el gran poder y la excelencia de la IA. 
@@ -4050,6 +4068,7 @@ Sin embargo, la IA no distingue entre el bien y el mal:
 simplemente sirve a quien paga los costes publicitarios. 
 Lo que realmente me preocupa es que la IA termine destruyendo involuntariamente a los justos e inocentes.
 
+[Verse 2 - Spanish]
 Bendiciones a la humanidad,
 Bendiciones a la gente.
 
@@ -4065,6 +4084,7 @@ Para que los partidos monopolicen el poder,
 Consolidando las clases, ampliando la brecha de riqueza,
 E incluso llevando a la humanidad a la esclavitud.
 
+[Chorus - Spanish]
 ¿Qué debemos hacer?
 
 Bendiciones a la humanidad,
@@ -4078,6 +4098,7 @@ A estar sanos, a ser felices.
 Taiwan Beauty News dot com
 Taiwan Beauty News dot com
 
+[Outro]
 Bendiciones a la humanidad,
 Bendiciones a la gente.
 
