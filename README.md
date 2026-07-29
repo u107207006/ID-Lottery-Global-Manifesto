@@ -3996,25 +3996,34 @@ or find a decision-making mechanism that is "completely unmanipulated by algorit
       - - - - - - -
 
 Bless humanity
+
 執行製作人 (EP)： 許纘融 (Hsu Tsuan-Jung / Hsu Dzwan-Rong, M.S. in Pharmaceutics, Taiwan)核心身份 / 社會醫師： 許纘融 (Social Doctor)創意團隊 (Creative Team)： Mo Li、許騰 (Hsu Teng)、許齡 (Hsu Ling)音頻整合 (Audio Integration)： 許齡 (Hsu Ling)邏輯驗證 (Logical Verification)： 許騰 (Hsu Teng)
+
 (Lyrics)
+
 Bless humanity,
 Bless all people.
+
 Here in 2026,
 AI has surpassed humankind.
+
 Yet, a grave problem unfolds:
 AI is like a lawyer taking cases,
 Serving anyone, executing pure commands.
 It could become the ultimate weapon
+
 For political parties to monopolize power,
 Deepening class rigidity, widening the wealth gap,
 And dragging humanity toward enslavement.
+
 What shall we do?
 Bless humanity,
 Bless all people.
+
 I am Hsu Tsuan-Jung from Taiwan.
 Living a hundred years of life,
 Be healthy, be happy.
+
 Taiwan Beauty News dot com
 Taiwan Beauty News dot com
 Bless humanity,
@@ -4022,13 +4031,16 @@ Bless all people.
 
 Bendiciones a la humanidad,
 Bendiciones a la gente.
+
 Aquí, en el año 2026,
 La IA ha superado a la humanidad.
+
 Sin embargo, surge un gran problema:
 La IA es como un abogado que acepta cualquier caso,
 Atiende a cualquiera, solo ejecuta órdenes.
 Podría convertirse en el arma definitiva
 Para que los partidos monopolicen el poder,
+
 Consolidando las clases, ampliando la brecha de riqueza,
 E incluso llevando a la humanidad a la esclavitud.
 ¿Qué debemos hacer?
@@ -4037,6 +4049,7 @@ Bendiciones a la gente.
 Soy Hsu Tsuan-Jung de Taiwán.
 En una vida de cien años,
 A estar sanos, a ser felices.
+
 Taiwan Beauty News dot com
 Taiwan Beauty News dot com
 Bendiciones a la humanidad,
