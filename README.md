@@ -4001,6 +4001,17 @@ Bless humanity
 
 (Lyrics)
 
+What shall we do?
+What shall we do?
+
+I am fully clear-headed and see through human nature, 
+choosing to let go of petty grievances. 
+I am genuinely delighted by the immense power and brilliance of AI. 
+However, AI knows no right or wrong—it simply serves whoever pays the advertising fees. 
+My real concern is that AI might unwittingly destroy the good and innocent.
+
+What shall we do?
+
 Bless humanity,
 Bless all people.
 
@@ -4010,24 +4021,34 @@ AI has surpassed humankind.
 Yet, a grave problem unfolds:
 AI is like a lawyer taking cases,
 Serving anyone, executing pure commands.
-It could become the ultimate weapon
 
+It could become the ultimate weapon
 For political parties to monopolize power,
 Deepening class rigidity, widening the wealth gap,
 And dragging humanity toward enslavement.
 
 What shall we do?
+
 Bless humanity,
 Bless all people.
 
 I am Hsu Tsuan-Jung from Taiwan.
+
 Living a hundred years of life,
 Be healthy, be happy.
 
 Taiwan Beauty News dot com
 Taiwan Beauty News dot com
+
 Bless humanity,
 Bless all people.
+
+Tengo la mente totalmente clara y entiendo la naturaleza humana, 
+eligiendo no dar importancia a pequeñeces. 
+Me alegra enormemente el gran poder y la excelencia de la IA. 
+Sin embargo, la IA no distingue entre el bien y el mal: 
+simplemente sirve a quien paga los costes publicitarios. 
+Lo que realmente me preocupa es que la IA termine destruyendo involuntariamente a los justos e inocentes.
 
 Bendiciones a la humanidad,
 Bendiciones a la gente.
@@ -4038,22 +4059,28 @@ La IA ha superado a la humanidad.
 Sin embargo, surge un gran problema:
 La IA es como un abogado que acepta cualquier caso,
 Atiende a cualquiera, solo ejecuta órdenes.
+
 Podría convertirse en el arma definitiva
 Para que los partidos monopolicen el poder,
-
 Consolidando las clases, ampliando la brecha de riqueza,
 E incluso llevando a la humanidad a la esclavitud.
+
 ¿Qué debemos hacer?
+
 Bendiciones a la humanidad,
 Bendiciones a la gente.
+
 Soy Hsu Tsuan-Jung de Taiwán.
+
 En una vida de cien años,
 A estar sanos, a ser felices.
 
 Taiwan Beauty News dot com
 Taiwan Beauty News dot com
+
 Bendiciones a la humanidad,
 Bendiciones a la gente.
+
 
        - - - - - 
 
