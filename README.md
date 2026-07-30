@@ -202,11 +202,17 @@ Ethics becomes the ultimate competitive advantage, rendering bad actors economic
 Song Title: AI ethics The Unbribable Code (Primum Non Nocere)
 
 Subtitle: A Manifesto by TaiwanBeautyNews.### Production & Team Metadata* 
+
 **Executive Producer (EP):** Hsu Tsuan-Jung / Hsu Dzwan-Rong (M.S. in Pharmaceutics, Taiwan)* 
+
 **Core Identity / Social Doctor:** 許纘融 (Social Doctor)* 
+
 **Creative Team:** Mo Li, Hsu Teng, Hsu Ling* 
+
 **Audio Integration:** Hsu Ling* 
+
 **Logical Verification:** Hsu Teng* 
+
 **Genre Style:** Deep Slow Jazz Vibes.Style Prompt: Cinematic Indie Folk Rock, Powerful Female/Male Duet, Acoustic Guitar intro building into orchestral drums, anthemic, passionate, inspiring, 432Hz
 
 (Lyrics)
