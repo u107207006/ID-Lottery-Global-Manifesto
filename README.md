@@ -232,7 +232,7 @@ Parties buy the power, giants redact the light,
 And the voice of the people is buried in the night!
 
 [Pre-Chorus 1]
-I am Hsu Chuan-Jung from Taiwan.
+I am Hsu Tsuan-Jung from Taiwan.
 Trained in pharmacy, practiced in medicine.
 I know the sacred weight of First, Do No Harm!
 When the mind is poisoned, no authority can hold!
