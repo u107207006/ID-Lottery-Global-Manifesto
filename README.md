@@ -1,3 +1,62 @@
+🌐 Executive Preamble & Global Addendum / 執行前言與全球補充宣告
+
+[English Version]
+ 
+Title: The Pioneering Execution Mechanism: Integrating ID Lottery as the Unbribable Infrastructure for Global AI Ethics
+
+Official Release & Site Update: March 18, 2026 / 2026 年 3 月 18 日
+
+Executive Summary
+
+While global initiatives in AI ethics have established commendable standards, they currently face a critical "Paper-Tiger Dilemma":
+Tech Oligarchs advocate "self-regulation," yet compromise under commercial and stock pressures.
+
+Governments & Regulators push for "legislation," yet political actors remain bound by party rivalries and campaign donors.
+Ethicists & Scholars draft "frameworks," yet lack enforcement power over black-box algorithm architectures.
+
+Our Pioneering Contribution (The Groundbreaking Paradigm):
+We move AI ethics from moral slogans to institutional execution by establishing a De-interest-driven Oversight Architecture:
+Structural Revolution: Transitioning from "capital/bureaucratic monopolies" to ID Lottery Randomization. Citizens selected via ID Lottery hold zero campaign debt, answering only to human conscience and objective data.
+
+Dual-Track Review System:
+
+Track 1 (Technical Transparency): Cross-disciplinary experts translate algorithmic risks into plain-language impact reports without holding final veto power, preventing "technocratic tyranny."
+
+Track 2 (Conscience Veto Power): The ID Lottery Citizen Jury holds the ultimate veto and voting authority over public deployment, preventing "non-expert blind decisions."
+Ultimate Objective: Constructing a global ethical firewall that ensures AI development prioritizes the health, dignity, and collective well-being of all humanity.
+
+Official Statement for Global Scholars & Institutions:
+
+"We honor the contributions of global scholars in defining AI ethics principles. However, existing frameworks universally lack a De-interest-driven Execution Vector. We pioneer the use of ID Lottery as the core infrastructure for AI ethical oversight. By leveraging decentralized digital identities and exogenous physical randomness, we eliminate the game-theoretic trap of regulatory capture and tech monopoly, offering a fully implementable mechanism design for global governance."
+
+ - - - - - -
+ 
+[中文版]
+
+標題： 我們的首創突破：以 ID Lottery 作為全球 AI 倫理之去利益化執行載體
+
+官方發布與網頁更新：  March 18, 2026 / 2026 年 3 月 18 日
+
+執行前言與摘要
+
+當前全球 AI 倫理的討論，陷入了嚴重的「紙上談兵困境」：
+科技巨頭主張「企業自律」，卻往往為了商業利益與股價妥協。
+政府與監管機構推動「立法監管」，但政治家常被背後的金主利益與政黨對立牽著走。
+專家學者提出「倫理準則」，卻沒有實權去監督黑箱運作的巨型演算法。
+我們的首創突破（翻轉時代的關鍵）：
+我們將 AI 倫理從「道德口號」推進到「制度執行」，建構一套三大層面的去利益化監督架構：
+權力結構的首創： 從「資本／官僚壟斷」轉向 ID Lottery 全民隨機抽樣。被抽中的公民無須打選戰、不接受利益團體資助，從根本上剔除利益糾葛。
+
+審查機制的首創（雙軌制）：
+第一軌（專業透明化）： 跨領域技術專家轉譯演算法風險為客觀報告，但不握有最終決定權，避免「技術獨裁」。
+第二軌（良心決策權）： 由 ID Lottery 隨機產生的公民審查團握有最終否決權與投票權，避免「不懂技術的盲目決策」。
+終極目標： 打造保護全人類眾生的 AI 護欄，確保科技紅利優先回饋給全體人類。
+
+面對國際機構與大眾的宣告：
+"我們不否定全球學者在 AI 倫理框架上的貢獻。然而，現有框架普遍缺乏一個*『去利益化（De-interest-driven）的執行與監督載體』**。我們首創性地提出了以 ID Lottery 作為 AI 倫理監督的底層架構，透過去中心化數位身分與外生隨機抽樣，解決了科技壟斷與監管失靈的賽局困境，為全球 AI 治理提供了一套具備嚴謹機制設計且可落地的實踐方案。"*
+
+- - - - - - - - 
+
 Global AI Ethics and Public Governance Manifesto: From Clinical Medical Ethics to ID Lottery Governance
 
 《全球 AI 倫理與民有監督倡議：從臨床醫學倫理到 ID Lottery 去特權化治理》
