@@ -3647,6 +3647,52 @@ Upgrade the system! Overhaul the structure! Promote the ID Lottery to smash part
 
   - - - - - 
 
+<!-- 歌曲發布區塊 -->
+<section style="line-height: 1.8; font-family: sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;">
+  <h2>🎵 63 years young 2 (Challenge for MrBeast)</h2>
+  <hr>
+  <p><strong>【執行製作人 (EP) / 社會醫師】</strong> 許纘融 (Hsu Tsuan-Jung / Hsu Dzwan-Rong, M.S. in Pharmaceutics, Taiwan)</p>
+  <p><strong>【創意團隊 (Creative Team)】</strong> Mo Li、許騰 (Hsu Teng)、許齡 (Hsu Ling)</p>
+  <p><strong>【音頻整合 (Audio Integration)】</strong> 許齡 (Hsu Ling)</p>
+  <p><strong>【邏輯驗證 (Logical Verification)】</strong> 許騰 (Hsu Teng)</p>
+  <p><strong>【曲風風格】</strong> Deep cute Vibes, Slow Funk, Pop, Cinematic, Grooving Bass, Charismatic Male Vocals, Playful yet Confident, 432Hz (480s Loop)</p>
+  <hr>
+
+  <h3>📜 English Lyrics</h3>
+  
+  <p><em>Dedicated to MrBeast —<br>
+  A 63yo Taiwanese Master supports your vision for a better world.<br>
+  Before 2036, let's start with ID Lottery Love!</em></p>
+
+  <p>I’m Master Mo Li from Taiwan, 63 years young!<br>
+  OK! I'm ready!<br>
+  Come on!</p>
+
+  <h4>[Verse 1]</h4>
+  <p>Mr. Beast, listen up,<br>
+  I’m Master Mo Li from Taiwan, 63 years young!<br>
+  (63 years young!)</p>
+
+  <p>I'm ready for your most extreme challenge, bring it on!<br>
+  When I win this game, I take ZERO dollars in my hand,<br>
+  Just a one-way ticket back to my homeland.<br>
+  (Just a one-way ticket back to my homeland.)</p>
+
+  <h4>[Chorus / Hook]</h4>
+  <p>Keep the whole prize, show the world ID Lottery Love for peace!<br>
+  Put me to the test, watch my spirit never cease!</p>
+
+  <p>I know I can win the gold... but I won't take a dime.<br>
+  So who's scared now? Who's chicken out this time? Haha!</p>
+
+  <p>I know I can win the gold... but I won't take a dime.<br>
+  So who's scared now? Who's chicken out this time? Haha!</p>
+</section>
+
+
+
+   - - - - - - - - 
+
 🏛️ 國際媒體拷問錄：資本種姓的終極審判 (The Ultimate Trial)
 
 Q1（西方頂級政治記者）：
