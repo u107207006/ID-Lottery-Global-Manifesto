@@ -5690,6 +5690,44 @@ Bendiciones a la gente.
 
         - - - - -
 
+【大標題】沒錢買廣告，所以你今天才第一次認識我。(No ad budget, that’s why you’re only hearing from us today.)
+
+【次標題】 媒體不報導、演算法不推播，因為我們拒絕花錢操弄仇恨。 63歲的我，寫了百遍、唱了無數歌，只為了把被政治綁架的平靜還給你。
+
+【核心口號】ID Lottery Love: 1 Second Change一秒鐘的改變，換一輩子的清靜。
+
+ID Lottery Love: 1 Second Change 金錢買得到流量,買不到覺醒的靈魂 | Money Buys Media, Truth Awakens Souls
+
+一、 痛點撕開:媒體不報、演算法不推,因為我們沒花錢
+
+THE REALITY: BLOCKED BY MONEY, SUPPRESSED BY ALGORITHMS 【中文】 詢問了 AI 上百次,寫了無數網頁與歌曲,卻彷彿丟入大海。 原來這不是思想的失敗,而是規則的殘酷——金錢控制了演算法,媒體為利益服務。 當傳統政治與財閥結合,任何不需花錢買流量的真理,都被擋在牆外。 
+
+【English】 After asking AI hundreds of times and creating endless content, the silence felt overwhelming. But this is not a failure of vision; it is the reality of the game. Algorithms favor money, and media serves capital. Truth without ad spend
+
+二、 情緒轉化:還給人民「正常的情緒」
+
+EMOTIONAL LIBERATION: RESTORING NORMAL EMOTIONS TO THE PEOPLE 
+
+【中文】 政黨用金錢操弄焦慮與仇恨,逼迫人民選邊站;而我們推廣 ID Lottery,是要讓人民從政治惡 鬥中解脫。我們不需要咆哮,只需要覺醒——用一秒鐘的隨機抽籤,打破利益集團的壟斷,還給社會久 違的平靜與尊嚴。 
+
+【English】 Political parties spend millions to fuel anxiety and hatred, forcing people to take sides. ID Lottery offers emotional liberation—a painless 1-second change that breaks the monopoly of interest groups and restores peace, dignity, and sanity to everyday citizens.
+
+三、 63歲的勇敢:病毒式人際網絡與真理擴散
+
+COURAGE AT 63: PEER-TO-PEER TRUTH DIFFUSION 
+
+【中文】 63歲,無所畏懼,無欲則剛。既然錢能使鬼推磨,我們就不用鬼的規則。我們不買流量,我 們靠「人傳人」。每一位厭倦謊言的普通人,都是理念的播種者。這是一場零成本、純粹由良知驅動的 公民覺醒運動。 
+
+【English】 At age 63, standing with clear vision and zero selfish desire, we reject the games played by capital. We don't buy ads; we rely on heart-to-heart connection. Every citizen exhausted by political lies becomes a beacon for this zero-cost, truth-driven awakening.
+
+「一秒鐘的改變,換一輩子的清靜。不用花錢買廣告,因為善良與公平是人類內心深處共通的語言。」 
+
+"1 Second to Reset, A Lifetime of Peace. Truth needs no advertising budget when kindness and fairness are universally felt."
+
+ID Lottery Love Initiative • Dedicated to Fair Governance & Citizen Empowerment
+
+         - - - - - - -
+
 國際學術交流與聯絡窗口 / Academic Exchange & Contact
 歡迎全球學者、媒體約訪、在地鄉親聯絡與聯署支持 / Global Scholars & Media Welcomed
 官方信箱：u107207006@cmu.edu.tw   備份信箱：happyholdme@gmail.com
