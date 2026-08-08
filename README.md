@@ -119,6 +119,67 @@ Verificación del Libro Blanco Oficial: https://buttery-sunshine-179.notion.site
  
  - - - - - - - - -
 
+Subject: A Vision for Human-Centric Governance & Tools: An Open Letter to Ivan Zhao
+
+Dear Ivan,
+
+I hope this message finds you well.
+
+I am writing to you from Taiwan. As someone who profoundly admires Notion’s architectural philosophy—empowering individuals to shape their own mental space rather than being constrained by rigid software—I feel a deep alignment between your vision and the mission I have been building over the past years.
+
+Notion was built on the conviction that tools should amplify human agency. For years, I have been working on a framework rooted in similar principles, applied not just to personal productivity, but to societal design: the ID Lottery System and the Social Detox Whitepaper.
+
+Modern societies are increasingly locked in hyper-competitive, algorithmic, and money-driven systems that extract human energy. My work focuses on restoring balance—transitioning from linear structural pressure to organic, human-centered governance, where opportunity and decision-making are democratized through randomized transparency (ID Lottery) rather than capital capture.
+
+As a Asian-heritage founder who built a global entity outside the traditional VC playbook by holding fast to your core values, you have demonstrated that independent, humanistic technology can truly shake the world.
+
+I am currently 63 years old, working grounded in my community while laying out a long-term roadmap for local and global public participation. I believe the true spirit of "software as a medium for human empowerment" naturally extends into how we organize societies, foster deep focus, and restore wellbeing.
+
+I would deeply appreciate the opportunity to share our whitepaper with you or your team, or simply exchange thoughts on how tools, human mindsets, and public governance can converge for a healthier future.
+
+Thank you for your time, vision, and the space Notion has created for millions worldwide.
+Warm regards,
+
+Tsuan-Jung Hsu (Mo Li)
+
+Founder, ID Lottery & Social Detox Project
+Nantou, Taiwan
+
+Website: https://www.taiwanbeautynews.com/
+
+Contact: u107207006@cmu.edu.tw
+
+- - - - - - 
+
+主旨： 關於以人為本的治理與工具遠景：致趙光世（Ivan Zhao）的公開信
+
+親愛的 Ivan：
+
+展信愉快。我從台灣寫這封信給您。作為一位深切欽佩 Notion 架構哲學的創作者——您讓個人能夠塑造自己的心智空間，而不是被僵化的軟體所限制——我感受到了您的願景與我多年來所構建的使命之間，有著深刻的精神契合。
+Notion 建立在一個信念之上：工具應該賦予並放大人類的主體性。多年來，我也一直致力於一個植根於類似理念的框架，不僅應用於個人生產力，更應用於社會制度設計：ID Lottery 制度與社會毒素轉化白皮書。
+
+現代社會越來越深陷於過度競爭、演算法引導和資本驅動的系統中，這些系統不斷消耗著人類的精力。我的工作著重於恢復平衡——從線性的結構性壓力轉向以人為本的有機治理，透過隨機透明化（ID Lottery）而非資本壟斷，讓公共參與和決策回歸大眾。
+
+作為一位擁有華人血統的創辦人，您透過堅守核心價值，在傳統創投模式之外打造了一個影響全球的企業，您證明了獨立且具人文關懷的科技確實能夠震撼世界。
+
+我今年 63 歲，扎根於在地社區深耕，同時為在地與全球的公共參與制定長期路線圖。我相信「軟體作為賦能人類的媒介」這一真諦，自然延伸到了我們如何組織社會、促進深度專注以及恢復身心健康。
+
+若能有機會與您或您的團隊分享我們的白皮書，或僅僅是就工具、人類心態與公共治理如何交會以創造更健康的未來進行思想交流，我將不勝感激。
+
+感謝您的寶貴時間、遠見，以及 Notion 為全球數百萬人所創造的思考空間。
+
+順祝 祺安
+
+許纘融（Mo Li 師傅）
+
+ID Lottery 與社會毒素轉化計畫 發起人
+
+台灣 南投
+
+
+ - - - - - -
+
+
 🌐 One Earth: Universal Civilization Upgrade Charter
 
 地球只有一個：全人類開放合作與文明升級宣言
