@@ -1,3 +1,71 @@
+💡 Policy & Governance Framework
+
+# ID Lottery 國家雙軌治理體制白皮書.2026.01.18
+
+**核心目標：** 建構去中心化、抗腐敗與預防極端風險的現代治理架構
+
+---
+
+### 一、 現行代表制民主與技術官僚之結構性困境
+
+1. **代理人危機與政策綁架（Policy Capture）：** 現代選舉機制高度依賴金權與演算法操控，導致立法長期被少數利益集團壟斷。
+   
+2. **短期選舉衝動：** 決策者傾向追求短期政績，忽視長遠文明風險（如氣候變遷、AI失控與核武威脅）。
+
+3. **科技專制風險：** 集中式頂層掌控 AI 與監控技術，使傳統社會監督失靈，加劇階級固化。
+
+---
+
+### 二、 ID Lottery 雙軌治理體制之核心邏輯
+
+* **第一軌｜專業精英軌（Professional Track）：** 由文官系統、專家學者組成，負責政策研究、法案起草、技術可行性評估與日常行政執行。
+
+* **第二軌｜ID Lottery 隨機公民審議軌（Citizen Oversight Track）：** 透過去中心化隨機抽籤演算，自全體國民中抽選無偏見公民代表組成審議會，擁有最終法案覆核權、重大政策否決權與預算審查權。
+
+---
+
+### 三、 雙軌制的制度優勢
+
+* **切斷金權綁架：** 隨機抽籤代表無選舉資金壓力與連任負擔，回歸公共利益審查。
+
+* **導入常識與多樣性：** 確保精英偏見被跨階層的真實社會經驗所平衡。
+
+* **安全卸載控制焦慮：** 提供去中心化安全閥，降低頂層極端對立或戰亂風險。
+
+> 💬 **Executive Summary (English Version)**
+
+> **The ID Lottery Dual-Track Governance Architecture:** Integrates technical expertise with cryptographically verifiable random citizen selection. Track I (Technocratic) provides empirical research and policy drafting, while Track II (Citizen Oversight) holds veto and auditing power, eliminating interest group capture and preserving global stability for future generations.
+
+---
+
+🌐 Global Citizen Initiative
+
+# 為 80 億人找回幸福與和平：ID Lottery 治理倡議
+
+### 一、 我們面臨的共同困境
+
+在演算法與消費主義充斥的今天，我們每天忙碌，卻面對高物價、貧富差距與社會對立。少數頂層掌握了先進科技與資源，甚至將我們唯一的家園——地球，推向衝突與風險。
+
+### 二、 什麼是 ID Lottery 雙軌治理？
+
+* **讓專業的人做規劃（專業軌）：** 專家學者負責起草法案與技術評估，確保國家運作的高效率。
+
+* **讓普通人做決定（公民軌）：** 透過透明無法作弊的隨機抽籤，讓各行各業的普通人走進決策大廳，審查政策是否真的對大眾有利。
+
+### 三、 這能帶給我們什麼？
+
+1. **每個人都是國家的真正股東：** 出身不再決定一切，人人有平等機會參與治理。
+
+2. **守護和平，遠離戰亂：** 隨機產生的公民代表是父母與子女，沒有人會輕易將國家推向戰爭。
+
+3. **共享科技紅利：** 讓 AI 與自動化成為解放勞力、改善 80 億人生活的公共工具。
+
+> 💬 **Message to Humanity (English)**
+
+> The universe is vast, but Earth is our only home. The ID Lottery is a peaceful social contract ensuring technology, power, and resources serve all 80 billion members of the human family with fairness and dignity.
+
+- - - - - - - -
+
 🌐 English Version
 
 An Open Declaration to the World and Global Institutions
