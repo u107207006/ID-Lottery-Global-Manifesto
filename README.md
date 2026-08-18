@@ -1,3 +1,7 @@
+
+International Permanent Identifier (DOI): 10.5281/zenodo.22000044
+- - - - - -
+
 💡 Policy & Governance Framework
 
 # ID Lottery 國家雙軌治理體制白皮書.2026.01.18
