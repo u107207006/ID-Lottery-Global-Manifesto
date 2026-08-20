@@ -9,6 +9,7 @@ ID Lottery 國家雙軌治理宣言
 讓人是人。
 
 
+
 政黨政治，是權力的分贓； 
 
 政黨政治，是少數人的掠奪。 
@@ -17,6 +18,8 @@ ID Lottery 國家雙軌治理宣言
 
 政黨政治，只是少數人獲利。
 
+
+- - - 
 
 English Translation
 
@@ -38,6 +41,8 @@ Party politics turns good people bad; 
 Party politics only benefits the few.
 
 
+- - -
+
 Spanish Translation
 
 Declaración de Gobernanza de Doble Vía Nacional ID Lottery 
@@ -47,6 +52,7 @@ Unámonos en lealtad a un sistema verdaderamente justo y bondadoso, 
 Para hacer que la humanidad sea más cálida, 
 
 Para asegurar que los seres humanos sean tratados verdaderamente como humanos.
+
 
 
 La política de partidos es el reparto de botines; 
