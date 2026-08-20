@@ -1,3 +1,12 @@
+
+International Permanent Identifier (DOI): 10.5281/zenodo.22000044
+
+(🔗 國際學術永久識別碼 (DOI / PID)
+(點擊可連結至 Zenodo 國際學術典藏庫查閱最新版本)
+本白皮書已正式完成國際學術歸檔，取得全球通用永久識別碼 (Concept DOI)
+
+- - - - - -
+
 中文版
 
 ID Lottery 國家雙軌治理宣言 
@@ -71,6 +80,11 @@ La política de partidos solo beneficia a unos pocos.
 
 
 International Permanent Identifier (DOI): 10.5281/zenodo.22000044
+
+(🔗 國際學術永久識別碼 (DOI / PID)
+(點擊可連結至 Zenodo 國際學術典藏庫查閱最新版本)
+本白皮書已正式完成國際學術歸檔，取得全球通用永久識別碼 (Concept DOI)
+
 - - - - - -
 
 💡 Policy & Governance Framework
