@@ -8,7 +8,7 @@ ID Lottery 國家雙軌治理宣言
 
 讓人是人。
 
-
+--
 
 政黨政治，是權力的分贓； 
 
@@ -21,6 +21,7 @@ ID Lottery 國家雙軌治理宣言
 
 - - - 
 
+
 English Translation
 
 ID Lottery National Dual-Track Governance Declaration 
@@ -31,6 +32,7 @@ To make humanity more compassionate, 
 
 To ensure humans are truly treated as humans.
 
+--
 
 Party politics is a division of spoils; 
 
@@ -53,6 +55,7 @@ Para hacer que la humanidad sea más cálida,
 
 Para asegurar que los seres humanos sean tratados verdaderamente como humanos.
 
+--
 
 
 La política de partidos es el reparto de botines; 
