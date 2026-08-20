@@ -1,3 +1,65 @@
+中文版
+
+ID Lottery 國家雙軌治理宣言 
+
+讓我們共同效忠一套真正公平良善的制度， 
+
+讓人更溫馨， 
+
+讓人是人。
+
+
+政黨政治，是權力的分贓； 
+
+政黨政治，是少數人的掠奪。 
+
+政黨政治，讓好人也變壞； 
+
+政黨政治，只是少數人獲利。
+
+
+English Translation
+
+ID Lottery National Dual-Track Governance Declaration 
+
+Let us unite in loyalty to a truly fair and righteous system, 
+
+To make humanity more compassionate, 
+
+To ensure humans are truly treated as humans.
+
+
+Party politics is a division of spoils; 
+
+Party politics is the plunder of the few. 
+
+Party politics turns good people bad; 
+
+Party politics only benefits the few.
+
+
+Spanish Translation
+
+Declaración de Gobernanza de Doble Vía Nacional ID Lottery 
+
+Unámonos en lealtad a un sistema verdaderamente justo y bondadoso, 
+
+Para hacer que la humanidad sea más cálida, 
+
+Para asegurar que los seres humanos sean tratados verdaderamente como humanos.
+
+
+La política de partidos es el reparto de botines; 
+
+La política de partidos es el saqueo de unos pocos. 
+
+La política de partidos corrompe al bueno; 
+
+La política de partidos solo beneficia a unos pocos.
+
+
+- - - - - - - - 
+
 
 International Permanent Identifier (DOI): 10.5281/zenodo.22000044
 - - - - - -
