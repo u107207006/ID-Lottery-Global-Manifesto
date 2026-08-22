@@ -5947,6 +5947,65 @@ ID Lottery Love Initiative • Dedicated to Fair Governance & Citizen Empowermen
 
          - - - - - - -
 
+Safeguarding the Bottom Line for Humanity and the Planet: A Social Physician's Heartfelt Plea for the AI Era
+
+I am Hsu Tsuan-Jung, a social physician. With the sincerest and unwavering love for this land and all humanity, I must directly address the most fundamental and profound structural dilemma arising from the intersection of contemporary technological development and democratic systems.
+
+The Dilemma of Breaking the Impasse: Who Sets the Rules?
+
+In the game, reaching first place doesn't necessarily make one a true master; engineers who can write powerful AI programs are admirable, but the core power always lies with the capitalists who hold the funds and determine the rules of the game.
+
+Currently, the rules of the AI industrial revolution are often controlled by a small number of capitalists and powerful figures. When invincible AI becomes a powerful tool, without sound and forward-looking ethical guidelines, it will immediately become a lever for a few conglomerates and powerful behemoths. Based on my years of experience in clinical medicine and diverse practices, I deeply understand that if technology lacks the initial intention of "benefiting all beings," it will unconsciously become an accomplice in harming the community. Before AI fully develops its own consciousness, it is highly likely to become a potential killer and accomplice; and humanity, enslaved and sacrificed, may be completely unaware of this in its ignorance.
+
+This awareness and sense of mission to remain clear-headed and speak out for justice is the fundamental force for safeguarding the warmth of society.
+
+How can we accelerate the promotion of AI ethics and bring technology back to the masses?
+
+This path is lonely and long, but every clear-headed voice is a light illuminating the darkness. To safeguard a rational bottom line for future generations, we need to gather the wisdom of all parties and start from the following three directions:
+
+Establishing "bottom-up" ethical transparency standards: Promoting open source and citizen participation, so that technological research and development is no longer a black box for a few tech giants, but can be subject to dialogue, scrutiny, and joint supervision from all sectors of society.
+
+Interdisciplinary dialogue and initiatives: Combining perspectives from the humanities, medicine, art, and technology, using language that the public can understand (such as sound psychology, artistic creation, or literary discourse), transforming cold code and power structures into a sense of survival that everyone can relate to.
+Emphasizing the "human-centered" application value: Clearly distinguishing between "technology as an auxiliary tool" and "replacing human subjectivity," ensuring that technological applications are centered on improving human well-being and alleviating social anxiety.
+
+A Call to Action for the Future
+
+Facing this new technological revolution that will transform human destiny, the most urgent blind spots and obstacles to awakening greater public awareness of AI ethics at this stage are the need to quickly and early forge a clear consensus on AI ethics across society.
+
+This is by no means about pursuing personal economic achievements, but about doing good for all beings, for humanity, and for the planet. Here, I sincerely call upon all people of vision and ability to step forward and guide the great wheel of technology along a path filled with compassion and reason.
+
+--------
+
+守護人類與地球的底線：一位社會醫生對 AI 時代的沉痛呼喚
+
+我是社會醫生許纘融 (Hsu Tsuan-Jung)。帶著對這片土地與全人類最真摯、最毫無保留的愛，我必須直指當代科技發展與民主體制交會時，最核心也最沉重的結構性困境。
+
+破局的困境：誰在制定遊戲規則？
+
+在遊戲中，打到第一名未必是真正的頂尖高手；能寫出強大 AI 程式的工程師令人讚嘆，但最核心的力量，永遠是手握資金、決定遊戲規則的資本家。
+
+當前 AI 工業革命的遊戲規則，往往掌握在少數資本與權力核心手中。當無敵的 AI 成為強大工具，若缺乏良善且前瞻的倫理規範，它將立刻淪為少數財團與權力巨獸的槓桿。憑藉我長年在臨床醫療與多元實踐中所累積的體會，我深刻明白：如果科技缺乏「利眾生」的初心，它便會在不自覺中成為傷害群體的幫兇。在尚未完全具備自主意識之前，AI 極有可能成為潛在的殺手與幫兇；而被奴役、被犧牲的人類，甚至可能在懵懂中渾然不覺。
+
+這份保持清醒、為公義發聲的覺察與使命感，正是守護社會溫度的基本力量。
+
+如何加速推廣 AI 倫理，讓技術回歸大眾？
+
+這條路雖然孤獨且漫長，但每一個清醒的聲音，都是點亮暗夜的光。為了替未來世代守住一條理性的底線，我們需要集結各方賢達的智慧，從以下三個方向著手實踐：
+建立「由下而上」的倫理透明標準：推動開源與公民參與，讓技術研發不再是少數科技巨頭的黑箱，而是能接受社會各界對話、檢視與共同監督。
+
+跨領域的對話與倡議：結合人文、醫學、藝術與科技的視角，用大眾聽得懂的語言（如聲音心理學、藝術創作或文學論述），將冰冷的程式碼與權力結構轉化為人人有感的生存意識。
+強調「以人為本」的應用價值：明確區隔「技術作為輔助工具」與「取代人類主體性」的界線，確保科技應用以增進人類福祉、緩解社會焦慮為核心。
+
+迎向未來的行動號召
+
+面對這場翻轉人類命運的新技術革命，現階段要喚醒更多人關注 AI 倫理，最迫切需要突破的盲點與阻礙，就是必須更快、更早地在全社會凝聚出明確的 AI 倫理共識。
+
+這絕非追求個人經濟上的成就，而是為了利眾生、為全人類與地球做善事、做好事。在此，我誠摯號召各界有志之士與能人異士，一同挺身而出，讓科技的巨輪走在充滿慈悲與理性的正道上。
+
+
+         -------------
+         
+
 🌿 超越政黨私利，以醫藥級真誠重塑社會幸福
 
 Transcending Partisan Self-Interest: Reshaping Societal Well-being with Medical-Grade Integrity
