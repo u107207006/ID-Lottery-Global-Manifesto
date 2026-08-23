@@ -6529,6 +6529,68 @@ Happiness Dividend: Alleviating the systemic burnout driven by modern anxiety, e
 
    --------------
 
+
+[How Small is Humanity in the Universe?]
+
+How vast, truly, is the entire universe?
+
+On the beautiful Earth, eighty million—eight billion souls—make their home.
+
+To traverse the boundaries of the cosmos at the speed of light
+
+might take millions of long, unfolding years.
+
+When you look up at the silver moon,
+
+or imagine looking back at this blue planet from the lunar sphere—
+
+there are no national borders, no towering walls,
+
+and no fractured lines of division.
+
+A human life spans barely a hundred years.
+
+Why must we trap ourselves in the fragmentation and tearing of partisan politics?
+
+Why can we not lay down our opposition,
+
+live well, cherish one another,
+
+and safeguard this single, precious home we call Earth?
+
+----------
+
+【人類在宇宙有多渺小？】
+
+整個宇宙，究竟有多大？
+
+美麗的地球上，生活著八十億的人口。
+
+如果用光速去跑完宇宙的邊際，
+
+可能需要億萬年的漫長時光。
+
+當你抬頭望向那輪明月，
+
+或想像從月亮回望這顆蔚藍的地球——
+
+那裡沒有國界，沒有高牆，
+
+更沒有分崩離析的邊界線。
+
+人生生活也就百年吧!，
+
+我們為什麼要陷入政黨與權力的分化撕裂裡？
+
+為什麼不能放下對立，
+
+好好生活，善待彼此，
+
+守護這個唯一的地球家園嗎!？
+
+
+   -----------------
+
 國際學術交流與聯絡窗口 / Academic Exchange & Contact
 歡迎全球學者、媒體約訪、在地鄉親聯絡與聯署支持 / Global Scholars & Media Welcomed
 官方信箱：u107207006@cmu.edu.tw   備份信箱：happyholdme@gmail.com
