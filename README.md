@@ -6534,11 +6534,9 @@ Happiness Dividend: Alleviating the systemic burnout driven by modern anxiety, e
 
 How vast, truly, is the entire universe?
 
-On the beautiful Earth, eighty million—eight billion souls—make their home.
+On this beautiful Earth, eight billion souls make their home.
 
-To traverse the boundaries of the cosmos at the speed of light
-
-might take millions of long, unfolding years.
+To traverse the vast boundaries of the cosmos at the speed of light might take countless millions of years.
 
 When you look up at the silver moon,
 
@@ -6557,6 +6555,7 @@ Why can we not lay down our opposition,
 live well, cherish one another,
 
 and safeguard this single, precious home we call Earth?
+
 
 ----------
 
