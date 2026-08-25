@@ -11,7 +11,7 @@ International Permanent Identifier (DOI): 10.5281/zenodo.22000044
 TaiwanBeautyNews Social Governance Diagnosis & Body-Mind Rehabilitation Station
 │
 ├── 🎯 Core Spirit & Vision: Prioritizing Real Human Happiness, Rendering Partisan Politics Completely Obsolete
-│   ├── Founder: 許纘融 Master Hsu Tsuan-Jung (MS in Pharmaceutics | Clinical Medicine Background)
+│   ├── Founder: 許纘融  Master Hsu Tsuan-Jung (MS in Pharmaceutics | Clinical Medicine Background)
 │   ├── Core Slogan: 2026 ID Lottery Love: 1 second Change
 │   └── Methodology: Grounded in Western Clinical Medicine & First Principles
 │
@@ -32,6 +32,32 @@ TaiwanBeautyNews Social Governance Diagnosis & Body-Mind Rehabilitation Station
 </pre>
 
 -----------
+
+<pre style="font-family: monospace; font-size: 18px; line-height: 1.3; background-color: #f8f9fa; padding: 20px; border-radius: 5px;">
+TaiwanBeautyNews 社會治理診斷與身心復健研究站
+│
+├── 🎯 核心精神與定位 讓人民生活更幸福 讓政黨政治下課
+│   ├── 創辦人：許纘融 Hsu Tsuan-Jung (MS in Pharmaceutics / 西醫臨床醫學背景)
+│   ├── 核心口號：2026 ID Lottery Love: 1 second Change
+│   └── 核心方法論：基於西醫臨床醫學與第一性原理（First Principles）
+│
+├── 🧬 宏觀層級：國家與全球級治理 (Global Governance) 讓人民生活更幸福 讓政黨政治下課
+│   ├── 核心專案：ID Lottery 雙軌治理架構
+│   ├── 技術亮點：密碼學隨機抽籤 (VRF)、防女巫攻擊演算法
+│   ├── 倫理護欄：「首要不傷害」(Primum Non Nocere) AI 社會倫理審查
+│   └── 學術錨點：GitHub 開源倉庫 & Zenodo 國際永久識別碼 (DOI: 10.5281/zenodo.22000044)
+│
+├── 🩺 中觀層級：地方級實體場域驗證 (Local Clinical PoC)
+│   ├── 實施地點：南投草根實踐基地(2026參選南投縣議員)
+│   └── 驗證核心：最小可行性產品 (MVP) 測試、公民良心審查與政治信任重建
+│
+└── 🎵 微觀層級：個體級細胞與神經修復 (Individual Restorative Care)
+    ├── 實體服務(生活服務)：南投專業循環理療(按摩)、醫藥級看護陪伴(看護)
+    └── 聲學處方：Selected Music from Tens of Trillions of Cells(做音樂)
+        └── 具體應用：432Hz/528Hz 頻率、副交感神經調控與神經慢化聲學 (Neural Slow Down)
+</pre>
+
+---------
 
 中文版
 
