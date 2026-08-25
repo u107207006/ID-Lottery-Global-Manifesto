@@ -7,6 +7,32 @@ International Permanent Identifier (DOI): 10.5281/zenodo.22000044
 
 - - - - - -
 
+<pre style="font-family: monospace; font-size: 18px; line-height: 1.3; background-color: #f8f9fa; padding: 20px; border-radius: 5px;">
+TaiwanBeautyNews Social Governance Diagnosis & Body-Mind Rehabilitation Station
+│
+├── 🎯 Core Spirit & Vision: Prioritizing Real Human Happiness, Rendering Partisan Politics Completely Obsolete
+│   ├── Founder: 許纘融 Master Hsu Tsuan-Jung (MS in Pharmaceutics | Clinical Medicine Background)
+│   ├── Core Slogan: 2026 ID Lottery Love: 1 second Change
+│   └── Methodology: Grounded in Western Clinical Medicine & First Principles
+│
+├── 🧬 Macro: Global & National Governance
+│   ├── Core Project: ID Lottery Dual-Track Governance Architecture
+│   ├── Tech Highlights: Verifiable Random Function (VRF), Sybil-Resistant Algorithms
+│   ├── Ethics Guardrail: "Primum Non Nocere" AI Social Ethics Review
+│   └── Academic Anchor: GitHub Open Source & Zenodo Permanent DOI: 10.5281/zenodo.22000044
+│
+├── 🩺 Meso: Local Clinical Proof of Concept (PoC)
+│   ├── Implementation: Nantou Grassroots Base (Running for Nantou County Councilor 2026)
+│   └── PoC Core: MVP Testing, Grassroots Civic Conscience Review & Political Trust Reconstruction
+│
+└── 🎵 Micro: Individual Cell & Neural Restoration (Individual Restorative Care)
+    ├── Physical Service: Professional Circulatory Massage & Medical-Grade Caregiving
+    └── Acoustic Prescription: Selected Music from Tens of Trillions of Cells (Music Production)
+        └── Application: 432Hz/528Hz Frequencies, Parasympathetic Regulation & Neural Slow Down
+</pre>
+
+-----------
+
 中文版
 
 ID Lottery 國家雙軌治理宣言 
