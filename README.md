@@ -328,6 +328,80 @@ Verificación del Libro Blanco Oficial: https://buttery-sunshine-179.notion.site
  
  - - - - - - - - -
 
+給全球社會與國際機構的公開宣言An Open Declaration to the World and Global Institutions
+
+從一位公民、一位遠見者，以及一個致力於公民創新核心家庭的深切呼喚
+
+From a Citizen, a Visionary, and a Dedicated Family of Civic Innovation
+
+標題：超越傳統政黨政治：讓人類更幸福生活，讓我們透過 ID Lottery 架構革新治理體制的八年計畫
+
+Title: Beyond Traditional Politics: Ensuring a Happier Life for Humanity, Our 8-Year Plan to Revolutionize Governance via the ID Lottery Framework
+
+發布日期：2026年8月8日 / Release Date: August 8, 2026 
+
+致全球社群、所有公民與國際機構：
+
+To the Global Community, Fellow Citizens, and International Institutions,
+
+我們以百分之百的坦誠、堅定不移的自信，以及一顆充滿健康與喜悅的心向您寫下這封宣言。我們並非職業政客，也沒有億萬身價。在傳統政黨政治的眼光中，我們只是平凡的公民——一位深耕健康與聲學的實踐者、兩位專注的年輕研究員，以及一個堅信誠實、生命力與真正幸福的家庭。
+
+人類歷史上的偉大變革，極少出自既得利益的菁英階層。我們太久以來，深刻承受了政黨惡鬥與權力爭奪的苦楚；歷史證明，真正的改變總是始於那些擁有洞察體制失效的清晰視野、並具備勇氣去建立更好事物的平凡大眾。今天，放眼全球，當自私自利的政黨掌權者將影響力、法律與公職化為謀取政黨肥貓與少數人私利的工具時，大眾對公共體制的信任正不斷崩解。人類值得擁有一個能真正反映我們集體善意與智慧的治理體系。
+
+願景：ID Lottery 治理架構
+
+The Vision: The ID Lottery Governance Framework
+
+多年來，我們核心團隊一直在開發, 測試並完善一個全新的治理框架：ID Lottery 系統（身分抽籤系統）。
+
+根植於古代民主的抽籤治國原則（Sortition），並輔以現代科技的透明化機制，ID Lottery 系統將人類的貪婪、金錢門檻與政治操弄從公共行政中徹底剔除。它將絕對的公平、真實的代表性以及體制的正直完整性歸還給社會。這絕非空洞的理論夢想，而是一份可驗證、適用而且可執行的全球民主演化藍圖。
+
+路線圖：八年具體實踐承諾
+
+The Roadmap: An 8-Year Actionable Commitment
+
+為了證明這項倡議務實、扎實且真誠，我們正式宣布在台灣展開分階段的政治參與，作為全球治理創新在真實世界中的實地驗證：
+
+第一階段（63歲 ｜ 南投縣議員候選人）： 將 ID Lottery 架構引入地方治理，為基層公民誠信建立基準。
+
+第二階段（67歲 ｜ 南投縣長候選人）： 實施地方行政轉型，為體制創新打造區域示範區。
+
+第三階段（71歲 ｜ 總統候選人）： 將 ID Lottery 系統推向國家舞台，作為全球民主改革的模範。
+
+年齡絕非障礙；經驗、身體的活力與不屈的信念才是真正的資產。我們已做好充分準備，奉獻我們的生命與精力來捍衛這套系統。在物質財富上，我們或許是全球最簡樸、最窮的現代競選團隊之一；但在為全人類開創全新全球治理框架的道路上，我們引以為傲，身為先驅。
+
+發出全球參與的邀請A Global Call for Engagement
+
+我們誠摯邀請全球智庫、專精於治理與政治科學的學術機構、國際公民組織以及世界各地的公民，特別是善良的你，共同審視、挑戰並參與合作 ID Lottery 架構。
+
+我們絕非在玩弄政黨政治的遊戲。我們是以最嚴肅的態度來修復破碎的體系，並帶著樂觀、團結與喜悅向前邁進。
+
+謹上，懷著愉快與謙卑之心，
+
+Sincerely, cheerfully, and humbly,
+
+「最幸福的台灣，2034全球最窮的總統」The happiest Taiwan, the poorest president in the world in 2034.El Taiwán más feliz, el presidente más pobre del mundo en 2034.
+
+ID Lottery 核心倡議團隊 / The ID Lottery Core Initiative Team
+
+許纘融 (Mo Li) —— 創辦人暨首席先驅 / Founder & Lead Pioneer
+
+許騰 —— 共同創辦人暨邏輯驗證負責人 / Co-Founder & Logic Validation Lead
+
+許齡 —— 共同創辦人暨媒體與聲學設計負責人 / Co-Founder & Media & Sound Design Lead
+
+南投，台灣 ｜ 2026年8月8日 / Nantou, Taiwan | August 8, 2026
+
+官方連結與可驗證資源 / Official Links & Verifiable Resources:
+
+官方網站 Official Website: https://www.taiwanbeautynews.com/
+
+GitHub 儲存庫 GitHub Repository: https://github.com/u107207006/ID-Lottery-Global-Manifesto
+
+官方白皮書驗證 Official Whitepaper Verification: https://buttery-sunshine-179.notion.site/TaiwanBeautyNews-ID-Lottery-Official-Whitepaper-Verifiable-v2026-1-3485d896f67280bab571c6183827c788
+
+ --------------
+
 Subject: A Vision for Human-Centric Governance & Tools: An Open Letter to Ivan Zhao
 
 Dear Ivan,
