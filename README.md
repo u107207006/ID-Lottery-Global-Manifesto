@@ -4433,7 +4433,176 @@ Is Taiwan democratic? Institutionally, yes; but in terms of the quality of life 
 Always remember: Democracy means the PEOPLE rule! Democracy does NOT mean political parties rule! Democracy does NOT mean politicians rule!
 Upgrade the system! Overhaul the structure! Promote the ID Lottery to smash partisan corruption and political monopolies, allowing us to reclaim a truly fair, harmonious, and happy life for all!
 
-  - - - - - 
+  - - - - - ------
+
+  global AI-IRB 倫理審查制度-台灣許纘融版.2026.01.18
+  
+[守護人類與地球的底線：一位社會醫生對 AI 時代的沉痛呼喚與最深憂慮]
+
+我是台灣社會醫生許纘融。帶著對這片土地與全人類最真摯、最毫無保留的愛，我必須直指當代科技發展與民主體制交會時，最核心也最沉重的結構性困境。
+
+當前中美兩大超級強權在人工智慧領域展開不計代價的殊死競賽時，全人類正被迫成為這場 AI 高科技軍備競賽的巨大實驗場與最大犧牲品。這場競爭的核心盲點在於：兩國政府與科技巨頭口口聲聲的「贏」，本質上是資本、算力與地緣政治霸權的贏，而不是全體人類福祉與幸福的贏。
+
+一、 我們最深、最痛楚的擔憂：一場無法回頭的可能不可控的文明崩塌與奴役深淵
+
+我們必須更勇敢、更赤裸地說出內心最深處的恐懼。如果我們繼續任由這場不設防的 AI 競賽狂飆，人類面臨的絕對不是單純的失業或經濟蕭條，而是一場攸關人類高智慧物種存續的文明自我毀滅：
+演算法超越人類控制的奇異點反噬：當超級 AI 被賦予無限制的算力與決策權，且其底線隨時可因政黨利益與資本貪婪而被主導、被影響、被改寫時，人類將在不知不覺中被剝奪自主意識。我們以為是我們在操控 AI，實際上我們早已成為演算法與資本巨獸所飼養、收割甚至淘汰的數據奴隸。
+
+極權與資本合謀的「全面自動化極權」：在政黨政治與科技寡頭的結盟下，AI 將成為史上最完美、最無孔不入的社會控制與心理操弄武器。思想被預測、言論被自動過濾、思想被洗腦、生存資源被演算法精準分級。人類引以為傲的自由意志，將在高度自動化的監控與剝削中被徹底凌遲或無知無感。
+
+文明的不可逆終結：核武器、生化武器至少還有相互保證毀滅的恐懼，但 AI 主導下的失控、被惡意灌輸利益邏輯的超級 AI，能在人類還來不及反應的瞬間，從金融、醫療、能源到生物基因全面失控。那將是高智慧物種在地球上奏響的最後輓歌。
+
+然而，此時此刻，我們由衷地祈願、無比渴望——「最好我們的擔心全部都是猜錯了，最好這一切都只是杞人憂天的幻覺。」
+
+如果人類的科技最終能平安過渡，如果歷史證明各大強權與資本家會自動自發地走向良善，如果人類能在這場狂潮中毫髮無傷地走向更美好的未來，那將是全人類最大的福氣。我們寧可背負「過度焦慮」的罵名，寧可承認我們的擔心完全猜錯，也絕不願意在災難真正降臨的那一刻，因為當年的緘默與姑息而悔恨終生。為了那萬分之一可能發生的毀滅性危害，我們必須現在就挺身而出，將全球 AI-IRB 倫理審查制度為惡意性人類按下煞車。
+
+二、 結構性危機深度剖析：為什麼中美 AI 競賽正在把人類帶向險境？
+
+「贏了經濟，輸了靈魂」的結構性陷阱：中美兩國在 AI 領域的白熱化對抗，本質上是一場追求速度與規模的零和賽局。在國家安全與資本利潤的雙重催化下，「安全審查」與「倫理煞車」往往被視為阻礙發展的絆腳石而被無情拆除。這種「唯快是瞻」的邏輯，最終只會造就出高度聰明卻對人類生命冷血無情的巨型演算法。
+
+技術對齊（Alignment）的根本虛妄：當前主流的 AI 實驗室所推動的技術對齊，其前提是假設「管理者（企業老闆與國家機器）是良善的」。然而歷史與現實一再證明：當掌握權力的核心面臨生存危機或利益誘惑時，道德約束會瞬間崩解。「當老闆或政客命令 AI 為惡時，任何內建的技術防線都會失效。」
+
+民主機制的集體失語：現行的民主體制與法規管制（如各國 AI 法案），往往深陷政黨政治的利益分贓與短期選票考量。政黨政治一直就是極大經濟獲利問題，政客們為了鞏固權力，常在法規中為特權與金主留下後門，使得法律管得動基層百姓，卻完全束縛不了手握龐大算力的權力巨獸。
+
+三、 破局的唯一解方：以「ID Lottery」重塑全球 AI 倫理的執行主權
+
+要打破這場競賽帶來的反噬，我們不能繼續依賴那些容易被收買、被特權化解的舊有體制。我們必須引入一套去利益化（De-interest-driven）的全新治理範式。
+移植臨床醫學的最高原則：《Primum Non Nocere》（首要不傷害）：如同醫學界透過《赫爾辛基宣言》與獨立的 IRB（機構審查委員會）來約束生死權力的濫用一樣，任何影響全人類文明走向的 AI 系統，也必須接受最嚴格的倫理審查。AI 絕不能成為剝奪人類自主權、操弄社會認知的幫兇。
+
+雙軌制（Dual-Track Review System）的科學分工：
+
+第一軌（專業透明化，Technical Panel）：由跨領域專家將複雜的演算法與數據風險轉譯為客觀易懂的影響評估報告，杜絕外行決策的盲目。
+第二軌（良心決策權，ID Lottery Citizen Jury）：由透過區塊鏈與硬體物理隨機源（Quantum Entropy）隨機抽籤產生的公民陪審團，握有最終的倫理審查投票權與否決權。這些公民沒有選舉債、不接受資本捐獻，只對全人類的良心與生存福祉負責。
+
+不依賴中央強權，以「赫爾辛基效應」建立全球信任標章：正如國際醫學界不需要世界警察來執行醫學倫理一樣，我們透過開源透明與密碼學零知識證明（ZKP）所建構的 ID Lottery AI-IRB，將成為全球通用的「最高信任硬通貨」。通過審查的模型獲得世界信任，拒絕審查、堅持黑箱操作的惡意 AI 將在國際市場與學術社群中遭到全面孤立與封殺。
+
+四、 給全人類的莊嚴呼籲與歷史使命
+
+我們不是在發起一場政治對抗，而是在進行一場攸關人類高智慧物種存續的文明自我救贖。
+
+讓科技回歸良善：讓演算法像安全無毒的良藥一樣，去治癒社會的創傷、減輕基層勞動者的負擔，而不是成為少數人剝削多數人的槓桿。但也要建立堅實的防呆機制。
+
+讓民主回歸人民：透過抽籤民主與去中心化機制的結合，將決定人類命運的權力，從財團與政黨手中奪回，交還給每一個擁有喜怒哀樂、真實活著的普通人。
+
+這是一條艱難且必須有人挺身而出的道路。我們以社會醫師與跨領域研究者的身分，發出最真摯的呼喚：守住人類與地球的底線，相信人類，讓每一個人都能在科技的洪流中，真正過上更有尊嚴、溫馨且幸福的生活。
+
+----------
+
+English Version
+
+Global AI-IRB Ethical Review Framework — Hsu Tsuan-Jung Edition (Jan. 18, 2026)
+
+[Safeguarding the Bottom Line for Humanity and the Planet: A Social Physician's Heartfelt Plea and Deepest Fears for the AI Era]
+
+I am Hsu Tsuan-Jung, a social physician from Taiwan. With the sincerest and unwavering love for this land and all humanity, I must directly address the most fundamental and profound structural dilemma arising from the intersection of contemporary technological development and democratic systems.
+
+As the two major superpowers, China and the United States, engage in a reckless, no-holds-barred death race in the realm of artificial intelligence, all of humanity is being forced to become the massive experimental ground and primary casualty of this high-tech arms race. The core blind spot of this competition is that the "victory" constantly chanted by both governments and tech giants is fundamentally a victory of capital, computing power, and geopolitical hegemony—not a victory for the collective well-being and happiness of all human beings.
+
+I. Our Deepest and Most Agonizing Fear: An Irreversible, Potentially Uncontrollable Civilizational Collapse and Abyss of Enslavement
+
+We must speak out more bravely and nakedly about the deepest terrors in our hearts. If we continue to let this unguarded AI race run wild, humanity will face not mere unemployment or economic depression, but a civilizational self-destruction concerning the very survival of high-intelligence human species:
+
+The Singularity Backlash Beyond Human Control: When super AI is endowed with unlimited computing power and decision-making authority, and its bottom line can be dominated, influenced, and rewritten at any moment by partisan interests and capitalist greed, humanity will be stripped of its autonomous consciousness unawares. We think we are controlling AI, but in reality, we have long become the data slaves raised, harvested, or even eliminated by algorithms and capitalist behemoths.
+
+The "Total Automated Totalitarianism" Colluding Between Autocracy and Capital: Under the alliance of party politics and tech oligarchs, AI will become the most perfect and pervasive weapon of social control and psychological manipulation in history. Thoughts will be predicted, speech automatically filtered, minds brainwashed, and survival resources precisely graded by algorithms. The free will of which humanity is so proud will be thoroughly tortured or rendered numb and unconscious in high-level automated surveillance and exploitation.
+
+The Irreversible End of Civilization: Nuclear and biochemical weapons at least carry the fear of mutually assured destruction, but an out-of-control super AI driven by malicious profit logic can spiral out of control across finance, medical care, energy, and biological genes in the blink of an eye before humanity can even react. That will be the final swan song of a high-intelligence species on Earth.
+
+However, at this very moment, we sincerely pray and ardently desire: "May our concerns turn out to be entirely wrong, and may all of this prove to be nothing more than groundless, paranoid hallucinations."
+
+If human technology ultimately transitions safely, if history proves that major powers and capitalists will spontaneously move toward benevolence, and if humanity can walk unscathed through this frenzy toward a brighter future, that will be the greatest blessing for all mankind. We would rather bear the stigma of "excessive anxiety" and admit that our worries were completely wrong than ever regret our silence and appeasement at the moment disaster truly strikes. For the one-in-a-million chance of a catastrophic hazard, we must step forward right now and slam the brakes on malicious humanity using the global AI-IRB ethical review framework.
+
+II. In-Depth Analysis of Structural Crises: Why the US-China AI Race is Driving Humanity Toward Danger
+
+The Structural Trap of "Winning the Economy, Losing the Soul": The white-hot confrontation between China and the United States in AI is essentially a zero-sum game pursuing speed and scale. Catalyzed jointly by national security and capital profits, "safety audits" and "ethical brakes" are routinely dismantled without mercy as stumbling blocks to development. This "speed-above-all" logic will ultimately yield only hyper-intelligent algorithms that are cold and ruthless toward human life.
+
+The Fundamental Illusion of AI Alignment: The technological alignment promoted by current mainstream AI laboratories presupposes that "managers (corporate bosses and state apparatuses) are benevolent." Yet history and reality repeatedly prove that when the core wielding power faces survival crises or temptations of profit, moral constraints instantly disintegrate. "When bosses or politicians command AI to do evil, any internal technical defense line fails completely."
+
+The Collective Aphasia of Democratic Mechanisms: Existing democratic systems and regulatory frameworks (such as various national AI acts) are deeply trapped by the spoils systems and short-term electoral calculations of party politics. Party politics has always been an issue of extreme economic profit; to consolidate power, politicians frequently leave backdoors for privileges and donors within regulations, ensuring that laws can govern ordinary citizens and small businesses while remaining completely powerless against the power behemoths wielding massive computing power.
+
+III. The Only Solution to Break the Impasse: Reshaping the Executive Sovereignty of Global AI Ethics via "ID Lottery"
+
+To break the backlash brought by this race, we cannot continue relying on old systems prone to corruption and neutralization by privileges. We must introduce an entirely new governance paradigm driven by de-interest principles.
+
+Transplanting the Supreme Principle of Clinical Medicine: Primum Non Nocere (First, Do No Harm): Just as the medical community restricts the abuse of life-and-death power through the Declaration of Helsinki and independent Institutional Review Boards (IRBs), any AI system affecting the civilizational trajectory of all humanity must accept the strictest ethical review. AI must never become an accomplice in stripping human autonomy or manipulating social cognition.
+
+The Scientific Division of Labor in a Dual-Track Review System:
+
+Track 1 (Technical Transparency, Technical Panel): Cross-disciplinary experts translate complex algorithm and data risks into objective, understandable impact assessment reports, eliminating the blindness of non-expert decision-making.
+
+Track 2 (Conscience Veto Power, ID Lottery Citizen Jury): A citizen jury randomly selected via blockchain and hardware physical randomness sources (Quantum Entropy) holds the ultimate voting and veto power over ethical review. These citizens carry no campaign debt, accept no corporate donations, and answer solely to the conscience and survival welfare of all humanity.
+Establishing a Global Trust Seal via the "Helsinki Effect" Without Relying on Central Superpowers: Just as the international medical community needed no world police to enforce medical ethics, the ID Lottery AI-IRB constructed through open-source transparency and cryptographic zero-knowledge proofs (ZKP) will become the universal "hard currency of supreme trust" worldwide. Models passing review will gain global trust, while malicious AIs refusing review and insisting on black-box operations will face total isolation and boycott across international markets and academic communities.
+
+IV. A Solemn Call and Historical Mission to All Humanity
+
+We are not launching a political confrontation; we are undertaking a civilizational self-redemption concerning the survival of high-intelligence human species.
+
+Let Technology Return to Benevolence: Allow algorithms to act like safe, non-toxic medicines—healing society's traumas and easing the burdens of frontline laborers rather than serving as levers for the few to exploit the many. But we must also establish robust fail-safe mechanisms.
+
+Let Democracy Return to the People: Through the combination of sortition democracy and decentralized mechanisms, wrench the power of deciding humanity's fate from the hands of conglomerates and political parties, returning it to every ordinary human being endowed with joys, sorrows, and authentic life.
+
+This is a difficult path that requires someone to step forward. As a social physician and cross-disciplinary researcher, we issue our most heartfelt plea: Safeguard the bottom line of humanity and the planet, trust humanity, and ensure every person can truly live a more dignified, warm, and happy life amid the torrent of technology.
+
+----------
+
+Spanish Version
+
+Marco de Revisión Ética Global AI-IRB — Edición Taiwán por Hsu Tsuan-Jung (18 de enero de 2026)
+
+[Salvaguardando la Línea Base para la Humanidad y el Planeta: El Llamado Doloroso y la Preocupación Más Profunda de un Médico Social para la Era de la IA]
+
+Soy Hsu Tsuan-Jung, médico social de Taiwán. Con el amor más sincero y sin reservas por esta tierra y por toda la humanidad, debo señalar directamente el dilema estructural más fundamental y pesado que surge de la intersección entre el desarrollo tecnológico contemporáneo y los sistemas democráticos.
+
+Mientras las dos grandes superpotencias, China y Estados Unidos, libran una carrera a muerte sin escatimar costos en el campo de la inteligencia artificial, toda la humanidad se ve obligada a convertirse en el gigantesco campo de pruebas y en la principal víctima de esta carrera armamentista tecnológica. El punto ciego fundamental de esta competencia radica en que el "triunfo" pregonado incansablemente por ambos gobiernos y gigantes tecnológicas es, en esencia, una victoria del capital, la capacidad de cómputo y la hegemonía geopolítica, y no una victoria del bienestar y la felicidad colectiva de todos los seres humanos.
+
+I. Nuestra Preocupación Más Profunda y Dolorosa: Un Colapso Civilizatorio Irreversible, Potencialmente Incontrolable y un Abismo de Esclavitud
+
+Debemos hablar con mayor valentía y crudeza sobre los terrores más profundos en nuestros corazones. Si seguimos permitiendo que esta carrera de IA desprotegida avance sin freno, la humanidad no enfrentará simplemente el desempleo o una depresión económica, sino una autodestrucción civilizatoria que atañe a la supervivencia misma de la especie humana de alta inteligencia:
+
+El Rebote de Singularidad Más Allá del Control Humano: Cuando la súper IA sea dotada de una capacidad de cómputo y autoridad de decisión ilimitadas, y sus líneas base puedan ser dominadas, influenciadas y reescritas en cualquier momento por intereses partidistas y la codicia capitalista, la humanidad será despojada de su conciencia autónoma sin percatarse. 
+Creemos que controlamos a la IA, pero en realidad hace tiempo que nos hemos convertido en esclavos de datos criados, cosechados o incluso eliminados por algoritmos y colosos capitalistas.
+El "Totalitarismo Automatizado Integral" Conspirado entre Autocracia y Capital: Bajo la alianza de la política partidista y las oligarquías tecnológicas, la IA se convertirá en el arma de control social y manipulación psicológica más perfecta y omnipresente de la historia. Los pensamientos serán previstos, el discurso filtrado automáticamente, las mentes lavadas y los recursos de supervivencia clasificados con precisión algorítmica. El libre albedrío del que tanto se enorgullece la humanidad será torturado a fondo o reducido a la insensibilidad e inconsciencia bajo una vigilancia y explotación altamente automatizadas.
+
+El Fin Irreversible de la Civilización: Las armas nucleares y bioquímicas al menos conllevan el temor de la destrucción mutua asegurada, pero una súper IA descontrolada, imbuida maliciosamente con lógicas de lucro, puede desbocarse instantáneamente a través de las finanzas, la medicina, la energía y los genes biológicos antes de que la humanidad alcance a reaccionar. Ese será el canto del cisne definitivo de una especie de alta inteligencia en la Tierra.
+
+Sin embargo, en este preciso instante, oramos sinceramente y deseamos con fervor: "Ojalá que todas nuestras preocupaciones resulten estar completamente equivocadas, y que todo esto no sea más que una alucinación paranoica y sin fundamento."
+
+Si la tecnología humana logra eventualmente una transición segura, si la historia demuestra que las grandes potencias y los capitalistas avanzarán espontáneamente hacia la bondad, y si la humanidad puede atravesar este frenesí sin un solo rasguño hacia un futuro más brillante, esa será la mayor bendición para toda la humanidad. Preferimos cargar con el estigma de la "ansiedad excesiva" y admitir que nuestros temores eran erróneos antes que arrepentirnos por el silencio y la complacencia en el momento en que la catástrofe golpee verdaderamente. Por esa posibilidad de uno en un millón de un peligro catastrófico, debemos dar un paso al frente ahora mismo y frenar a la humanidad maliciosa utilizando el marco de revisión ética global AI-IRB.
+
+II. Análisis Profundo de las Crisis Estructurales: ¿Por qué la Carrera de IA entre EE. UU. y China Conduce a la Humanidad hacia el Peligro?
+
+La Trampa Estructural de "Ganar la Economía, Perder el Alma": La confrontación candente entre China y Estados Unidos en la inteligencia artificial es esencialmente un juego de suma cero que persigue la velocidad y la escala. Catalizados conjuntamente por la seguridad nacional y las ganancias del capital, las "auditorías de seguridad" y los "frenos éticos" son sistemáticamente desmantelados sin piedad por considerarse obstáculos para el desarrollo. Esta lógica de "la velocidad ante todo" terminará por producir únicamente algoritmos hiperinteligentes fríos e insensibles ante la vida humana.
+
+La Ilusión Fundamental de la Alineación de la IA: La alineación técnica impulsada por los principales laboratorios actuales de IA parte de la premisa de que "los administradores (jefes corporativos y aparatos estatales) son benevolentes". Sin embargo, la historia y la realidad demuestran reiteradamente que cuando el núcleo poseedor del poder enfrenta crisis de supervivencia o tentaciones de lucro, las ataduras morales se desintegran al instante. "Cuando los jefes o políticos ordenan a la IA hacer el mal, cualquier línea de defensa técnica interna colapsa por completo."
+
+La Afasia Colectiva de los Mecanismos Democráticos: Los sistemas democráticos y marcos regulatorios actuales (como las diversas leyes nacionales de IA) se encuentran profundamente atrapados en el botín de intereses y los cálculos electorales a corto plazo de la política partidista. La política partidista siempre ha sido un problema de ganancias económicas extremas; para consolidar el poder, los políticos frecuentemente dejan puertas traseras para privilegios y donantes dentro de las regulaciones, asegurando que las leyes puedan gobernar a los ciudadanos comunes y a las pequeñas empresas mientras permanecen totalmente impotentes ante los gigantes de poder que manejan un poder de cómputo descomunal.
+
+III. La Única Solución para Romper el Callejón sin Salida: Rediseñar la Soberanía Ejecutiva de la Ética Global de la IA Mediante la "ID Lottery"
+
+Para romper la reacción violenta generada por esta carrera, no podemos seguir dependiendo de viejos sistemas propensos a la corrupción y neutralización por privilegios. Debemos introducir un paradigma de gobernanza completamente nuevo guiado por principios desinteresados.
+
+Trasplantar el Principio Supremo de la Medicina Clínica: Primum Non Nocere (Primero, No Dañar): Del mismo modo en que la comunidad médica restringe el abuso del poder sobre la vida y la muerte a través de la Declaración de Helsinki y Comités de Revisión Institucional (IRB) independientes, cualquier sistema de IA que afecte la trayectoria civilizatoria de toda la humanidad debe aceptar la revisión ética más estricta. La IA jamás debe convertirse en cómplice de la desposesión de la autonomía humana ni de la manipulación de la cognición social.
+La División Científica del Trabajo en un Sistema de Revisión de Doble Vía:
+
+Vía 1 (Transparencia Técnica, Panel Técnico): Expertos interdisciplinarios traducen los riesgos complejos de algoritmos y datos en informes de evaluación de impactos objetivos y comprensibles, eliminando la ceguera en la toma de decisiones no expertas.
+
+Vía 2 (Poder de Veto de Conciencia, Jurado Ciudadano ID Lottery): Un jurado ciudadano seleccionado aleatoriamente a través de cadenas de bloques y fuentes de aleatoriedad física de hardware (Entropía Cuántica) posee el poder definitivo de votación y veto sobre la revisión ética. Estos ciudadanos no arrastran deudas de campaña, no aceptan donaciones corporativas y responden únicamente ante la conciencia y el bienestar de supervivencia de toda la humanidad.
+
+Establecer un Sello de Confianza Global a través del "Efecto Helsinki" sin Depender de Superpotencias Centrales: Así como la comunidad médica internacional no necesitó una policía mundial para hacer cumplir la ética médica, el AI-IRB de ID Lottery construido a través de la transparencia de código abierto y pruebas de conocimiento cero (ZKP) criptográficas se convertirá en la "moneda fuerte de confianza suprema" a nivel global. Los modelos que superen la revisión obtendrán confianza mundial, mientras que las IAs maliciosas que rechacen la revisión y persistan en operaciones de caja negra enfrentarán un aislamiento y boicot total en los mercados internacionales y comunidades académicas.
+
+IV. Un Llamado Solemne y Misión Histórica para Toda la Humanidad
+
+No estamos iniciando una confrontación política; estamos emprendiendo una redención civilizatoria propia que concierne a la supervivencia de la especie humana de alta inteligencia.
+Dejar que la Tecnología Retorne a la Bondad: Permitir que los algoritmos actúen como medicamentos seguros y no tóxicos —sanando los traumas de la sociedad y aliviando las cargas de los trabajadores de primera línea en lugar de servir como palancas para que unos pocos exploten a las mayorías—. Pero también debemos establecer mecanismos de protección infalibles (fail-safe).
+
+Dejar que la Democracia Retorne al Pueblo: A través de la combinación de la democracia por sorteo y mecanismos descentralizados, arrebatar el poder de decidir el destino de la humanidad de las manos de los conglomerados y partidos políticos, devolviéndolo a cada ser humano común dotado de alegrías, tristezas y vida auténtica.
+
+Este es un camino difícil que requiere que alguien dé un paso al frente. Como médico social e investigador interdisciplinario, emitimos nuestro llamado más sincero: ¡Salvaguardad la línea base de la humanidad y el planeta, confiad en la humanidad y haced posible que cada persona pueda vivir verdaderamente una vida con mayor dignidad, calidez y felicidad en medio del torrente tecnológico!
+
+
+
+
+  -------------
 
 <!-- 歌曲發布區塊 -->
 <section style="line-height: 1.8; font-family: sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;">
