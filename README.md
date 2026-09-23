@@ -6317,6 +6317,44 @@ but the heart of fairness and love."
 
 --------------------
 
+文 / 許纘融（南投縣議員第一選區「南投市、名間鄉」候選人、臨床醫學研究者、社會改革實踐者） 如果要從全球先進民主國家中，選出一個最能狠狠對比、打醒台灣司法的典範，非德國莫屬。
+
+德國對司法的要求，不是「獨立」而已，而是近乎苛刻的「政治潔癖」與「違憲必究」。將台灣數十年來的司法歪風與德國一對比，就會明白台灣的司法人員究竟墮落到何種地步，也讓世人看清這群拿著百姓血汗錢卻甘做政黨打手的「法律權貴」是多麼無恥。
+
+以下這場「台灣司法 vs. 德國司法」的殘酷對比，要讓司法知羞恥，讓人民徹底憤怒而覺醒！
+
+🚨 司法操守與約束的殘酷對比：台灣 vs. 德國
+
+1. 對政治中立的底線：德國「法官零政黨色彩」 vs. 台灣「政黨的白手套」
+   
+德國的作法（不容懷疑的清白）： 在德國，法官和檢察官若想從政或參與政黨活動，必須先辭職或辦理長期停薪留職。德國《法官法》嚴格規定，法官不得參與任何帶有政黨色彩的政治活動。如果有任何檢察官敢公開為特定政黨發聲、辦案大小眼或幫執政黨護航，不用等到人民罵，檢察體系的內部自律與獨立懲戒委員會就會以「嚴重違反法官倫理、破壞憲政秩序」為由，直接拔掉法袍、永久開除，甚至面臨刑事訴追。德國社會絕不容許司法人員有一絲一毫替政黨擦脂抹粉的空間。
+
+台灣的無恥現狀： 反觀台灣，部分檢察官、法官一邊領著納稅人的優渥高薪，一邊在私底下或甚至透過特定媒體、放話管道，明目張膽地為心中主子效命。辦藍不辦綠、或是辦綠不辦藍，雙重標準玩得淋漓盡致。退下來後立刻轉任政務官或接受政黨酬庸，毫無羞恥心可言。把國家法律當成政黨的打擊異己工具，把司法殿堂變成政治分贓的遮羞布。
+
+2. 違法濫權的代價：德國「終身追責、傾家蕩產」 vs. 台灣「官官相護、輕輕放下」
+
+德國的作法（嚴懲不貸的重典）： 德國法律對司法官的「濫權追訴」或「枉法裁判」絕不手軟。如果檢察官明知無罪卻因政治壓力硬要起訴，或者法官故意曲解法律為特定權貴護航，這在德國不只是行政懲處，而是構成刑法上的「剝奪自由罪」或「瀆職罪」。一旦定罪，不僅牢飯吃定、終身不得再碰法律，連過去的退休金全部充公，還要面臨國家與受害人的民事鉅額求償。
+
+台灣的無恥現狀： 在台灣，司法官犯了錯、辦了政治冤獄，頂多在內部評鑑委員會記個申誡、換個地方調職，甚至過一陣子照樣升官發財。「球員兼裁判」的自律委員會永遠是雷聲大雨點小。納稅人花錢養了一群不用為錯誤判決、不用為政治辦案付出一絲代價的「法律巨獸」，害慘無辜百姓，他們卻連一句道歉都沒有。
+
+3. 菁英傲慢的根源：德國「社會歷練、民主防衛」 vs. 台灣「閉門造車、黨國遺毒」
+
+德國的作法（民主防衛機制）： 德國經歷過納粹法西斯的慘痛教訓，因此在二戰後痛定思痛，建立起全世界最嚴格的「戰鬥性民主（Streitbare Demokratie）」。德國的法官選任極度重視社會歷練與民主法治的人權價值，法律是為了捍衛人民與憲法而存在，絕對不是為了維護任何政黨或當權者的政權。
+
+台灣的無恥現狀： 台灣的司法體系至今仍帶有威權時代遺留的「黨國基因」與封閉的官僚體系。這群法律人從小到大只會考試，缺乏社會歷練與對底層百姓的同理心。進了體系後，發現「聽長官的話、看政黨的風向」比伸張正義更能保住自己的仕途。他們自以為是高人一等的知識份子，實際上卻是權力者的奴才、政黨爭權奪利的幫兇。
+
+🔥 怒吼與覺醒：給台灣司法的最後羞恥叩問
+
+當我們把德國法官的風骨與台灣某些司法敗類的嘴臉放在一起檢視，答案昭然若揭：
+
+「德國的司法，是民主的守門人；台灣某些不肖司法，卻是政黨詐騙集團的看門狗。」
+
+拿著全台灣老百姓辛苦加班、繳交的每一塊錢稅金，理應是要維護社會公平正義的司法人員，竟然無恥到甘願成為政黨撕裂社會、掩護貪腐的打手！這是對法治最大的侮辱，也是對全體台灣人民尊嚴的踐踏。
+
+人民還要容忍多久？ 政黨不可能自己清廉，司法也不會主動羞恥。唯有全體台灣人民徹底覺醒，拒絕再被政黨的意識形態綁架，並強力推動「陪審團制度」、「設立有民間陪審與公民組成的鐵腕懲戒委員會」，把那些敢為政黨效命的司法敗類通通依瀆職與叛國罪嚴懲、剝奪終身俸、趕出司法體系，台灣才有見到青天的一天！
+
+
+
 展現出台灣基層改革者敢作敢當、與國際普世價值接軌的宏觀視野與堅定決心！
 
 夠了，停了！為台灣永續司法公平正義的沉痛控訴與覺醒之路
@@ -6339,28 +6377,19 @@ Core Manifesto: I am Healthy, I am Happy, I am Brave
 二、 跨國的對比：德國的法治潔癖 vs. 台灣的黨國遺毒
  
 Cross-National Comparison: Germany’s Judicial Purity vs. Taiwan’s Authoritarian Legacies
-
 政治中立的底線 (The Bottom Line of Political Neutrality)
 
-德國的作法 (Germany)： 德國法官與檢察官若敢參與政黨活動或公開偏袒，輕則拔除法袍、永不錄用，重則以瀆職與違憲罪名科處重刑。政治與司法之間，築起了一道絕不妥協的高牆。
+德國的作法 (Germany)： 德國法官與檢察官若敢參與政黨活動或公開偏袒，輕則拔除法袍、永不錄用，重則以瀆職與違憲罪名科處重刑。政治與司法之間，築起了一道絕不妥協的高牆。(If German judges or prosecutors participate in party activities or show open bias, they face immediate disbarment or severe criminal charges for malfeasance. An uncompromisable wall stands between politics and the judiciary.)
 
-(If German judges or prosecutors participate in party activities or show open bias, they face immediate disbarment or severe criminal charges for malfeasance. An uncompromisable wall stands between politics and the judiciary.)
-
-台灣的現狀 (Taiwan)： 部分司法人員卻在私下與政黨權貴眉來眼去、暗通款曲，把司法殿堂變成了政黨分贓與打擊異己的白手套，毫無羞恥心可言。
-
-(In contrast, some judicial personnel in Taiwan secretly collude with political elites, turning the halls of justice into a white glove for political spoils and suppressing opponents without any sense of shame.)
+台灣的現狀 (Taiwan)： 部分司法人員卻在私下與政黨權貴眉來眼去、暗通款曲，把司法殿堂變成了政黨分贓與打擊異己的白手套，毫無羞恥心可言。(In contrast, some judicial personnel in Taiwan secretly collude with political elites, turning the halls of justice into a white glove for political spoils and suppressing opponents without any sense of shame.)
 
 違法濫權的代價 (The Cost of Illegal Abuse of Power)
 
-德國的作法 (Germany)： 司法官若枉法裁判或因政治壓力濫權起訴，不僅終身監禁、退休金充公，還要面臨鉅額賠償。
+德國的作法 (Germany)： 司法官若枉法裁判或因政治壓力濫權起訴，不僅終身監禁、退休金充公，還要面臨鉅額賠償。(Judges who issue perverted judgments or prosecute out of political pressure face life imprisonment, forfeiture of pensions, and massive compensation claims.)
 
-(Judges who issue perverted judgments or prosecute out of political pressure face life imprisonment, forfeiture of pensions, and massive compensation claims.)
-
-台灣的現狀 (Taiwan)： 體系內部「球員兼裁判」、「官官相護」。犯了錯，調個職、升個官照樣安穩過日，納稅人成了冤大頭，卻無權開除這些失格的法律權貴。
-
-(Taiwan's system suffers from "players acting as referees" and mutual protection. Mistakes result merely in transfers or promotions, leaving taxpayers footing the bill with no power to fire disqualified legal elites.)
-
-三、 為什麼台灣的司法風氣會走到這一步？
+台灣的現狀 (Taiwan)： 體系內部「球員兼裁判」、「官官相護」。犯了錯，調個職、升個官照樣安穩過日，納稅人成了冤大頭，卻無權開除這些失格的法律權貴。(Taiwan's system suffers from "players acting as referees" and mutual protection. Mistakes result merely in transfers or promotions, leaving taxpayers footing the bill with no power to fire disqualified legal elites.)
+
+ 三、 為什麼台灣的司法風氣會走到這一步？
  
 Why Has Taiwan's Judicial Culture Reached This Point?
 
@@ -6379,7 +6408,6 @@ Hsu Tsuan-Hung's Commitment: Courageous Breakthrough, Returning Power to the Peo
 台灣不能再這樣沈淪下去。我們必須斬斷政黨與司法的共生結構，落實以下幾項關鍵改革：
 
 建立鐵腕的公民淘汰機制 (Establish an Iron-Fisted Citizen Ousting Mechanism)： 引進非法律人的社會公正人士參與法官、檢察官評鑑，對違法失職、為政黨效命的司法敗類，永久除籍、追討退休金、追究刑事責任。
-
 全面落實陪審團制度 (Fully Implement the Jury System)： 把事實認定與正義的天秤交回給人民，徹底切斷政治力介入個案的黑手。
 
 拒絕政黨情緒勒索 (Reject Political Party Emotional Blackmail)： 呼籲全體南投鄉親與台灣同胞，看清政黨假民主、真壟斷的詐騙本質。我們不再做政黨的盲目信徒，要做國家的真正主人。
@@ -6393,8 +6421,11 @@ Hsu Tsuan-Hung's Commitment: Courageous Breakthrough, Returning Power to the Peo
 🌐 English Summary for International Friends / 給世界友人的英文簡要說明
 
 Statement from Hsu Tsuan-Hung, Independent Candidate for Nantou County Councilor (Nantou City & Mingjian Township, Taiwan):
+
 "In Taiwan, modern party politics has degenerated into a systemic scam, and a minority of compromised judicial officials—funded by hardworking taxpayers—have willingly become partisan hitmen, protecting political elites while abandoning justice.
+
 By comparing Taiwan's current judicial corruption with Germany’s rigorous standards of political neutrality and severe accountability, we expose how far Taiwan's legal elite has fallen. Enough is enough! We are offering them a final chance to step down with dignity before the public wrath demands total structural dismantling.
+
 As a clinical medical researcher and community practitioner, I am stepping forward as the brave first voice to demand the implementation of jury trials, strict civic-led evaluations, and the total eradication of partisan judicial abuse. By reforming our judiciary and breaking the monopoly of political parties, a better Taiwan will contribute to a more just and beautiful world."
 
 -------------------
