@@ -6315,6 +6315,90 @@ but the heart of fairness and love."
 
 ==============
 
+--------------------
+
+展現出台灣基層改革者敢作敢當、與國際普世價值接軌的宏觀視野與堅定決心！
+
+夠了，停了！為台灣永續司法公平正義的沉痛控訴與覺醒之路
+
+ENOUGH IS ENOUGH! A Painful Accusation and Awakening Path for Taiwan's Sustainable Judicial Justice
+
+文 / 許纘融（南投縣議員第一選區「南投市、名間鄉」候選人、臨床醫學研究者、社會改革實踐者） By Hsu Tsuan-Hung (Candidate for Nantou County Councilor, 1st Constituency: Nantou City & Mingjian Township / Clinical Medical Researcher / Social Reform Practitioner)
+
+一、 核心宣言：我健康，我快樂，我勇敢
+ 
+Core Manifesto: I am Healthy, I am Happy, I am Brave
+
+我健康，我快樂，我勇敢。 身為一個長期在基層守護生命、走過醫學與社會淬煉的實踐者，我站出來，是為了這片土地的未來。然而，當我們首次將德國嚴苛的法治潔癖與台灣的司法現狀做出基礎且殘酷的對比後，我的內心無比沈重，甚至感到深深的難過。
+
+我很誠實地必須指出：台灣有少部分司法人員，拿著全體納稅人辛苦繳交的血汗錢，卻甘願成為政黨偏袒與政治操作的打手。
+
+夠了！停了！你好意思嗎！？ 你們拿著國家的俸祿，卻把法律當成政黨的化妝品與遮羞布，辦藍不辦綠、辦綠不辦藍，雙重標準玩弄正義。你敢做，我們不敢看？ 我們不是不敢看，是給你們自己留一個下台階與改過自新的機會！
+你別以為自己最聰明、最有能耐，可以把人民當成愚弄的對象。時代變了，人民的眼睛是雪亮的。今天，面對這群不法與失格的司法人員，我許纘融誓言做那勇敢站出來的第一人！
+
+二、 跨國的對比：德國的法治潔癖 vs. 台灣的黨國遺毒
+ 
+Cross-National Comparison: Germany’s Judicial Purity vs. Taiwan’s Authoritarian Legacies
+
+政治中立的底線 (The Bottom Line of Political Neutrality)
+
+德國的作法 (Germany)： 德國法官與檢察官若敢參與政黨活動或公開偏袒，輕則拔除法袍、永不錄用，重則以瀆職與違憲罪名科處重刑。政治與司法之間，築起了一道絕不妥協的高牆。
+
+(If German judges or prosecutors participate in party activities or show open bias, they face immediate disbarment or severe criminal charges for malfeasance. An uncompromisable wall stands between politics and the judiciary.)
+
+台灣的現狀 (Taiwan)： 部分司法人員卻在私下與政黨權貴眉來眼去、暗通款曲，把司法殿堂變成了政黨分贓與打擊異己的白手套，毫無羞恥心可言。
+
+(In contrast, some judicial personnel in Taiwan secretly collude with political elites, turning the halls of justice into a white glove for political spoils and suppressing opponents without any sense of shame.)
+
+違法濫權的代價 (The Cost of Illegal Abuse of Power)
+
+德國的作法 (Germany)： 司法官若枉法裁判或因政治壓力濫權起訴，不僅終身監禁、退休金充公，還要面臨鉅額賠償。
+
+(Judges who issue perverted judgments or prosecute out of political pressure face life imprisonment, forfeiture of pensions, and massive compensation claims.)
+
+台灣的現狀 (Taiwan)： 體系內部「球員兼裁判」、「官官相護」。犯了錯，調個職、升個官照樣安穩過日，納稅人成了冤大頭，卻無權開除這些失格的法律權貴。
+
+(Taiwan's system suffers from "players acting as referees" and mutual protection. Mistakes result merely in transfers or promotions, leaving taxpayers footing the bill with no power to fire disqualified legal elites.)
+
+三、 為什麼台灣的司法風氣會走到這一步？
+ 
+Why Has Taiwan's Judicial Culture Reached This Point?
+
+這數十年來的歪風盛行，根源於三個致命病灶：
+
+精英的傲慢與閉門造車 (Elitist Arrogance and Isolation)： 一路考試升學的法律人缺乏社會歷練，自以為高人一等，卻離基層百姓的痛苦越來越遠。
+
+黑箱綁架的升遷文化 (Black-Box Promotion Culture)： 「誰提拔我，我就聽誰的」。行政與政治權力對司法高層人事權的介入，讓許多原本該維護正義的靈魂，向權勢低頭屈服。
+
+缺乏實質的公民監督 (Lack of Substantive Citizen Oversight)： 台灣缺少像英美法系那樣把審判權交給人民的陪審團制度，導致少數不肖司法官能夠聯手政黨，聯手壟斷真相。
+
+四、 許纘融的承諾：勇敢突破，還政於民
+
+Hsu Tsuan-Hung's Commitment: Courageous Breakthrough, Returning Power to the People
+
+台灣不能再這樣沈淪下去。我們必須斬斷政黨與司法的共生結構，落實以下幾項關鍵改革：
+
+建立鐵腕的公民淘汰機制 (Establish an Iron-Fisted Citizen Ousting Mechanism)： 引進非法律人的社會公正人士參與法官、檢察官評鑑，對違法失職、為政黨效命的司法敗類，永久除籍、追討退休金、追究刑事責任。
+
+全面落實陪審團制度 (Fully Implement the Jury System)： 把事實認定與正義的天秤交回給人民，徹底切斷政治力介入個案的黑手。
+
+拒絕政黨情緒勒索 (Reject Political Party Emotional Blackmail)： 呼籲全體南投鄉親與台灣同胞，看清政黨假民主、真壟斷的詐騙本質。我們不再做政黨的盲目信徒，要做國家的真正主人。
+
+「台灣更好，世界也會更美。」 "A better Taiwan makes a more beautiful world."
+
+這不僅是一句口號，更是許纘融參選南投縣議員的初心與誓言。當我們勇敢撕破政黨政治與不法司法的假面具，南投的清流就能匯聚成改變台灣的力量。
+
+請和許纘融一起，為了乾淨的司法、為了下一代的尊嚴，勇敢站出來！
+
+🌐 English Summary for International Friends / 給世界友人的英文簡要說明
+
+Statement from Hsu Tsuan-Hung, Independent Candidate for Nantou County Councilor (Nantou City & Mingjian Township, Taiwan):
+"In Taiwan, modern party politics has degenerated into a systemic scam, and a minority of compromised judicial officials—funded by hardworking taxpayers—have willingly become partisan hitmen, protecting political elites while abandoning justice.
+By comparing Taiwan's current judicial corruption with Germany’s rigorous standards of political neutrality and severe accountability, we expose how far Taiwan's legal elite has fallen. Enough is enough! We are offering them a final chance to step down with dignity before the public wrath demands total structural dismantling.
+As a clinical medical researcher and community practitioner, I am stepping forward as the brave first voice to demand the implementation of jury trials, strict civic-led evaluations, and the total eradication of partisan judicial abuse. By reforming our judiciary and breaking the monopoly of political parties, a better Taiwan will contribute to a more just and beautiful world."
+
+-------------------
+
     - - - - - - - 
 
 台灣 許纘融【心最心醉】無國界心靈純音樂
