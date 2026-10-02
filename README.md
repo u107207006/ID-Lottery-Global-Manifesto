@@ -1,3 +1,57 @@
+網頁置頂公告：《為台灣公義而戰，絕不會向惡意濫訴低頭》
+
+【正式嚴正宣告：守護台灣，守護南投，從擊碎選舉奧步開始】
+
+本人許纘融長期以來秉持ID Lottery 雙軌治理架構與 AI-IRB 倫理多元訴求、為民喉舌的初衷。2026年這次投入南投縣議員選舉，不僅是一場地方服務的延續，更是為了未來更廣大人民權益而戰的前哨站。如果連面對地方政黨集團與有壞心人士的故意抹黑、濫訴，絕不會選擇軟弱、妥協，否則未來又如何站在更高的位置、為全體國民撐起保護傘？
+
+針對近期選戰中可能出現的「惡意檢舉、匿名陷害、刻意挑毛病」等政治干擾，本人在此向所有支持者與各界對手發出最嚴正的宣告：
+
+全面高標，嚴格自律：本團隊所有文宣、網路圖卡、影音及「TaiwanBeautyNews ID Lottery」等多元平台內容，皆以最高法律標準檢視，完成所有法定程序。我們光明磊落，不怕任何人檢驗。
+
+迎戰濫訴，絕不客氣：法律是保護公民與候選人的盾牌，絕不是政黨集團拿來搞政治鬥爭的工具。「凡膽敢惡意捏造、濫行檢舉、意圖使候選人不當選者，本人絕不姑息、絕對追究到底！」
+
+全面啟動法律反擊：本團隊已備妥完整律師陣容。對於任何意圖抹黑、誣告、或透過行政干擾破壞民主選舉的行為，一律直接依法提起刑事告訴（如《刑法》誹謗罪及《公職人員選舉罷免法》第104條等重罪），附帶民事求償，絕不和解、徹底打到底！
+
+政治可以有競爭，但不能沒有底線；民主可以有攻防，但不能容許奧步，政黨派系發動的名嘴側翼政論團，絕不姑息、絕對追究到底！。
+
+今天我們在南投站穩腳步，在台灣站穩腳步，明天我們才能為人民走得更遠。請所有企圖用見不得光手段干擾大局的人看清楚：我們不惹事，但也絕不怕事！
+
+                                  南投縣議員第一選區(南投市+名間鄉)候選人 許纘融 敬上2026.09.30
+
+
+
+---------------
+
+
+
+🇺🇸 《為台灣公義而戰，絕不會向惡意濫訴低頭》英文官方本
+
+Official Statement: Fighting for Taiwan's Justice — Zero Tolerance for Malicious and Frivolous Litigation
+
+[Formal & Strict Declaration: Safeguarding Taiwan and Nantou by Smashing Election Dirty Tricks]
+
+I, Hsu Tuan-Jung (許纘融), have long been dedicated to the original aspiration of serving the public through the "ID Lottery Dual-Track Governance Architecture" and "AI-IRB Ethical Pluralistic Demands." Entering the 2026 Nantou County Council election is not merely a continuation of local service, but a frontline outpost fighting for the broader rights and well-being of the people for the future. If I were to show weakness or compromise in the face of deliberate smearing, malicious reporting, and frivolous litigation by local political factions and bad actors, how could I ever stand at a higher position in the future and provide a protective umbrella for all citizens?
+
+In response to potential political interferences in the upcoming election—such as "malicious reporting, anonymous framing, and deliberate fault-finding"—I hereby issue the most solemn declaration to all supporters and opponents:
+
+1.High Standards and Strict Self-Discipline: All campaign literature, digital graphics, multimedia, and pluralistic platform contents published by our team, including "TaiwanBeautyNews ID Lottery," have been reviewed under the highest legal standards and have completed all statutory procedures. We stand open and aboveboard, unafraid of any scrutiny.
+
+2.Combatting Frivolous Litigation Without Compromise: The law is a shield to protect citizens and candidates, not a tool for political factions to wage political struggles. "Anyone who dares to maliciously fabricate facts, file frivolous reports, or attempt to influence the election outcome with malicious intent will face zero tolerance and relentless legal pursuit from me!"
+
+3.Comprehensive Launch of Legal Counterattacks: Our team has prepared a full legal defense lineup. Any acts intended to smear, commit perjury/false accusation, or disrupt democratic elections through administrative interference will be met with direct criminal prosecution under the law (such as the crime of defamation under the Criminal Code and Article 104 of the Civil and Public Offices Election And Recall Act regarding intent to cause a candidate not to be elected), alongside civil damage claims. We will never settle; we will fight to the very end!
+
+Politics can involve competition, but it must have a bottom line; democracy can involve offense and defense, but dirty tricks will never be tolerated. Any political party faction-backed mouthpieces, sidekicks, and partisan political commentary groups will face zero tolerance and absolute accountability!
+
+Today, we stand firm in Nantou and across Taiwan; tomorrow, we can walk even further for the people. Let those who attempt to use stealthy means to disrupt the bigger picture see clearly: We do not pick fights, but we are never afraid of them!
+
+                                Hsu Tuan-Jung
+                                Candidate for District 1, Nantou County Councilor
+                                September 30, 2026
+
+
+- - - - - - - - - 
+
+
 「許纘融｜2026年11月28日投票日 南投縣議員第一選區(南投市+名間鄉)候選人｜中國醫藥大學製藥碩士、成都中醫藥大學臨床醫學｜台灣首創 ID Lottery 社會解毒計畫」
 
 ## **許纘融｜2026年11月28日投票日 南投縣議員第一選區(南投市+名間鄉)候選人中國醫藥大學製藥碩士、成都中醫藥大學臨床醫學 ｜ 台灣首創 ID Lottery 社會解毒計畫
