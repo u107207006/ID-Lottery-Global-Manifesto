@@ -30,7 +30,7 @@ Official Statement: Fighting for Taiwan's Justice — Zero Tolerance for Malicio
 
 [Formal & Strict Declaration: Safeguarding Taiwan and Nantou by Smashing Election Dirty Tricks]
 
-I, Hsu Tuan-Jung (許纘融), have long been dedicated to the original aspiration of serving the public through the "ID Lottery Dual-Track Governance Architecture" and "AI-IRB Ethical Pluralistic Demands." Entering the 2026 Nantou County Council election is not merely a continuation of local service, but a frontline outpost fighting for the broader rights and well-being of the people for the future. If I were to show weakness or compromise in the face of deliberate smearing, malicious reporting, and frivolous litigation by local political factions and bad actors, how could I ever stand at a higher position in the future and provide a protective umbrella for all citizens?
+I, Hsu Tsuan-Jung (許纘融), have long been dedicated to the original aspiration of serving the public through the "ID Lottery Dual-Track Governance Architecture" and "AI-IRB Ethical Pluralistic Demands." Entering the 2026 Nantou County Council election is not merely a continuation of local service, but a frontline outpost fighting for the broader rights and well-being of the people for the future. If I were to show weakness or compromise in the face of deliberate smearing, malicious reporting, and frivolous litigation by local political factions and bad actors, how could I ever stand at a higher position in the future and provide a protective umbrella for all citizens?
 
 In response to potential political interferences in the upcoming election—such as "malicious reporting, anonymous framing, and deliberate fault-finding"—I hereby issue the most solemn declaration to all supporters and opponents:
 
