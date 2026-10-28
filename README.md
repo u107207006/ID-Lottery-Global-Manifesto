@@ -55,39 +55,51 @@ Today, we stand firm in Nantou and across Taiwan; tomorrow, we can walk even fur
 
 - - - - - - - - - 
 
-🌐 跨越台灣、迎向世界的憲政宣言：終結「政黨帝制萬萬年」，開創人類真正的幸福生活
+🌐 跨越台灣、迎向世界的憲政宣言：終結「政黨帝制萬萬年」，開創人類真正的幸福生活
+
 【歷史時間】 中華民國 115 年（2026 年）10 月 27 日
+
 【宣言發起人】 許纘融（南投縣議員第一選區 ⑧ 號候選人、醫師）、許騰
+
 【發起地點】 臺灣南投
+
 【永久數位存檔】 Zenodo DOI: 10.5281/zenodo.22000044 | GitHub Immutable Archive
 
 📜 導言：超越勝負，為了全人類的幸福與自由
+
 在 2026 年 10 月 27 日這一天，我們於臺灣南投正式發動「告官」行動，向最高檢察署與司法機關遞交刑事告發與暫時處分聲請。
 
 個人有無當選縣議員，在此次歷史洪流中微不足道。我們所追求的，是徹底診斷並根除當代全球民主制度中最大的毒瘤——「政黨帝制萬萬年」。唯有剝除政黨對國家機關的壟斷，讓人民重新掌握法理武器與知情權，人類才能擺脫「定期挑選主子」的宿命，真正過上免於恐懼、公平正義的幸福生活。
 
 🇹🇼 中文正式定義：【政黨帝制萬萬年】
+
 「政黨帝制萬萬年」（一項對當代全球政治偽裝之歷史性判詞）：指當代各大政黨在「民主投票」的外衣掩護下，透過掌控司法檢察（使公務員選擇性不作為、觸犯法規）、收編主流媒體（實施選務資訊戒嚴）以及派系與政二代世襲，實質上竊取了古代帝王「免受問責、資源獨佔、家族世襲」之一切特權。政黨雖不言「帝制」，卻透過體制壟斷，追求權力與利益永續統治（萬萬年）之專制實質。
 
 ⚔️ 獻給世界的「三重憲政診斷」與破局實證
+
 我們以此宣言，向全球學者、改革者與世界領袖提出深刻的體制診斷：1.破除「商業假象」，還原「權力本質」：傳統政治學誤以為政黨只是商業卡特爾；事實上，政黨正在「行帝制之實」——透過掌控司法享有免責特權，透過掌控媒體實施思想戒嚴。2.揭露「偽裝機制」，撕下民主假面具：古代帝王公開宣稱萬歲；現代政黨則隱身於「定期選舉」的制度罅隙中，暗中運作實質上的「萬萬年（Perpetuity）」世襲專制。3.提供「破局實證」，化理論為全球實踐：面對體制沈痾，我們不作消極的旁觀者，而是以實體「告官」訴訟（引用《刑法》第 130 條）結合 Zenodo DOI 與 GitHub 去中心化數位存檔，為全球公民提供了一套不依賴政黨、可被跨國驗證的法理抵抗模組。
 
 🌎 English Manifesto & Global Call to Action
+
 Core Theoretical Framework: Perpetual Party Monarchy
 
 ### 【Global Manifesto: Breaking the Myth of "Perpetual Party Monarchy"】
 
 Date: October 27, 2026  
+
 Initiators: Hsu Tsung-Rung (Candidate No. 8, Nantou, Taiwan), Hsu Teng  
 Digital Anchor: Zenodo DOI 10.5281/zenodo.22000044  
 
 **Formal Definition:**  
+
 "Perpetual Party Monarchy" refers to the systemic phenomenon in modern representative politics where political parties, under the guise of democratic elections, usurp the absolute privileges of traditional monarchies—including legal immunity through captured judiciaries, information control via subdued media, and dynastic power succession. While refraining from explicit monarchical claims, these party cartels covertly institutionalize absolute power to ensure their rule "in perpetuity".
 
 **A Global Call to Leaders, Scholars, and Citizens:**  
+
 We invite global visionaries, legal scholars, and reformers to examine, critique, and expand upon this framework. True human happiness and freedom cannot be achieved under the illusion of periodic voting while systemic corruption reigns. By coupling rigorous legal action (criminal prosecution of dereliction of duty) with decentralized digital archives (GitHub/Zenodo), we offer a universal blueprint for humanity to reclaim public power and dismantle party-state tyranny worldwide.
 
 🏆 結語：留給世界的永恆資產
+
 這份宣言不屬於個人，它屬於全體渴望自由與真理的人民。無論未來的選舉結果如何，2026 年 10 月 27 日在南投播下的法理火種，已經透過國際數位伺服器永遠保留。
 
 我們熱誠邀請全球的專家學者、思想強人與社會賢達共同來完善、對話與擴充這份宣言。讓「政黨帝制萬萬年」成為終結全球政治虛偽的利器，引領人類走向真正民主、公平與幸福的新紀元！
