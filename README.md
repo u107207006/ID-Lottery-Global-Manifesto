@@ -87,7 +87,7 @@ Core Theoretical Framework: Perpetual Party Monarchy
 
 Date: October 27, 2026  
 
-Initiators: Hsu Tsung-Rung (Candidate No. 8, Nantou, Taiwan), Hsu Teng  
+Initiators: Hsu Tsuan-Jung (Candidate No. 8, Nantou, Taiwan), Hsu Teng  
 Digital Anchor: Zenodo DOI 10.5281/zenodo.22000044  
 
 **Formal Definition:**  
