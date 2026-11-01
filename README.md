@@ -59,7 +59,7 @@ Today, we stand firm in Nantou and across Taiwan; tomorrow, we can walk even fur
 
 【歷史時間】 中華民國 115 年（2026 年）10 月 27 日
 
-【宣言發起人】 許纘融（南投縣議員第一選區 ⑧ 號候選人、醫師）、許騰
+【宣言發起人】 許纘融（南投縣議員第一選區 ⑧ 號候選人、社會醫師）、許騰
 
 【發起地點】 臺灣南投
 
