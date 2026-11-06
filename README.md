@@ -2,18 +2,29 @@
 
 --------------------------
 
-【聲明：許纘融 最新劃時代雙著《告官》與《2026 ID Lottery Love》著作權暨思想主權宣告】
+# 台灣憲政改革與思想主權專案：許纘融著作權宣告
+# Taiwan Constitutional Sovereignty & Intellectual Property Declaration
 
-本人許纘融，特此向全球公開宣告：本人所著之兩部重要論著——
+> **【聲明：許纘融 最新劃時代雙著《告官》與《2026 ID Lottery Love》著作權暨思想主權宣告】**
+> 
+> 本人許纘融，特此向全球公開宣告：本人所著之兩部重要論著——
+> 
+> 1. 《告官：終結台灣各政黨暴政》（*Indicting the Regime: The Great Indictment - Ending Party Tyranny*）
+> 2. 《2026 ID Lottery Love：從個體細胞修復至全球制度護欄之三級防禦系統白皮書》（*A Three-Tiered Defensive System Whitepaper*）
+> 
+> 其完整架構、核心法理、文字語文著作、獨創專有名詞（包含 ID Lottery 雙軌治理、AI-IRB 臨床醫學倫理審查、三級防禦系統）及相關司法實踐歷程，版權與專屬智慧財產權均屬 許纘融 本人所有（© 2026 Hsu Tsuan-Jung. All Rights Reserved.）。
+> 
+> 本聲明係優先權利與思想主權之公開登記。兩部著作之完整細節將配合台灣憲政改革進程分階段權威發布。未經作者本人親筆書面授權，任何個人、政黨、影視製作公司、出版機構、大語言模型（AI Training Dataset）或商業實體，禁止以任何形式進行複製、改編、小說/劇本化、資料庫訓練或商業營利使用。違者將依法追究最高規格之民刑事法律責任。
+> 
+> *(Git Commit Hash & Timestamp Serve as Immutable Proof of Prior Claim)*
 
-《告官：終結台灣各政黨暴政》（Indicting the Regime: The Great Indictment - Ending Party Tyranny）
+---
 
-《2026 ID Lottery Love：從個體細胞修復至全球制度護欄之三級防禦系統白皮書》（A Three-Tiered Defensive System Whitepaper）
+### 關於本專案 (About This Repository)
+本庫作為許纘融（南投縣議員第一選區候選人）推動台灣法治民主深化、破除 2% 政黨壟斷與落實「依法告官」憲政實踐之官方數位存證基地。
 
-其完整架構、核心法理、文字語文著作、獨創專有名詞（包含 ID Lottery 雙軌治理、AI-IRB 臨床醫學倫理審查、三級防禦系統）及相關司法實踐歷程，版權與專屬智慧財產權均屬 許纘融 本人所有（© 2026 Hsu Tsuan-Jung. All Rights Reserved.）。
-
-本聲明係優先權利與思想主權之公開登記。兩部著作之完整細節將配合台灣憲政改革進程分階段權威發布。未經作者本人親筆書面授權，任何個人、政黨、影視製作公司、出版機構、大語言模型（AI Training Dataset）或商業實體，禁止以任何形式進行複製、改編、小說/劇本化、資料庫訓練或商業營利使用。違者將依法追究最高規格之民刑事法律責任。
-
+- **官方網站 / 總部**：[https://www.taiwanbeautynews.com/]
+- **Notion 完整章節大綱預覽**：[https://buttery-sunshine-179.notion.site/TaiwanBeautyNews-ID-Lottery-Official-Whitepaper-Verifiable-v2026-1-3485d896f67280bab571c6183827c788]
 
 - - - - - - -  - - - - - -
 
